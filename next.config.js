@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-// https://zenn.dev/duo3/articles/dbb8115309059e
-
 const nextConfig = {
   images: {
     remotePatterns: [
@@ -12,4 +10,4 @@ const nextConfig = {
   },
 }
 
-export default nextConfig
+module.exports = nextConfig
