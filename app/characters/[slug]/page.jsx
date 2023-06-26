@@ -95,14 +95,6 @@ export default async function Page({ params }) {
           <ul className="grid gap-2 sm:grid-cols-2">
             {character_qoutes[0]?.university?.map((item, idx) => {
               return (
-                // <Link
-                //   key={item}
-                //   className="p-2 text-gray-300 bg-gray-800 rounded-md"
-                //   href={item.link}
-                //   target="_blank"
-                // >
-                //   {item.name}
-                // </Link>
                 <div
                   key={item}
                   className="flex flex-col border rounded-lg overflow-hidden bg-white"
@@ -164,7 +156,11 @@ export default async function Page({ params }) {
                       </div>
                       <div className="flex flex-col w-full relative bottom-0">
                         <div className="grid grid-cols-3 border-t divide-x text-[#0ed3cf]  bg-gray-50 dark:bg-transparent py-3">
-                          <a className="cursor-pointer uppercase text-xs flex flex-row items-center justify-center font-semibold">
+                          <Link
+                            href={item.link}
+                            target="_blank"
+                            className="cursor-pointer uppercase text-xs flex flex-row items-center justify-center font-semibold"
+                          >
                             <div className="mr-2">
                               <svg
                                 xmlns="http://www.w3.org/2000/svg"
@@ -178,7 +174,7 @@ export default async function Page({ params }) {
                               </svg>
                             </div>
                             官网
-                          </a>
+                          </Link>
                         </div>
                       </div>
                     </div>
