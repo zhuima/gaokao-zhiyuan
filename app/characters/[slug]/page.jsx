@@ -21,7 +21,7 @@ export async function generateStaticParams() {
 }
 
 export async function getCharacterBySlug(slug) {
-  const data = await fetch(`${endpoint}/characters/${slug}`)
+  const data = await fetch(`${endpoint}/characters/${slug}`, { cache: 'no-store' })
   if (!data.ok) {
     return new Error('Failed to fetch character slug data')
   }
