@@ -14,9 +14,9 @@ import { NextResponse } from 'next/server'
 
 export async function GET(req, { params }) {
   try {
-    console.log('id', params.slug)
+    // console.log('id', params.slug)
     const character = characters.data.find(item => item.slug === params.slug)
-    console.log('character', character)
+    // console.log('character', character)
     if (!character) {
       return new NextResponse('Not Found for me', { status: 404 })
     }

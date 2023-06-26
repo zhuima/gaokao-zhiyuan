@@ -13,7 +13,7 @@ import { getAllCharacters } from '@/lib/characters'
 export default async function Page() {
   const data = await getAllCharacters()
 
-  console.log('source item content', data)
+  // console.log('source item content', data)
   return (
     <main>
       <Container className="grid grid-cols-2 gap-1 py-5 md:grid-cols-3 lg:grid-cols-4">
