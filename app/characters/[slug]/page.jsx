@@ -156,7 +156,7 @@ export default async function Page({ params }) {
                           </span>
                           <p className="flex items-center  text-gray-500">
                             <span className="font-semibold mr-2 text-xs uppercase">
-                              院校地址:
+                              地址:
                             </span>
                             <span>{item.addr}</span>
                           </p>
