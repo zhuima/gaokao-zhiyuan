@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "slug": "beijing",
+      "university": ["部属本科 39", "省属本科 22", "民办本科 6", "专科数 25"],
+      "total": 92,
+      "id": 11,
+      "name": "北京",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "tianjin",
+      "university": ["部属本科 3", "省属本科 16", "民办本科 11", "专科数 26"],
+      "total": 56,
+      "id": 12,
+      "name": "天津",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "hebei",
+      "university": ["部属本科 4", "省属本科 36", "民办本科 21", "专科数 63"],
+      "total": 124,
+      "id": 13,
+      "name": "河北",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "shanxi",
+      "university": ["部属本科 0", "省属本科 26", "民办本科 8", "专科数 48"],
+      "total": 82,
+      "id": 14,
+      "name": "山西",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "neimenggu",
+      "university": ["部属本科 0", "省属本科 15", "民办本科 2", "专科数 37"],
+      "total": 54,
+      "id": 15,
+      "name": "内蒙古",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "liaoning",
+      "university": ["部属本科 5", "省属本科 36", "民办本科 22", "专科数 51"],
+      "total": 114,
+      "id": 21,
+      "name": "辽宁",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "jilin",
+      "university": ["部属本科 2", "省属本科 23", "民办本科 12", "专科数 29"],
+      "total": 66,
+      "id": 22,
+      "name": "吉林",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "heilongjiang",
+      "university": ["部属本科 3", "省属本科 24", "民办本科 12", "专科数 39"],
+      "total": 78,
+      "id": 23,
+      "name": "黑龙江",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "shanghai",
+      "university": ["部属本科 9", "省属本科 22", "民办本科 8", "专科数 24"],
+      "total": 64,
+      "id": 31,
+      "name": "上海",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "jiangsu",
+      "university": ["部属本科 10", "省属本科 40", "民办本科 26", "专科数 90"],
+      "total": 168,
+      "id": 32,
+      "name": "江苏",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "zhejiang",
+      "university": ["部属本科 1", "省属本科 36", "民办本科 21", "专科数 49"],
+      "total": 109,
+      "id": 33,
+      "name": "浙江",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "anhui",
+      "university": ["部属本科 2", "省属本科 29", "民办本科 15", "专科数 75"],
+      "total": 121,
+      "id": 34,
+      "name": "安徽",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "fujian",
+      "university": ["部属本科 2", "省属本科 21", "民办本科 16", "专科数 50"],
+      "total": 89,
+      "id": 35,
+      "name": "福建",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "jiangxi",
+      "university": ["部属本科 0", "省属本科 27", "民办本科 18", "专科数 61"],
+      "total": 106,
+      "id": 36,
+      "name": "江西",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "shandong",
+      "university": ["部属本科 3", "省属本科 42", "民办本科 25", "专科数 83"],
+      "total": 153,
+      "id": 37,
+      "name": "山东",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "henan",
+      "university": ["部属本科 1", "省属本科 37", "民办本科 19", "专科数 99"],
+      "total": 156,
+      "id": 41,
+      "name": "河南",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "hubei",
+      "university": ["部属本科 8", "省属本科 28", "民办本科 32", "专科数 62"],
+      "total": 130,
+      "id": 42,
+      "name": "湖北",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "hunan",
+      "university": ["部属本科 2", "省属本科 29", "民办本科 21", "专科数 78"],
+      "total": 130,
+      "id": 43,
+      "name": "湖南",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "guangdong",
+      "university": ["部属本科 3", "省属本科 35", "民办本科 25", "专科数 93"],
+      "total": 160,
+      "id": 44,
+      "name": "广东",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "guangxi",
+      "university": ["部属本科 0", "省属本科 26", "民办本科 12", "专科数 47"],
+      "total": 85,
+      "id": 45,
+      "name": "广西",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "hainan",
+      "university": ["部属本科 0", "省属本科 5", "民办本科 3", "专科数 13"],
+      "total": 21,
+      "id": 46,
+      "name": "海南",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "chongqing",
+      "university": ["部属本科 2", "省属本科 15", "民办本科 9", "专科数 44"],
+      "total": 70,
+      "id": 50,
+      "name": "重庆",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "sichuan",
+      "university": ["部属本科 6", "省属本科 29", "民办本科 18", "专科数 81"],
+      "total": 134,
+      "id": 51,
+      "name": "四川",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "guizhou",
+      "university": ["部属本科 0", "省属本科 21", "民办本科 8", "专科数 46"],
+      "total": 75,
+      "id": 52,
+      "name": "贵州",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "yunnan",
+      "university": ["部属本科 0", "省属本科 23", "民办本科 9", "专科数 50"],
+      "total": 82,
+      "id": 53,
+      "name": "云南",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "xizang",
+      "university": ["部属本科 0", "省属本科 4", "民办本科 0", "专科数 3"],
+      "total": 7,
+      "id": 54,
+      "name": "西藏",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "gansu",
+      "university": ["部属本科 2", "省属本科 17", "民办本科 3", "专科数 27"],
+      "total": 49,
+      "id": 62,
+      "name": "甘肃",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "qinghai",
+      "university": ["部属本科 0", "省属本科 23", "民办本科 9", "专科数 8"],
+      "total": 12,
+      "id": 63,
+      "name": "青海",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "ningxia",
+      "university": ["部属本科 1", "省属本科 4", "民办本科 0", "专科数 12"],
+      "total": 20,
+      "id": 64,
+      "name": "宁夏",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "xinjiang",
+      "university": ["部属本科 0", "省属本科 28", "民办本科 23", "专科数 36"],
+      "total": 55,
+      "id": 65,
+      "name": "新疆",
+      "description": "",
+      "tags": []
+    }
+  ]
+}

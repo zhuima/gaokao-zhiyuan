@@ -1,0 +1,710 @@
+{
+  "data": [
+    { "character_id": 11, "quote": "北京" },
+    { "character_id": 12, "quote": "天津" },
+    { "character_id": 13, "quote": "河北" },
+    { "character_id": 14, "quote": "山西" },
+    { "character_id": 15, "quote": "内蒙古" },
+    { "character_id": 21, "quote": "辽宁" },
+    { "character_id": 22, "quote": "吉林" },
+    { "character_id": 23, "quote": "黑龙江" },
+    { "character_id": 31, "quote": "上海" },
+    { "character_id": 32, "quote": "江苏" },
+    { "character_id": 33, "quote": "浙江" },
+    { "character_id": 34, "quote": "安徽" },
+    { "character_id": 35, "quote": "福建" },
+    { "character_id": 36, "quote": "江西" },
+    { "character_id": 37, "quote": "山东" },
+    {
+      "character_id": 41,
+      "quote": "河南",
+      "university": [
+        {
+          "link": "http://www.rpc.edu.cn",
+          "name": "铁道警察学院",
+          "addr": "🛂郑州市"
+        },
+        {
+          "link": "http://ncwu.edu.cn",
+          "name": "华北水利水电大学",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.zzu.edu.cn",
+          "name": "郑州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hpu.edu.cn",
+          "name": "河南理工大学",
+          "addr": "焦作市"
+        },
+        {
+          "link": "http://www.zzuli.edu.cn",
+          "name": "郑州轻工业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.haut.edu.cn",
+          "name": "河南工业大学",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.haust.edu.cn",
+          "name": "河南科技大学",
+          "addr": "洛阳市"
+        },
+        {
+          "link": "http://www.zzti.edu.cn",
+          "name": "中原工学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.henau.edu.cn",
+          "name": "河南农业大学",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hist.edu.cn",
+          "name": "河南科技学院",
+          "addr": "新乡市"
+        },
+        {
+          "link": "http://www.hnuahe.edu.cn",
+          "name": "河南牧业经济学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hactcm.edu.cn",
+          "name": "河南中医药大学",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.xxmu.edu.cn",
+          "name": "新乡医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.henu.edu.cn",
+          "name": "河南大学",
+          "addr": "开封市"
+        },
+        {
+          "link": "http://www.henannu.edu.cn",
+          "name": "河南师范大学",
+          "addr": "新乡市"
+        },
+        {
+          "link": "http://www.xytc.edu.cn",
+          "name": "信阳师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zknu.edu.cn",
+          "name": "周口师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.aynu.edu.cn",
+          "name": "安阳师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xctc.edu.cn",
+          "name": "许昌学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nynu.edu.cn",
+          "name": "南阳师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lynu.edu.cn",
+          "name": "洛阳师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sqnc.edu.cn",
+          "name": "商丘师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.huel.edu.cn",
+          "name": "河南财经政法大学",
+          "addr": "⚖️郑州市"
+        },
+        {
+          "link": "http://www.zzia.edu.cn",
+          "name": "郑州航空工业管理学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.huanghuai.edu.cn",
+          "name": "黄淮学院",
+          "addr": "驻马店市"
+        },
+        {
+          "link": "http://www.pdsu.edu.cn",
+          "name": "平顶山学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzut.edu.cn",
+          "name": "郑州工程技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lit.edu.cn",
+          "name": "洛阳理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xxu.edu.cn",
+          "name": "新乡学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xyafu.edu.cn",
+          "name": "信阳农林学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hait.edu.cn",
+          "name": "河南工学院",
+          "addr": "新乡市"
+        },
+        {
+          "link": "http://www.ayit.edu.cn",
+          "name": "安阳工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.haue.edu.cn",
+          "name": "河南工程学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hafu.edu.cn",
+          "name": "河南财政金融学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.nyist.edu.cn",
+          "name": "南阳理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hncj.edu.cn",
+          "name": "河南城建学院",
+          "addr": "平顶山市"
+        },
+        {
+          "link": "http://www.hngazk.edu.cn",
+          "name": "河南警察学院",
+          "addr": "🛂郑州市"
+        },
+        {
+          "link": "http://www.zznu.edu.cn",
+          "name": "郑州师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hhstu.edu.cn",
+          "name": "黄河科技学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.zit.edu.cn",
+          "name": "郑州科技学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzuit.edu.cn",
+          "name": "郑州工业应用技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzife.edu.cn",
+          "name": "郑州财经学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjtu.edu.cn",
+          "name": "黄河交通学院",
+          "addr": "焦作市"
+        },
+        {
+          "link": "http://www.sqgxy.edu.cn",
+          "name": "商丘工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.humc.edu.cn",
+          "name": "河南开封科技传媒学院",
+          "addr": "开封市"
+        },
+        {
+          "link": "http://www.zykj.edu.cn",
+          "name": "中原科技学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.xyu.edu.cn",
+          "name": "信阳学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ayxy.edu.cn",
+          "name": "安阳学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sqmc.edu.cn",
+          "name": "三全学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xxgc.edu.cn",
+          "name": "新乡工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ztbu.edu.cn",
+          "name": "郑州工商学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zueb.edu.cn",
+          "name": "郑州经贸学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sqxy.edu.cn",
+          "name": "商丘学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zbu.edu.cn",
+          "name": "郑州商学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.havust.edu.cn",
+          "name": "河南科技职业大学",
+          "addr": "周口市"
+        },
+        {
+          "link": "http://www.shengda.edu.cn",
+          "name": "郑州升达经贸管理学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sias.edu.cn",
+          "name": "郑州西亚斯学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnzj.ha.cn",
+          "name": "河南职业技术学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.lhvtc.edu.cn",
+          "name": "漯河职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.smxpt.cn",
+          "name": "三门峡职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzrvtc.com",
+          "name": "郑州铁路职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kfu.cn",
+          "name": "开封大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jzu.edu.cn",
+          "name": "焦作大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.pyvtc.cn",
+          "name": "濮阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zepc.edu.cn",
+          "name": "郑州电力高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yrcti.edu.cn",
+          "name": "黄河水利职业技术学院",
+          "addr": "开封市"
+        },
+        {
+          "link": "http://www.xcitc.edu.cn",
+          "name": "许昌职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hciit.edu.cn",
+          "name": "河南工业和信息化职业学院",
+          "addr": "焦作市"
+        },
+        {
+          "link": "http://www.hwec.edu.cn",
+          "name": "河南水利与环境职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.sqzy.com.cn",
+          "name": "商丘职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.pzxy.edu.cn",
+          "name": "平顶山工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zkvtc.edu.cn",
+          "name": "周口职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jyvtc.com",
+          "name": "济源职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnsfjy.edu.cn",
+          "name": "河南司法警官职业学院",
+          "addr": "🛂郑州市"
+        },
+        {
+          "link": "http://www.hbzy.edu.cn",
+          "name": "鹤壁职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnpi.cn",
+          "name": "河南工业职业技术学院",
+          "addr": "南阳市"
+        },
+        {
+          "link": "http://www.jzsz.edu.cn",
+          "name": "焦作师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnjc.edu.cn",
+          "name": "河南检察职业学院",
+          "addr": "⚔️郑州市"
+        },
+        {
+          "link": "http://www.zlxy.cn",
+          "name": "河南质量工程职业学院",
+          "addr": "平顶山市"
+        },
+        {
+          "link": "http://www.techcollege.cn",
+          "name": "郑州信息科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lhmc.edu.cn",
+          "name": "漯河医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nymc.cn",
+          "name": "南阳医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sqyx.edu.cn",
+          "name": "商丘医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xyvtc.cn",
+          "name": "信阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zazy.cn",
+          "name": "郑州工业安全职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yczyxy.com",
+          "name": "永城职业学院",
+          "addr": "商丘市"
+        },
+        {
+          "link": "http://www.hnjmxy.cn",
+          "name": "河南经贸职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hncc.net",
+          "name": "河南交通职业技术学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnac.com.cn",
+          "name": "河南农业职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.zztrc.edu.cn",
+          "name": "郑州旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzyedu.cn",
+          "name": "郑州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnisvc.com",
+          "name": "河南信息统计职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnfvc.edu.cn",
+          "name": "河南林业职业学院",
+          "addr": "洛阳市"
+        },
+        {
+          "link": "http://www.hngm.cn",
+          "name": "河南工业贸易职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnjs.com.cn",
+          "name": "河南建筑职业技术学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://jsxy.anyangedu.com",
+          "name": "安阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xxvtc.com",
+          "name": "新乡职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zmdvtc.cn",
+          "name": "驻马店职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kfvcca.com",
+          "name": "开封文化艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hati.edu.cn",
+          "name": "河南应用技术职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnarti.com",
+          "name": "河南艺术职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnjd.edu.cn/7/list.htm",
+          "name": "河南机电职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hnnvc.edu.cn",
+          "name": "河南护理职业学院",
+          "addr": "安阳市"
+        },
+        {
+          "link": "http://www.xcevc.cn",
+          "name": "许昌电气职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hltn.edu.cn",
+          "name": "河南推拿职业学院",
+          "addr": "洛阳市"
+        },
+        {
+          "link": "http://www.lypt.edu.cn",
+          "name": "洛阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zyedu.org/xxgk/xxjj.htm",
+          "name": "郑州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ayyz.edu.cn",
+          "name": "安阳幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hamc.edu.cn",
+          "name": "河南医学高等专科学校",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.zzcsjr.edu.cn",
+          "name": "郑州财税金融职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nyca.edu.cn",
+          "name": "南阳农业职业学院",
+          "addr": "4141014479"
+        },
+        {
+          "link": "http://www.pymc.edu.cn",
+          "name": "濮阳医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zyz.edu.cn",
+          "name": "驻马店幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.smxcsa.edu.cn",
+          "name": "三门峡社会管理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.henlivtc.com",
+          "name": "河南轻工职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.hasm.edu.cn",
+          "name": "河南测绘职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.zzhvc.com/newViewSingle.aspx?id=10681",
+          "name": "郑州卫生健康职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnwlxy.edu.cn",
+          "name": "河南物流职业学院",
+          "addr": "新乡市"
+        },
+        {
+          "link": "http://www.hngm.cn",
+          "name": "河南地矿职业学院",
+          "addr": "郑州市"
+        },
+        {
+          "link": "http://www.henz.edu.cn",
+          "name": "河南女子职业学院",
+          "addr": "新乡市"
+        },
+        {
+          "link": "http://www.hnwmxy.edu.cn",
+          "name": "河南对外经济贸易职业学院",
+          "addr": "开封市"
+        },
+        {
+          "link": "",
+          "name": "濮阳石油化工职业技术学院",
+          "addr": "4141014713"
+        },
+        {
+          "link": "https://pyshiy.hnszzxx.com/",
+          "name": "招生信息",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nykjzyxydz.com/detail-19.html",
+          "name": "南阳科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lksnzyxy.cn",
+          "name": "兰考三农职业学院",
+          "addr": "开封市"
+        },
+        {
+          "link": "",
+          "name": "汝州职业技术学院",
+          "addr": "4141014716"
+        },
+        {
+          "link": "http://www.lyvcct.cn",
+          "name": "洛阳文化旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zkwl.edu.cn",
+          "name": "周口文理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "",
+          "name": "信阳艺术职业学院",
+          "addr": "4141014752"
+        },
+        {
+          "link": "xyyzyedu.cn",
+          "name": "信阳涉外职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbqcxy.com",
+          "name": "鹤壁汽车工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nyvc.edu.cn",
+          "name": "南阳职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzvcct.edu.cn",
+          "name": "郑州商贸旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzyyzy.edu.cn",
+          "name": "郑州医药健康职业学院",
+          "addr": ""
+        }
+      ]
+    },
+    { "character_id": 42, "quote": "湖北" },
+    { "character_id": 43, "quote": "湖南" },
+    { "character_id": 44, "quote": "广东" },
+    { "character_id": 45, "quote": "广西" },
+    { "character_id": 46, "quote": "海南" },
+    { "character_id": 50, "quote": "重庆" },
+    { "character_id": 51, "quote": "四川" },
+    { "character_id": 52, "quote": "贵州" },
+    { "character_id": 53, "quote": "云南" },
+    { "character_id": 54, "quote": "西藏" },
+    { "character_id": 61, "quote": "陕西" },
+    { "character_id": 62, "quote": "甘肃" },
+    { "character_id": 63, "quote": "青海" },
+    { "character_id": 64, "quote": "宁夏" },
+    { "character_id": 65, "quote": "新疆" }
+  ]
+}
