@@ -451,7 +451,282 @@
         }
       ]
     },
-    { "city_id": 12, "quote": "天津" },
+    {
+      "city_id": 12,
+      "quote": "天津",
+      "university": [
+        {
+          "link": "https://www.nankai.edu.cn",
+          "name": "南开大学",
+          "addr": "南开区"
+        },
+        {
+          "link": "http://www.tju.edu.cn",
+          "name": "天津大学",
+          "addr": "南开区"
+        },
+        {
+          "link": "https://www.cauc.edu.cn",
+          "name": "中国民航大学",
+          "addr": "东丽区"
+        },
+        {
+          "link": "https://www.tust.edu.cn",
+          "name": "天津科技大学",
+          "addr": "河西区/滨海新区"
+        },
+        {
+          "link": "https://www.tiangong.edu.cn",
+          "name": "天津工业大学",
+          "addr": "西青区"
+        },
+        {
+          "link": "https://www.tjut.edu.cn",
+          "name": "天津理工大学",
+          "addr": "西青区"
+        },
+        {
+          "link": "https://www.tjau.edu.cn",
+          "name": "天津农学院",
+          "addr": "西青区"
+        },
+        {
+          "link": "http://www.tmu.edu.cn",
+          "name": "天津医科大学",
+          "addr": "和平区"
+        },
+        {
+          "link": "https://www.tjutcm.edu.cn",
+          "name": "天津中医药大学",
+          "addr": "南开区"
+        },
+        {
+          "link": "https://www.tjnu.edu.cn",
+          "name": "天津师范大学",
+          "addr": "西青区"
+        },
+        {
+          "link": "https://www.tute.edu.cn",
+          "name": "天津职业技术师范大学",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.tjfsu.edu.cn",
+          "name": "天津外国语大学",
+          "addr": "河西区/滨海新区"
+        },
+        {
+          "link": "https://www.tjcu.edu.cn",
+          "name": "天津商业大学",
+          "addr": "北辰区"
+        },
+        {
+          "link": "https://www.tjufe.edu.cn",
+          "name": "天津财经大学",
+          "addr": "河西区"
+        },
+        {
+          "link": "http://www.tjus.edu.cn",
+          "name": "天津体育学院",
+          "addr": "河西区"
+        },
+        {
+          "link": "https://www.tjcm.edu.cn",
+          "name": "天津音乐学院",
+          "addr": "河东区"
+        },
+        {
+          "link": "http://www.tjarts.edu.cn",
+          "name": "天津美术学院",
+          "addr": "河北区"
+        },
+        {
+          "link": "https://www.tcu.edu.cn",
+          "name": "天津城建大学",
+          "addr": "西青区"
+        },
+        {
+          "link": "https://www.tsguas.edu.cn",
+          "name": "天津中德应用技术大学",
+          "addr": "津南区"
+        },
+        {
+          "link": "https://www.tianshi.edu.cn",
+          "name": "天津天狮学院",
+          "addr": "武清区"
+        },
+        {
+          "link": "http://bhws.tjfsu.edu.cn",
+          "name": "滨海外事学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "http://www.tjcma.edu.cn",
+          "name": "天津传媒学院",
+          "addr": "蓟州区"
+        },
+        {
+          "link": "http://www.tjrac.edu.cn",
+          "name": "天津仁爱学院",
+          "addr": "静海区"
+        },
+        {
+          "link": "http://zhujiang.tjufe.edu.cn",
+          "name": "珠江学院",
+          "addr": "宝坻区"
+        },
+        {
+          "link": "http://www.tjtc.edu.cn",
+          "name": "天津市职业大学",
+          "addr": "北辰区"
+        },
+        {
+          "link": "http://www.tjbpi.com",
+          "name": "天津滨海职业学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "",
+          "name": "天津工程职业技术学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "http://www.tbvtc.edu.cn",
+          "name": "天津渤海职业技术学院",
+          "addr": "北辰区"
+        },
+        {
+          "link": "http://www.tjdz.edu.cn",
+          "name": "天津电子信息职业技术学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.suoyuan.com.cn",
+          "name": "天津机电职业技术学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.xdxy.com.cn",
+          "name": "天津现代职业技术学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.tjjingyuan.cn",
+          "name": "天津公安警官职业学院",
+          "addr": "西青区"
+        },
+        {
+          "link": "http://www.tjlivtc.edu.cn",
+          "name": "天津轻工职业技术学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.tcc1955.edu.cn",
+          "name": "天津商务职业学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.tjgfxy.com.cn/tjgfxy/xygk_xyjj.html",
+          "name": "天津国土资源和房屋职业学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "http://www.tjyzh.cn/xxgk.htm",
+          "name": "天津医学高等专科学校",
+          "addr": "河西区"
+        },
+        {
+          "link": "",
+          "name": "天津开发区职业技术学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "http://www.arttj.cn",
+          "name": "天津艺术职业学院",
+          "addr": "河东区"
+        },
+        {
+          "link": "http://www.tttc.edu.cn",
+          "name": "天津交通职业学院",
+          "addr": "西青区"
+        },
+        {
+          "link": "http://www.pctj.edu.cn",
+          "name": "天津工业职业学院",
+          "addr": "北辰区"
+        },
+        {
+          "link": "http://www.tjsyxy.com",
+          "name": "天津石油职业技术学院",
+          "addr": "静海区"
+        },
+        {
+          "link": "http://www.tjcsxy.cn",
+          "name": "天津城市职业学院",
+          "addr": "河东区"
+        },
+        {
+          "link": "http://www.tjtdxy.cn",
+          "name": "天津铁道职业技术学院",
+          "addr": "河北区"
+        },
+        {
+          "link": "http://www.gmtj.com",
+          "name": "天津工艺美术职业学院",
+          "addr": "河北区"
+        },
+        {
+          "link": "http://www.tjchengjian.com",
+          "name": "天津城市建设管理职业技术学院",
+          "addr": "北辰区"
+        },
+        {
+          "link": "http://www.tjbio.cn",
+          "name": "天津生物工程职业技术学院",
+          "addr": "东丽区/河北区"
+        },
+        {
+          "link": "http://www.tjmc.edu.cn",
+          "name": "天津海运职业学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "http://www.tjgbys.com",
+          "name": "天津广播影视职业学院",
+          "addr": "西青区"
+        },
+        {
+          "link": "http://www.tjvcs.cn",
+          "name": "天津体育职业学院",
+          "addr": "静海区"
+        },
+        {
+          "link": "http://www.tqzyxy.com",
+          "name": "天津滨海汽车工程职业学院",
+          "addr": "津南区"
+        },
+        {
+          "link": "",
+          "name": "滨海外事学院",
+          "addr": "滨海新区"
+        },
+        {
+          "link": "http://www.tjcma.edu.cn",
+          "name": "天津传媒学院",
+          "addr": "蓟州区"
+        },
+        {
+          "link": "http://www.tjrac.edu.cn",
+          "name": "天津仁爱学院",
+          "addr": "静海区"
+        },
+        {
+          "link": "http://zhujiang.tjufe.edu.cn",
+          "name": "珠江学院",
+          "addr": "宝坻区"
+        }
+      ]
+    },
     { "city_id": 13, "quote": "河北" },
     { "city_id": 14, "quote": "山西" },
     { "city_id": 15, "quote": "内蒙古" },
