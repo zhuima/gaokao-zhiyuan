@@ -9966,7 +9966,401 @@
       { "link": null, "name": "珠海格力职业学院", "addr": "" },
       { "link": "#mulu", "name": "▲", "addr": "" }
     ] },
-    { "city_id": 45, "quote": "广西", "university": [] },
+    { "city_id": 45, "quote": "广西", "university": [
+      {
+        "link": "http://www.gxu.edu.cn",
+        "name": "广西大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxust.edu.cn",
+        "name": "广西科技大学",
+        "addr": "柳州市 "
+      },
+      {
+        "link": "http://www.gliet.edu.cn",
+        "name": "桂林电子科技大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.glite.edu.cn",
+        "name": "桂林理工大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxmu.edu.cn",
+        "name": "广西医科大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.ymun.edu.cn",
+        "name": "右江民族医学院",
+        "addr": "百色市 "
+      },
+      {
+        "link": "http://www.gxtcmu.edu.cn",
+        "name": "广西中医药大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.glmc.edu.cn",
+        "name": "桂林医学院",
+        "addr": "桂林市 "
+      },
+      {
+        "link": "http://www.gxnu.edu.cn",
+        "name": "广西师范大学",
+        "addr": "桂林市 "
+      },
+      {
+        "link": "http://www.nnnu.edu.cn",
+        "name": "南宁师范大学",
+        "addr": "崇左市 "
+      },
+      {
+        "link": "http://www.gxnun.edu.cn",
+        "name": "广西民族师范学院",
+        "addr": "崇左市 "
+      },
+      {
+        "link": "http://www.hcnu.edu.cn",
+        "name": "河池学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.ylu.edu.cn",
+        "name": "玉林师范学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxau.edu.cn",
+        "name": "广西艺术学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxun.edu.cn",
+        "name": "广西民族大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.bsuc.edu.cn",
+        "name": "百色学院",
+        "addr": "来宾市 "
+      },
+      {
+        "link": "http://www.gxuwz.edu.cn",
+        "name": "梧州学院",
+        "addr": "来宾市 "
+      },
+      {
+        "link": "http://www.gxstnu.edu.cn",
+        "name": "广西科技师范学院",
+        "addr": "来宾市 "
+      },
+      {
+        "link": "http://www.gxufe.edu.cn",
+        "name": "广西财经学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.bbgu.edu.cn",
+        "name": "北部湾大学",
+        "addr": "钦州市 "
+      },
+      {
+        "link": "http://www.guat.edu.cn",
+        "name": "桂林航天工业学院",
+        "addr": "🛂南宁市 "
+      },
+      {
+        "link": "http://www.gltu.edu.cn",
+        "name": "桂林旅游学院",
+        "addr": "🛂南宁市 "
+      },
+      {
+        "link": "http://www.hzxy.edu.cn",
+        "name": "贺州学院",
+        "addr": "🛂南宁市 "
+      },
+      {
+        "link": "http://www.gxjcxy.com",
+        "name": "广西警察学院",
+        "addr": "🛂南宁市 "
+      },
+      {
+        "link": "http://www.gxnzd.edu.cn",
+        "name": "广西农业职业技术大学",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxvnu.edu.cn",
+        "name": "广西职业师范学院",
+        "addr": "南宁市 "
+      },
+      { "link": "http://nnxy.cn", "name": "南宁学院", "addr": "南宁市 " },
+      {
+        "link": "http://www.sszss.com",
+        "name": "北海艺术设计学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.lzhit.edu.cn",
+        "name": "柳州工学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://xshxy.gxun.edu.cn",
+        "name": "相思湖学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxljcollege.cn",
+        "name": "桂林学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxsy.edu.cn",
+        "name": "师园学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://www.gxzyxysy.com",
+        "name": "赛恩斯新医药学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://guit.edu.cn",
+        "name": "桂林信息科技学院",
+        "addr": "桂林市 "
+      },
+      {
+        "link": "http://web.bwgl.cn",
+        "name": "南宁理工学院",
+        "addr": "桂林市 "
+      },
+      {
+        "link": "http://gxufl.edu.cn",
+        "name": "广西外国语学院",
+        "addr": "南宁市 "
+      },
+      {
+        "link": "http://bhc.buaa.edu.cn",
+        "name": "北海学院",
+        "addr": "北海市 "
+      },
+      {
+        "link": "http://www.gxcvuedu.com",
+        "name": "广西城市职业大学",
+        "addr": "崇左市 "
+      },
+      {
+        "link": "http://www.peixianedu.cn",
+        "name": "广西培贤国际职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxcme.edu.cn",
+        "name": "广西机电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxtznn.com",
+        "name": "广西体育高等专科学校",
+        "addr": ""
+      },
+      { "link": "http://www.ncvt.net", "name": "南宁职业技术学院", "addr": "" },
+      {
+        "link": "http://www.gxsdxy.cn",
+        "name": "广西水利电力职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.glnc.edu.cn",
+        "name": "桂林师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxzjy.com",
+        "name": "广西职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.lzzy.net", "name": "柳州职业技术学院", "addr": "" },
+      {
+        "link": "http://www.gxstzy.cn",
+        "name": "广西生态工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxjzy.com",
+        "name": "广西交通职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxic.net",
+        "name": "广西工业职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxibvc.net",
+        "name": "广西国际商务职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lztdzy.com",
+        "name": "柳州铁道职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxjsxy.cn",
+        "name": "广西建设职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxxd.net.cn",
+        "name": "广西现代职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.bhzyxy.net", "name": "北海职业学院", "addr": "" },
+      {
+        "link": "http://www.gxjmzy.com",
+        "name": "广西经贸职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxgsxy.com",
+        "name": "广西工商职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxdlxy.com",
+        "name": "广西电力职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.lcvc.cn", "name": "柳州城市职业学院", "addr": "" },
+      { "link": "http://www.bszyxy.cn", "name": "百色职业学院", "addr": "" },
+      { "link": "http://www.wzzyedu.com", "name": "梧州职业学院", "addr": "" },
+      {
+        "link": "http://www.gxyesf.com",
+        "name": "广西幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxwgy.com.cn",
+        "name": "广西卫生职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxjrxy.com",
+        "name": "广西金融职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxaqzy.cn/ltgk/xyjj.html",
+        "name": "广西安全工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxnrvtc.edu.cn",
+        "name": "广西自然资源职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.qzyz.edu.cn",
+        "name": "钦州幼儿师范高等专科学校",
+        "addr": ""
+      },
+      { "link": null, "name": "广西制造工程职业技术学院", "addr": "" },
+      {
+        "link": "http://www.maiyuesoft.com/zbh/xygk/xxjj.htm",
+        "name": "企业信息",
+        "addr": ""
+      },
+      {
+        "link": "http://gxlvtc.edu.cn",
+        "name": "广西物流职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.fcgzy.edu.cn",
+        "name": "防城港职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxuie.cn",
+        "name": "广西信息职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxngy.cn",
+        "name": "广西农业工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxczyesf.com",
+        "name": "崇左幼儿师范高等专科学校",
+        "addr": ""
+      },
+      { "link": null, "name": "广西质量工程职业技术学院", "addr": "" },
+      {
+        "link": "http://www.glhic.com",
+        "name": "桂林生命与健康职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.guolianweb.com",
+        "name": "桂林山水职业学院",
+        "addr": ""
+      },
+      { "link": "http://www.gxart.cn", "name": "广西演艺职业学院", "addr": "" },
+      {
+        "link": "http://www.tic-gx.com",
+        "name": "广西英华国际职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxgcedu.com",
+        "name": "广西工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxlgxy.com",
+        "name": "广西理工职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxevc.com",
+        "name": "广西经济职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxkjzy.com",
+        "name": "广西科技职业学院",
+        "addr": ""
+      },
+      { "link": null, "name": "广西中远职业学院", "addr": "" },
+      {
+        "link": "http://www.yczyxy-edu.cn",
+        "name": "玉柴职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxltu.edu.cn",
+        "name": "广西蓝天航空职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gxwzyz.com",
+        "name": "梧州医学高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.bhkyxy.com",
+        "name": "北海康养职业学院",
+        "addr": ""
+      },
+      { "link": null, "name": "桂林信息工程职业学院", "addr": "" },
+      { "link": "#mulu", "name": "▲", "addr": "" }
+    ] },
     { "city_id": 46, "quote": "海南", "university": [] },
     { "city_id": 50, "quote": "重庆", "university": [] },
     { "city_id": 51, "quote": "四川", "university": [] },
