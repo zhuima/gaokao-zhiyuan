@@ -1428,7 +1428,423 @@
         }
       ]
     },
-    { "city_id": 14, "quote": "山西", "university": [] },
+    { "city_id": 14, "quote": "山西", "university": [
+      {
+        "link": "http://www.sxu.edu.cn",
+        "name": "山西大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.tyust.edu.cn",
+        "name": "太原科技大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.nuc.edu.cn",
+        "name": "中北大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.tyut.edu.cn",
+        "name": "太原理工大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxau.edu.cn",
+        "name": "山西农业大学",
+        "addr": "晋中市"
+      },
+      {
+        "link": "http://www.sxmu.edu.cn",
+        "name": "山西医科大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.czmc.com",
+        "name": "长治医学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxnu.edu.cn",
+        "name": "山西师范大学",
+        "addr": "临汾市"
+      },
+      {
+        "link": "http://www.tynu.edu.cn",
+        "name": "太原师范学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxdtdx.edu.cn",
+        "name": "山西大同大学",
+        "addr": "大同市"
+      },
+      {
+        "link": "http://www.sxjztc.edu.cn",
+        "name": "晋中学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.czc.edu.cn",
+        "name": "长治学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.ycu.edu.cn",
+        "name": "运城学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xztc.edu.cn",
+        "name": "忻州师范学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxufe.edu.cn",
+        "name": "山西财经大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxtcm.edu.cn",
+        "name": "山西中医药大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.llhc.edu.cn",
+        "name": "吕梁学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.tyu.edu.cn",
+        "name": "太原学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxpc.edu.cn",
+        "name": "山西警察学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxgkd.edu.cn",
+        "name": "山西工程科技职业大学",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxct.edu.cn",
+        "name": "山西工学院",
+        "addr": "朔州市"
+      },
+      {
+        "link": "http://www.sxist.edu.cn",
+        "name": "山西科技学院",
+        "addr": "晋城市"
+      },
+      {
+        "link": "http://www.tit.edu.cn",
+        "name": "太原工业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cusx.edu.cn",
+        "name": "山西传媒学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxit.edu.cn",
+        "name": "山西工程技术学院",
+        "addr": "阳泉市"
+      },
+      {
+        "link": "http://www.sxie.edu.cn",
+        "name": "山西能源学院",
+        "addr": "晋中市"
+      },
+      {
+        "link": "http://www.sxcast.edu.cn",
+        "name": "山西应用科技学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.jzci.edu.cn",
+        "name": "晋中信息学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xdwl-sxnu.cn",
+        "name": "山西师范大学现代文理学院",
+        "addr": "临汾市"
+      },
+      {
+        "link": "http://www.sxjzit.edu.cn",
+        "name": "山西晋中理工学院",
+        "addr": "晋中市"
+      },
+      {
+        "link": "http://www.sxmu-jcc.com",
+        "name": "山西医科大学晋祠学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.schsxy.com",
+        "name": "山西财经大学华商学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxtbu.edu.cn",
+        "name": "山西工商学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.ycptu.edu.cn",
+        "name": "运城职业技术大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxftc.edu.cn",
+        "name": "山西省财政税务专科学校",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.czzy.cn",
+        "name": "长治职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxyz.com",
+        "name": "山西艺术职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxjczy.com.cn",
+        "name": "晋城职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://sxphc.cn/xygk.htm",
+        "name": "山西药科职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.dtmtxy.cn",
+        "name": "大同煤炭职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxjdxy.org",
+        "name": "山西机电职业技术学院",
+        "addr": "长治市"
+      },
+      {
+        "link": "http://www.sxcmvc.com",
+        "name": "山西财贸职业技术学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxly.com.cn",
+        "name": "山西林业职业技术学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxsy.com.cn",
+        "name": "山西水利职业技术学院",
+        "addr": "运城市"
+      },
+      {
+        "link": "http://www.tyutyqc.edu.cn",
+        "name": "阳泉职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lfvtc.cn",
+        "name": "临汾职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxzzy.cn",
+        "name": "山西职业技术学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxjrzyxy.com",
+        "name": "山西金融职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.cntcvc.com",
+        "name": "太原城市职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxptc.com",
+        "name": "山西体育职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxpolice.cn",
+        "name": "山西警官职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxibs.com",
+        "name": "山西国际商务职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://sxlazy.cen114.com",
+        "name": "潞安职业技术学院",
+        "addr": "长治市"
+      },
+      {
+        "link": "http://www.tylyzyxy.com",
+        "name": "太原旅游职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxtvi.com.cn",
+        "name": "山西旅游职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxglzyxy.com.cn",
+        "name": "山西管理职业学院",
+        "addr": "临汾市"
+      },
+      {
+        "link": "http://www.dlxy.sx.sgcc.com.cn",
+        "name": "山西电力职业技术学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.xzvtc.com",
+        "name": "忻州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jzzy.sx.cn",
+        "name": "晋中职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sycnxy.com",
+        "name": "山西运城农业职业技术学院",
+        "addr": "运城市"
+      },
+      {
+        "link": "http://www.sxycys.com",
+        "name": "运城幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxemc.com",
+        "name": "山西经贸职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.szvtc.com",
+        "name": "朔州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxtdzy.cn",
+        "name": "山西铁道职业技术学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.sxjzsf.cn",
+        "name": "晋中师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxyqsz.cn",
+        "name": "阳泉师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxqzy.cn",
+        "name": "山西青年职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.ychlxy.com",
+        "name": "运城护理职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxycsf.com",
+        "name": "运城师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.shuozhou.gov.cn/ztjs/szszz/",
+        "name": "朔州师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.llzy.edu.cn",
+        "name": "吕梁职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dtsz.edu.cn",
+        "name": "大同师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "",
+        "name": "太原幼儿师范高等专科学校",
+        "addr": "4114014628"
+      },
+      {
+        "link": "https://tyyzjy.jysd.com/",
+        "name": "就业信息",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxgy.cn",
+        "name": "山西工程职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "",
+        "name": "长治幼儿师范高等专科学校",
+        "addr": "4114014687"
+      },
+      {
+        "link": "http://www.sgap.edu.cn",
+        "name": "山西通用航空职业技术学院",
+        "addr": "大同市"
+      },
+      {
+        "link": "http://sztczyjsxy.com",
+        "name": "朔州陶瓷职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sxhvc.com",
+        "name": "山西卫生健康职业学院",
+        "addr": "太原市"
+      },
+      {
+        "link": "http://www.vcit.cn",
+        "name": "山西信息职业技术学院",
+        "addr": "临汾市"
+      },
+      {
+        "link": "http://www.sxtwedu.com",
+        "name": "山西同文职业技术学院",
+        "addr": "晋中市"
+      },
+      {
+        "link": "http://www.huaao.sx.cn",
+        "name": "山西华澳商贸职业学院",
+        "addr": "晋中市"
+      },
+      {
+        "link": "http://www.sxlqzy.cn",
+        "name": "山西老区职业技术学院",
+        "addr": "太原市"
+      }
+    ] },
     { "city_id": 15, "quote": "内蒙古", "university": [] },
     { "city_id": 21, "quote": "辽宁", "university": [] },
     { "city_id": 22, "quote": "吉林", "university": [] },
