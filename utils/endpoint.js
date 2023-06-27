@@ -1,1 +1,1 @@
-export const endpoint = 'https://gkzy.ruankao.eu.org/api'
+export const endpoint = 'https://gaokao-zhiyuan.vercel.app/api'
