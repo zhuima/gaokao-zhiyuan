@@ -8578,7 +8578,623 @@
         "addr": "4142014755 孝感市"
       }
     ] },
-    { "city_id": 43, "quote": "湖南", "university": [] },
+    { "city_id": 43, "quote": "湖南", "university": [
+      {
+        "link": "http://www.hnu.edu.cn",
+        "name": "湖南大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.csu.edu.cn",
+        "name": "中南大学",
+        "addr": "长沙市 湘雅医学院"
+      },
+      {
+        "link": "https://xysm.csu.edu.cn/xygk/xyjj1.htm",
+        "name": "湘雅医学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xtu.edu.cn",
+        "name": "湘潭大学",
+        "addr": "湘西州 "
+      },
+      {
+        "link": "http://www.jsu.edu.cn",
+        "name": "吉首大学",
+        "addr": "湘西州 "
+      },
+      {
+        "link": "http://www.hnust.edu.cn",
+        "name": "湖南科技大学",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://www.csust.edu.cn",
+        "name": "长沙理工大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hunau.edu.cn",
+        "name": "湖南农业大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.csuft.edu.cn",
+        "name": "中南林业科技大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnucm.edu.cn",
+        "name": "湖南中医药大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hunnu.edu.cn",
+        "name": "湖南师范大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnist.cn",
+        "name": "湖南理工学院",
+        "addr": "岳阳市 "
+      },
+      {
+        "link": "http://www.xnu.edu.cn",
+        "name": "湘南学院",
+        "addr": "郴州市 "
+      },
+      {
+        "link": "http://www.hynu.edu.cn",
+        "name": "衡阳师范学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.hnsyu.edu.cn",
+        "name": "邵阳学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.hhtc.edu.cn",
+        "name": "怀化学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.huas.edu.cn",
+        "name": "湖南文理学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.huse.edu.cn",
+        "name": "湖南科技学院",
+        "addr": "永州市 "
+      },
+      {
+        "link": "http://www.huhst.edu.cn",
+        "name": "湖南人文科技学院",
+        "addr": "娄底市 "
+      },
+      {
+        "link": "http://www.hutb.edu.cn",
+        "name": "湖南工商大学",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.usc.edu.cn",
+        "name": "南华大学",
+        "addr": "衡阳市 "
+      },
+      {
+        "link": "http://www.ccsu.edu.cn",
+        "name": "长沙学院",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://www.hnie.edu.cn",
+        "name": "湖南工程学院",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://www.hncu.edu.cn",
+        "name": "湖南城市学院",
+        "addr": "益阳市 "
+      },
+      {
+        "link": "http://www.hnpu.edu.cn",
+        "name": "湖南工学院",
+        "addr": "衡阳市 "
+      },
+      {
+        "link": "http://www.hncz.edu.cn",
+        "name": "湖南财政经济学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnpolice.com",
+        "name": "湖南警察学院",
+        "addr": "🛂长沙市 "
+      },
+      {
+        "link": "https://www.hut.edu.cn/",
+        "name": "湖南工业大学",
+        "addr": "株洲市 "
+      },
+      {
+        "link": "http://www.hnwu.edu.cn",
+        "name": "湖南女子学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnfnc.edu.cn",
+        "name": "湖南第一师范学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnmu.com.cn",
+        "name": "湖南医药学院",
+        "addr": "怀化市 "
+      },
+      {
+        "link": "http://www.csnu.edu.cn",
+        "name": "长沙师范学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.csmu.edu.cn",
+        "name": "长沙医学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hieu.edu.cn",
+        "name": "湖南涉外经济学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://xxxy.xtu.edu.cn",
+        "name": "兴湘学院",
+        "addr": "株洲市 "
+      },
+      {
+        "link": "http://kjxy.hut.edu.cn",
+        "name": "科技学院",
+        "addr": "株洲市 "
+      },
+      {
+        "link": "http://xxjw.hnust.edu.cn",
+        "name": "潇湘学院",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://csxy.usc.edu.cn",
+        "name": "船山学院",
+        "addr": "衡阳市 "
+      },
+      {
+        "link": "http://www.xtit.edu.cn",
+        "name": "湘潭理工学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://sdw.hunnu.edu.cn",
+        "name": "树达学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://www.hnaues.com",
+        "name": "东方科技学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://swxy.csuft.edu.cn",
+        "name": "涉外学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://fur.huas.edu.cn",
+        "name": "芙蓉学院",
+        "addr": "常德市 "
+      },
+      { "link": "http://nh.hnist.cn", "name": "南湖学院", "addr": "岳阳市 " },
+      { "link": "http://nyxy.hynu.cn", "name": "南岳学院", "addr": "湘潭市 " },
+      {
+        "link": "http://hnieyy.hnie.edu.cn",
+        "name": "应用技术学院",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://xxxy.hnucm.edu.cn",
+        "name": "湘杏学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://zjj.jsu.edu.cn",
+        "name": "张家界学院",
+        "addr": "张家界市 "
+      },
+      {
+        "link": "https://www.csust.edu.cn/cnxy/hyjm.htm",
+        "name": "城南学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.hatu.edu.cn",
+        "name": "湖南应用技术学院",
+        "addr": "常德市 "
+      },
+      {
+        "link": "http://www.hnuit.edu.cn",
+        "name": "湖南信息学院",
+        "addr": "长沙市 "
+      },
+      {
+        "link": "http://hnjt.edu.cn",
+        "name": "湖南交通工程学院",
+        "addr": "衡阳市 "
+      },
+      {
+        "link": "http://www.hnsoftedu.com",
+        "name": "湖南软件职业技术大学",
+        "addr": "湘潭市 "
+      },
+      {
+        "link": "http://www.cavtc.cn",
+        "name": "长沙航空职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cseptc.hn.sgcc.com.cn",
+        "name": "长沙电力职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xzyesf.cn",
+        "name": "湘中幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.csmzxy.com",
+        "name": "长沙民政职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hunangy.com",
+        "name": "湖南工业职业技术学院",
+        "addr": ""
+      },
+      { "link": null, "name": "株洲师范高等专科学校", "addr": "" },
+      {
+        "link": "http://www.hniu.com",
+        "name": "湖南信息职业技术学院",
+        "addr": ""
+      },
+      { "link": null, "name": "湖南税务高等专科学校", "addr": "" },
+      { "link": null, "name": "湖南冶金职业技术学院", "addr": "" },
+      {
+        "link": "http://www.hnmmc.cn",
+        "name": "湖南大众传媒职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnyzzy.com",
+        "name": "永州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnrpc.com",
+        "name": "湖南铁道职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnkjxy.net.cn",
+        "name": "湖南科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnbemc.com",
+        "name": "湖南生物机电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnjtzy.com.cn",
+        "name": "湖南交通职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnswxy.com",
+        "name": "湖南商务职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://tyzy.hnedu.cn",
+        "name": "湖南体育职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hngcjx.com.cn",
+        "name": "湖南工程职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.bxxy.com", "name": "保险职业学院", "addr": "" },
+      {
+        "link": "http://www.hnwmxy.com",
+        "name": "湖南外贸职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnevc.com",
+        "name": "湖南网络工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.syzyedu.com",
+        "name": "邵阳职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnsfjy.cn",
+        "name": "湖南司法警官职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hncpu.com",
+        "name": "长沙商贸旅游职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnebp.edu.cn",
+        "name": "湖南环境生物职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnptc.edu.cn",
+        "name": "湖南邮电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xtzy.com",
+        "name": "湘潭医卫职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.czzy-edu.com",
+        "name": "郴州职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.ldzy.com", "name": "娄底职业技术学院", "addr": "" },
+      {
+        "link": "http://www.zjjhy.net",
+        "name": "张家界航空工业职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbcollege.com.cn",
+        "name": "长沙环境保护职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.arthn.com",
+        "name": "湖南艺术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnjdzy.net",
+        "name": "湖南机电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cszyedu.cn",
+        "name": "长沙职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hhptc.com.cn",
+        "name": "怀化职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.yyzy.cn", "name": "岳阳职业技术学院", "addr": "" },
+      { "link": "http://www.cdzy.cn", "name": "常德职业技术学院", "addr": "" },
+      {
+        "link": "http://www.hnhgzy.com",
+        "name": "湖南化工职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnucc.com",
+        "name": "湖南城建职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnshzy.cn",
+        "name": "湖南石油化工职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hntcmc.net",
+        "name": "湖南中医药高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnvc.net.cn",
+        "name": "湖南民族职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xxmzy.com",
+        "name": "湘西民族职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hycgy.com",
+        "name": "湖南财经工业职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.yyvtc.cn", "name": "益阳职业技术学院", "addr": "" },
+      {
+        "link": "http://www.hnmeida.com.cn",
+        "name": "湖南工艺美术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.4744edu.com",
+        "name": "湖南九嶷职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xlgy.com",
+        "name": "湖南理工职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnqczy.com",
+        "name": "湖南汽车工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnslsdxy.com",
+        "name": "湖南水利水电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.56edu.com",
+        "name": "湖南现代物流职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.htcce.com",
+        "name": "湖南高速铁路职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hntky.com",
+        "name": "湖南铁路科技职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cssttc.gov.cn",
+        "name": "湖南安全技术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnjd.net.cn",
+        "name": "湖南电气职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnyyyz.com",
+        "name": "益阳医学高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hngfxy.com",
+        "name": "湖南国防工业职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cswszy.com",
+        "name": "长沙卫生职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnyzy.cn",
+        "name": "湖南食品药品职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnyszy.com.cn",
+        "name": "湖南有色金属职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnyesf.com",
+        "name": "湖南幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xnyesz.com",
+        "name": "湘南幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnlrzy.cn",
+        "name": "湖南劳动人事职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hhsfgz.com",
+        "name": "怀化师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://hnyznc.com",
+        "name": "永州师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hyyesf.com",
+        "name": "衡阳幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.csysgz.com",
+        "name": "长沙幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.newyishi.com",
+        "name": "益阳师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.ldyesz.edu.cn",
+        "name": "娄底幼儿师范高等专科学校",
+        "addr": ""
+      },
+      { "link": null, "name": "常德科技职业技术学院", "addr": "" },
+      { "link": null, "name": "邵阳工业职业技术学院", "addr": "" },
+      { "link": "http://www.nfdx.net", "name": "长沙南方职业学院", "addr": "" },
+      { "link": "http://www.hnxxc.com", "name": "潇湘职业学院", "addr": "" },
+      {
+        "link": "http://www.hnflc.cn",
+        "name": "湖南外国语职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnupc.net",
+        "name": "湖南都市职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.8379888.com",
+        "name": "湖南电子科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.2823333.com",
+        "name": "湖南高尔夫旅游职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnlgxy.com",
+        "name": "湖南工商职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sanyedu.com",
+        "name": "湖南三一工业职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hngeelyedu.cn",
+        "name": "湖南吉利汽车职业技术学院",
+        "addr": ""
+      },
+      { "link": null, "name": "长沙轨道交通职业学院", "addr": "" },
+      { "link": null, "name": "长沙文创艺术职业学院", "addr": "" },
+      { "link": null, "name": "岳阳现代服务职业学院", "addr": "" },
+      { "link": null, "name": "郴州思科职业学院", "addr": "" },
+      { "link": null, "name": "衡阳科技职业学院", "addr": "" },
+      { "link": "#mulu", "name": "▲", "addr": "" }
+    ] },
     { "city_id": 44, "quote": "广东", "university": [] },
     { "city_id": 45, "quote": "广西", "university": [] },
     { "city_id": 46, "quote": "海南", "university": [] },
