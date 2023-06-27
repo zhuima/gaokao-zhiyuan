@@ -3368,7 +3368,332 @@
         }
       ]
     },
-    { "city_id": 31, "quote": "上海", "university": [] },
+    {
+      "city_id": 31,
+      "quote": "上海",
+      "university": [
+        {
+          "link": "http://www.fudan.edu.cn",
+          "name": "复旦大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.sjtu.edu.cn",
+          "name": "上海交通大学",
+          "addr": "闵行区"
+        },
+        {
+          "link": "http://www.tongji.edu.cn",
+          "name": "同济大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.ecust.edu.cn",
+          "name": "华东理工大学",
+          "addr": "徐汇区"
+        },
+        {
+          "link": "http://www.dhu.edu.cn",
+          "name": "东华大学",
+          "addr": "长宁区"
+        },
+        {
+          "link": "http://www.ecnu.edu.cn",
+          "name": "华东师范大学",
+          "addr": "普陀区"
+        },
+        {
+          "link": "http://www.shisu.edu.cn",
+          "name": "上海外国语大学",
+          "addr": "虹口区"
+        },
+        {
+          "link": "http://www.shufe.edu.cn",
+          "name": "上海财经大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shcc.edu.cn/1259/list.htm",
+          "name": "上海海关学院",
+          "addr": "浦东新区 旧域名:shanghai_edu.customs.gov.cn"
+        },
+        {
+          "link": "http://www.usst.edu.cn",
+          "name": "上海理工大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shmtu.edu.cn",
+          "name": "上海海事大学",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://shiep.edu.cn",
+          "name": "上海电力大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.sit.edu.cn",
+          "name": "上海应用技术大学",
+          "addr": "徐汇区"
+        },
+        {
+          "link": "http://www.sumhs.edu.cn",
+          "name": "上海健康医学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shfu.edu.cn",
+          "name": "上海海洋大学",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shutcm.edu.cn",
+          "name": "上海中医药大学",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shnu.edu.cn",
+          "name": "上海师范大学",
+          "addr": "徐汇区"
+        },
+        {
+          "link": "http://www.suibe.edu.cn",
+          "name": "上海对外经贸大学",
+          "addr": "长宁区"
+        },
+        {
+          "link": "http://www.ecupl.edu.cn",
+          "name": "华东政法大学",
+          "addr": "长宁区"
+        },
+        {
+          "link": "http://www.sus.edu.cn",
+          "name": "上海体育学院",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shcmusic.edu.cn",
+          "name": "上海音乐学院",
+          "addr": "徐汇区"
+        },
+        {
+          "link": "http://www.sta.edu.cn",
+          "name": "上海戏剧学院",
+          "addr": "静安区"
+        },
+        {
+          "link": "http://www.shu.edu.cn",
+          "name": "上海大学",
+          "addr": "宝山区"
+        },
+        {
+          "link": "http://www.shpc.edu.cn",
+          "name": "上海公安学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.sues.edu.cn",
+          "name": "上海工程技术大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.lixin.edu.cn",
+          "name": "上海立信会计金融学院",
+          "addr": "松江区"
+        },
+        {
+          "link": "http://www.sdju.edu.cn",
+          "name": "上海电机学院",
+          "addr": "闵行区"
+        },
+        {
+          "link": "http://www.shupl.edu.cn",
+          "name": "上海政法学院",
+          "addr": "青浦区"
+        },
+        {
+          "link": "http://www.shspu.edu.cn",
+          "name": "上海第二工业大学",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.sbs.edu.cn",
+          "name": "上海商学院",
+          "addr": "徐汇区/奉贤区"
+        },
+        {
+          "link": "http://www.shanghaitech.edu.cn",
+          "name": "上海科技大学",
+          "addr": "徐汇区/浦东新区"
+        },
+        {
+          "link": "http://shanghai.nyu.edu",
+          "name": "上海纽约大学",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.sandau.edu.cn",
+          "name": "上海杉达学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.lidapoly.edu.cn",
+          "name": "上海立达学院",
+          "addr": "松江区"
+        },
+        {
+          "link": "http://www.gench.edu.cn",
+          "name": "上海建桥学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.xingwei.edu.cn",
+          "name": "上海兴伟学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shzq.edu.cn",
+          "name": "上海中侨职业技术大学",
+          "addr": "金山区"
+        },
+        {
+          "link": "http://www.siva.edu.cn",
+          "name": "上海视觉艺术学院",
+          "addr": "松江区"
+        },
+        {
+          "link": "http://www.xdsisu.edu.cn",
+          "name": "上海外国语大学贤达经济人文学院",
+          "addr": "虹口区/崇明区"
+        },
+        {
+          "link": null,
+          "name": "上海师范大学天华学院",
+          "addr": "嘉定区 学院介绍"
+        },
+        {
+          "link": "http://www.shcac.edu.cn",
+          "name": "上海民航职业技术学院",
+          "addr": "徐汇区/浦东新区"
+        },
+        {
+          "link": "http://sit.shnu.edu.cn",
+          "name": "上海旅游高等专科学校",
+          "addr": "奉贤区"
+        },
+        {
+          "link": "http://www.sppc.edu.cn",
+          "name": "上海出版印刷高等专科学校",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shxj.cn",
+          "name": "上海行健职业学院",
+          "addr": "闸北区"
+        },
+        {
+          "link": "http://www.succ.edu.cn",
+          "name": "上海城建职业学院",
+          "addr": "奉贤区"
+        },
+        {
+          "link": "http://www.scp.edu.cn",
+          "name": "上海交通职业技术学院",
+          "addr": "徐汇区/宝山/嘉定/浦东"
+        },
+        {
+          "link": "http://www.sma.edu.cn",
+          "name": "上海海事职业技术学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.stiei.edu.cn",
+          "name": "上海电子信息职业技术学院",
+          "addr": "奉贤区/闵行/普陀/金山"
+        },
+        {
+          "link": "http://www.gymy.cn",
+          "name": "上海工艺美术职业学院",
+          "addr": "嘉定区"
+        },
+        {
+          "link": "http://www.scst.sh.cn",
+          "name": "上海科学技术职业学院",
+          "addr": "嘉定区"
+        },
+        {
+          "link": "http://www.shafc.edu.cn",
+          "name": "上海农林职业技术学院",
+          "addr": "松江区"
+        },
+        {
+          "link": "http://www.shghxyedu.net",
+          "name": "上海工会管理职业学院",
+          "addr": "杨浦区"
+        },
+        {
+          "link": "http://www.shnhvtc.edu.cn",
+          "name": "上海南湖职业技术学院",
+          "addr": "虹口区"
+        },
+        {
+          "link": "http://www.esu.edu.cn",
+          "name": "上海东海职业技术学院",
+          "addr": "闵行区"
+        },
+        {
+          "link": "http://www.sicp.edu.cn",
+          "name": "上海工商职业技术学院",
+          "addr": "嘉定区"
+        },
+        {
+          "link": "http://www.aurora-college.cn",
+          "name": "上海震旦职业学院",
+          "addr": "宝山区"
+        },
+        {
+          "link": "http://www.min-yuan.com",
+          "name": "上海民远职业技术学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shouhua.net.cn",
+          "name": "上海欧华职业技术学院",
+          "addr": "徐汇区"
+        },
+        {
+          "link": "http://www.shsipo.com",
+          "name": "上海思博职业技术学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shjgu.edu.cn",
+          "name": "上海济光职业技术学院",
+          "addr": "宝山区"
+        },
+        {
+          "link": "http://www.sicfl.edu.cn",
+          "name": "上海工商外国语职业学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": "http://www.shbangde.com",
+          "name": "上海邦德职业技术学院",
+          "addr": "宝山区"
+        },
+        {
+          "link": "http://www.shfilmart.com",
+          "name": "上海电影艺术职业学院",
+          "addr": "浦东新区"
+        },
+        {
+          "link": null,
+          "name": "上海中华职业技术学院",
+          "addr": "奉贤区"
+        }
+      ]
+    },
     { "city_id": 32, "quote": "江苏", "university": [] },
     { "city_id": 33, "quote": "浙江", "university": [] },
     { "city_id": 34, "quote": "安徽", "university": [] },
