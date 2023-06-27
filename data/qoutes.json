@@ -11946,7 +11946,405 @@
         { "link": "#mulu", "name": "▲", "addr": "" }
       ]
     },
-    { "city_id": 53, "quote": "云南", "university": [] },
+    {
+      "city_id": 53,
+      "quote": "云南",
+      "university": [
+        {
+          "link": "http://www.ynu.edu.cn",
+          "name": "云南大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.kmust.edu.cn",
+          "name": "昆明理工大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynau.edu.cn",
+          "name": "云南农业大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.swfc.edu.cn",
+          "name": "西南林业大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.kmmu.edu.cn",
+          "name": "昆明医科大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.dali.edu.cn",
+          "name": "大理大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynutcm.edu.cn",
+          "name": "云南中医药大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynnu.edu.cn",
+          "name": "云南师范大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ztu.edu.cn",
+          "name": "昭通学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.qjnu.edu.cn",
+          "name": "曲靖师范学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.peuni.cn",
+          "name": "普洱学院",
+          "addr": "昆明市 "
+        },
+        { "link": "http://www.bsnc.cn", "name": "保山学院", "addr": "昆明市 " },
+        {
+          "link": "http://www.uoh.edu.cn",
+          "name": "红河学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynufe.edu.cn",
+          "name": "云南财经大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynart.edu.cn",
+          "name": "云南艺术学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.ynni.edu.cn",
+          "name": "云南民族大学",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.yxtc.edu.cn",
+          "name": "玉溪师范学院",
+          "addr": "🛂昆明市 "
+        },
+        {
+          "link": "http://www.cxtc.edu.cn",
+          "name": "楚雄师范学院",
+          "addr": "🛂昆明市 "
+        },
+        {
+          "link": "http://www.ynpsc.edu.cn",
+          "name": "云南警官学院",
+          "addr": "🛂昆明市 "
+        },
+        {
+          "link": "http://www.kmu.edu.cn",
+          "name": "昆明学院",
+          "addr": "临沧市 "
+        },
+        {
+          "link": "http://www.wsu.edu.cn",
+          "name": "文山学院",
+          "addr": "临沧市 "
+        },
+        {
+          "link": "http://www.wynu.edu.cn",
+          "name": "滇西科技师范学院",
+          "addr": "临沧市 "
+        },
+        {
+          "link": "http://www.wyuas.edu.cn",
+          "name": "滇西应用技术大学",
+          "addr": "大理白族自治州 "
+        },
+        {
+          "link": "http://www.ynjgy.com",
+          "name": "云南经济管理学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://dcxy.ynu.edu.cn",
+          "name": "滇池学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://lywhxy.com",
+          "name": "丽江文化旅游学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.oxbridge.cn",
+          "name": "津桥学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.kmcc.edu.cn",
+          "name": "昆明城市学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.caskm.cn",
+          "name": "昆明文理学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://www.kyhyxy.com",
+          "name": "海源学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "http://whxy.ynart.edu.cn",
+          "name": "文华学院",
+          "addr": "昆明市 "
+        },
+        {
+          "link": "https://www.ytbu.edu.cn",
+          "name": "云南工商学院",
+          "addr": "昆明市 "
+        },
+        { "link": null, "name": "公安消防部队高等专科学校", "addr": "" },
+        {
+          "link": "http://www.ynny.cn",
+          "name": "云南能源职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynou.edu.cn",
+          "name": "云南国防工业职业技术学院",
+          "addr": ""
+        },
+        { "link": "http://ynxzy.com", "name": "云南新兴职业学院", "addr": "" },
+        {
+          "link": "http://www.kmyz.edu.cn",
+          "name": "昆明冶金高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yngtxy.net",
+          "name": "云南国土资源职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yncs.edu.cn",
+          "name": "云南交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kmvtc.net",
+          "name": "昆明工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynavc.com",
+          "name": "云南农业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yncpu.net",
+          "name": "云南司法警官职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynarts.cn",
+          "name": "云南文化艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynasc.com",
+          "name": "云南体育运动职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xsbnzy.com",
+          "name": "西双版纳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yxnzy.net/",
+          "name": "玉溪农业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynmec.com",
+          "name": "云南机电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynftc.cn",
+          "name": "云南林业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qjyz.org",
+          "name": "曲靖医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cxmtc.net",
+          "name": "楚雄医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynbsyz.cn",
+          "name": "保山中医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lj-edu.cn",
+          "name": "丽江师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yndhec.net",
+          "name": "德宏师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "https://www.ytvtc.com/",
+          "name": "云南锡业职业技术学院",
+          "addr": ""
+        },
+        { "link": "http://www.yndhvc.com", "name": "德宏职业学院", "addr": "" },
+        { "link": null, "name": "云南现代职业技术学院", "addr": "" },
+        {
+          "link": "http://ynctv.edu.cn",
+          "name": "云南旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hhwzy.edu.cn",
+          "name": "红河卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dlafc.com",
+          "name": "大理农林职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynczy.edu.cn",
+          "name": "云南财经职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kmtdzy.cn",
+          "name": "昆明铁道职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ztwzy.cn",
+          "name": "昭通卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.DLHLzyxy.edu.cn",
+          "name": "大理护理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://ynwater.edu.cn",
+          "name": "云南水利水电职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://ynqfzyxy.cn",
+          "name": "云南轻纺职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yntjzy.cn",
+          "name": "云南特殊教育职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynit.edu.cn",
+          "name": "云南工贸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynvct.com",
+          "name": "云南交通运输职业学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.kmyesf.cn",
+          "name": "昆明幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qjzyxy.com",
+          "name": "曲靖职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hhvtc.cn",
+          "name": "红河职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "玉溪职业技术学院", "addr": "" },
+        { "link": null, "name": "保山职业学院", "addr": "" },
+        { "link": null, "name": "昭通职业学院", "addr": "" },
+        { "link": null, "name": "文山职业技术学院", "addr": "" },
+        { "link": null, "name": "丽江职业技术学院", "addr": "" },
+        { "link": null, "name": "香格里拉职业学院", "addr": "" },
+        {
+          "link": "http://www.ynkexin.cn",
+          "name": "云南科技信息职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kmac.org.cn",
+          "name": "昆明艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yncjxy.com",
+          "name": "云南城市建设职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sailingedu.com",
+          "name": "云南工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynjw.net",
+          "name": "云南经贸外事职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynsxzy.com",
+          "name": "云南三鑫职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynswzyxy.com",
+          "name": "云南商务职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kmhvc.cn",
+          "name": "昆明卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.FAFL.cn",
+          "name": "云南外事外语职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ynmhc.com",
+          "name": "云南医药健康职业学院",
+          "addr": ""
+        },
+        { "link": "http://ynlgzy.com", "name": "云南理工职业学院", "addr": "" },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
     { "city_id": 54, "quote": "西藏", "university": [] },
     { "city_id": 61, "quote": "陕西", "university": [] },
     { "city_id": 62, "quote": "甘肃", "university": [] },
