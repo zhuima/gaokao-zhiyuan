@@ -1,6 +1,456 @@
 {
   "data": [
-    { "city_id": 11, "quote": "北京" },
+    {
+      "city_id": 11,
+      "quote": "北京",
+      "university": [
+        {
+          "link": "http://www.pku.edu.cn",
+          "name": "北京大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.tsinghua.edu.cn",
+          "name": "清华大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.ruc.edu.cn",
+          "name": "中国人民大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bnu.edu.cn",
+          "name": "北京师范大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cau.edu.cn",
+          "name": "中国农业大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://bit.edu.cn",
+          "name": "北京理工大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.buaa.edu.cn",
+          "name": "北京航空航天大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.njtu.edu.cn",
+          "name": "北京交通大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.ustb.edu.cn",
+          "name": "北京科技大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.buct.edu.cn",
+          "name": "北京化工大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bupt.edu.cn",
+          "name": "北京邮电大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.besti.edu.cn",
+          "name": "北京电子科技学院",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.bjfu.edu.cn",
+          "name": "北京林业大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cams.ac.cn",
+          "name": "北京协和医学院",
+          "addr": "东城区 清华大学医学部"
+        },
+        {
+          "link": "http://www.bucm.edu.cn",
+          "name": "北京中医药大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bfsu.edu.cn",
+          "name": "北京外国语大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.blcu.edu.cn",
+          "name": "北京语言大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cuc.edu.cn",
+          "name": "中国传媒大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.cufe.edu.cn",
+          "name": "中央财经大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.uibe.edu.cn",
+          "name": "对外经济贸易大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.cfri.edu.cn",
+          "name": "中国消防救援学院",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.cfau.edu.cn",
+          "name": "外交学院",
+          "addr": "西城区"
+        },
+        {
+          "link": "http://www.cppsu.edu.cn",
+          "name": "中国人民公安大学",
+          "addr": "西城区"
+        },
+        {
+          "link": "http://www.uir.cn",
+          "name": "国际关系学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bsu.edu.cn",
+          "name": "北京体育大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.ccom.edu.cn",
+          "name": "中央音乐学院",
+          "addr": "西城区"
+        },
+        {
+          "link": "http://www.cafa.edu.cn",
+          "name": "中央美术学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.chntheatre.edu.cn",
+          "name": "中央戏剧学院",
+          "addr": "东城区/昌平区"
+        },
+        {
+          "link": "http://www.muc.edu.cn",
+          "name": "中央民族大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cupl.edu.cn",
+          "name": "中国政法大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.ncepu.edu.cn",
+          "name": "华北电力大学",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.cwu.edu.cn",
+          "name": "中华女子学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.cumtb.edu.cn",
+          "name": "中国矿业大学（北京）",
+          "addr": "海淀/昌平"
+        },
+        {
+          "link": "http://www.cup.edu.cn",
+          "name": "中国石油大学（北京）",
+          "addr": "海淀/昌平"
+        },
+        {
+          "link": "http://www.cugb.edu.cn",
+          "name": "中国地质大学（北京）",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cyu.edu.cn",
+          "name": "中国青年政治学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.ciir.edu.cn",
+          "name": "中国劳动关系学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "https://www.ucas.ac.cn/",
+          "name": "中国科学院大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "https://www.ucass.edu.cn/",
+          "name": "中国社会科学院大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bjut.edu.cn",
+          "name": "北京工业大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.ncut.edu.cn",
+          "name": "北方工业大学",
+          "addr": "石景山区"
+        },
+        {
+          "link": "http://www.btbu.edu.cn",
+          "name": "北京工商大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bift.edu.cn",
+          "name": "北京服装学院",
+          "addr": "朝阳区/昌平区"
+        },
+        {
+          "link": "http://www.bigc.edu.cn",
+          "name": "北京印刷学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bucea.edu.cn",
+          "name": "北京建筑大学",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bipt.edu.cn",
+          "name": "北京石油化工学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bac.edu.cn",
+          "name": "北京农学院",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.ccmu.edu.cn",
+          "name": "首都医科大学",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.cnu.edu.cn",
+          "name": "首都师范大学",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.cupes.edu.cn",
+          "name": "首都体育学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bisu.edu.cn",
+          "name": "北京第二外国语学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bwu.edu.cn",
+          "name": "北京物资学院",
+          "addr": "通州区"
+        },
+        {
+          "link": "http://www.cueb.edu.cn",
+          "name": "首都经济贸易大学",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.ccmusic.edu.cn",
+          "name": "中国音乐学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.nacta.edu.cn",
+          "name": "中国戏曲学院",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.bfa.edu.cn",
+          "name": "北京电影学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bda.edu.cn",
+          "name": "北京舞蹈学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bistu.edu.cn",
+          "name": "北京信息科技大学",
+          "addr": "朝阳区/海淀区"
+        },
+        {
+          "link": "http://www.buu.edu.cn",
+          "name": "北京联合大学",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.sgit.edu.cn",
+          "name": "首钢工学院",
+          "addr": "石景山区"
+        },
+        {
+          "link": "http://www.bjpc.edu.cn",
+          "name": "北京警察学院",
+          "addr": "朝阳区/昌平区"
+        },
+        {
+          "link": "http://www.bcu.edu.cn",
+          "name": "北京城市学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.kdcnu.com",
+          "name": "首都师范大学科德学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.canvard.net.cn",
+          "name": "北京工商大学嘉华学院",
+          "addr": "通州区"
+        },
+        {
+          "link": "http://www.ccbupt.cn",
+          "name": "北京邮电大学世纪学院",
+          "addr": "延庆区"
+        },
+        {
+          "link": "http://www.gengdan.cn",
+          "name": "北京工业大学耿丹学院",
+          "addr": "顺义区"
+        },
+        {
+          "link": "http://www.bhi.edu.cn",
+          "name": "北京第二外国语学院中瑞酒店管理学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bgy.org.cn",
+          "name": "北京工业职业技术学院",
+          "addr": "石景山区"
+        },
+        {
+          "link": "http://www.bitc.edu.cn",
+          "name": "北京信息职业技术学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.dky.bjedu.cn",
+          "name": "北京电子科技职业学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.jbzy.com.cn",
+          "name": "北京京北职业技术学院",
+          "addr": "怀柔区"
+        },
+        {
+          "link": "http://www.jtxy.com.cn",
+          "name": "北京交通职业技术学院",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.bjypc.edu.cn",
+          "name": "北京青年政治学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bvca.edu.cn",
+          "name": "北京农业职业学院",
+          "addr": "房山区"
+        },
+        {
+          "link": "http://www.bcpl.cn",
+          "name": "北京政法职业学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bjczy.edu.cn",
+          "name": "北京财贸职业学院",
+          "addr": "通州区"
+        },
+        {
+          "link": "http://www.bjxx.com.cn",
+          "name": "北京戏曲艺术职业学院",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.biem.edu.cn",
+          "name": "北京经济管理职业学院",
+          "addr": "朝阳区"
+        },
+        {
+          "link": "http://www.bvclss.cn",
+          "name": "北京劳动保障职业学院",
+          "addr": "朝阳区/昌平区"
+        },
+        {
+          "link": "http://www.bcsa.edu.cn",
+          "name": "北京社会管理职业学院",
+          "addr": "大兴区"
+        },
+        {
+          "link": "http://www.bjtzhy.org",
+          "name": "北京体育职业学院",
+          "addr": "丰台区"
+        },
+        {
+          "link": "http://www.pfc.edu.cn",
+          "name": "北京北大方正软件职业技术学院",
+          "addr": "通州区"
+        },
+        {
+          "link": "http://www.csuedu.com",
+          "name": "北京经贸职业学院",
+          "addr": "房山区"
+        },
+        {
+          "link": "http://www.bibtedu.cn",
+          "name": "北京经济技术职业学院",
+          "addr": "通州区"
+        },
+        {
+          "link": "http://www.hju.net.cn",
+          "name": "北京汇佳职业学院",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.5aaa.com",
+          "name": "北京科技职业学院",
+          "addr": "昌平区"
+        },
+        {
+          "link": "http://www.bjpldx.edu.cn",
+          "name": "北京培黎职业学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "http://www.bjamu.cn",
+          "name": "北京艺术传媒职业学院",
+          "addr": "海淀区"
+        },
+        {
+          "link": "https://bjwlxy.org.cn/",
+          "name": "北京网络职业学院",
+          "addr": "房山区"
+        }
+      ]
+    },
     { "city_id": 12, "quote": "天津" },
     { "city_id": 13, "quote": "河北" },
     { "city_id": 14, "quote": "山西" },
