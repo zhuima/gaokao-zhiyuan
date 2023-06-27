@@ -9195,7 +9195,777 @@
       { "link": null, "name": "衡阳科技职业学院", "addr": "" },
       { "link": "#mulu", "name": "▲", "addr": "" }
     ] },
-    { "city_id": 44, "quote": "广东", "university": [] },
+    { "city_id": 44, "quote": "广东", "university": [
+      {
+        "link": "http://www.sysu.edu.cn",
+        "name": "中山大学",
+        "addr": "广州市 附属第七医院（深圳）、孙逸仙纪念医院"
+      },
+      { "link": "http://www.sysush.com/", "name": "附属第七医院", "addr": "" },
+      { "link": "http://www.gzsys.org.cn/", "name": "孙逸仙", "addr": "" },
+      {
+        "link": "http://www.jnu.edu.cn",
+        "name": "暨南大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.scut.edu.cn",
+        "name": "华南理工大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.stu.edu.cn",
+        "name": "汕头大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.scau.edu.cn",
+        "name": "华南农业大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdou.edu.cn",
+        "name": "广东海洋大学",
+        "addr": "湛江市 "
+      },
+      {
+        "link": "http://www.gzhmu.edu.cn",
+        "name": "广州医科大学",
+        "addr": "湛江市 "
+      },
+      {
+        "link": "http://www.gdmu.edu.cn",
+        "name": "广东医科大学",
+        "addr": "湛江市 "
+      },
+      {
+        "link": "http://www.gzhtcm.edu.cn",
+        "name": "广州中医药大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdpu.edu.cn",
+        "name": "广东药科大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.scnu.edu.cn",
+        "name": "华南师范大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.sgu.edu.cn",
+        "name": "韶关学院",
+        "addr": "潮州市 "
+      },
+      {
+        "link": "http://www.hzu.edu.cn",
+        "name": "惠州学院",
+        "addr": "潮州市 "
+      },
+      {
+        "link": "http://www.hstc.edu.cn",
+        "name": "韩山师范学院",
+        "addr": "潮州市 "
+      },
+      {
+        "link": "http://www.lingnan.edu.cn",
+        "name": "岭南师范学院",
+        "addr": "湛江市 "
+      },
+      {
+        "link": "http://www.zqu.edu.cn",
+        "name": "肇庆学院",
+        "addr": "梅州市 "
+      },
+      {
+        "link": "http://www.jyu.edu.cn",
+        "name": "嘉应学院",
+        "addr": "梅州市 "
+      },
+      {
+        "link": "http://www.gipe.edu.cn",
+        "name": "广州体育学院",
+        "addr": "🏃 "
+      },
+      {
+        "link": "http://www.gzarts.edu.cn",
+        "name": "广州美术学院",
+        "addr": "🎨 "
+      },
+      {
+        "link": "http://www.xhcom.edu.cn",
+        "name": "星海音乐学院",
+        "addr": "🎵广州市 "
+      },
+      {
+        "link": "http://gpnu.edu.cn",
+        "name": "广东技术师范大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.szu.edu.cn",
+        "name": "深圳大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdufe.edu.cn",
+        "name": "广东财经大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gzhu.edu.cn",
+        "name": "广州大学",
+        "addr": "🛂广州市 "
+      },
+      {
+        "link": "http://gzmtu.edu.cn",
+        "name": "广州航海学院",
+        "addr": "🛂广州市 "
+      },
+      {
+        "link": "http://www.gdppla.edu.cn",
+        "name": "广东警官学院",
+        "addr": "🛂广州市 "
+      },
+      {
+        "link": "http://www.zhku.edu.cn",
+        "name": "仲恺农业工程学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.wyu.edu.cn",
+        "name": "五邑大学",
+        "addr": "江门市 "
+      },
+      {
+        "link": "http://www.gduf.edu.cn",
+        "name": "广东金融学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdpa.edu.cn",
+        "name": "广东石油化工学院",
+        "addr": "茂名市 "
+      },
+      {
+        "link": "http://www.dgut.edu.cn",
+        "name": "东莞理工学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdut.edu.cn",
+        "name": "广东工业大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdufs.edu.cn",
+        "name": "广东外语外贸大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.fosu.edu.cn",
+        "name": "佛山科学技术学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.smu.edu.cn",
+        "name": "南方医科大学",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdei.edu.cn",
+        "name": "广东第二师范学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.sustech.edu.cn",
+        "name": "南方科技大学",
+        "addr": "深圳市 "
+      },
+      {
+        "link": "http://www.sztu.edu.cn",
+        "name": "深圳技术大学",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.szpt.edu.cn",
+        "name": "深圳职业技术大学",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://uic.edu.hk",
+        "name": "联合国际学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://hkust-gz.edu.cn",
+        "name": "香港科技大学（广州）",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.cuhk.edu.cn",
+        "name": "香港中文大学（深圳）",
+        "addr": "深圳市 "
+      },
+      {
+        "link": "http://www.smbu.edu.cn",
+        "name": "深圳北理莫斯科大学",
+        "addr": "汕头市 "
+      },
+      {
+        "link": "http://www.gtiit.edu.cn",
+        "name": "广东以色列理工学院",
+        "addr": "汕头市 "
+      },
+      {
+        "link": "http://www.bvtc.edu.cn",
+        "name": "广东白云学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.zsc.edu.cn",
+        "name": "中山学院",
+        "addr": "中山市 "
+      },
+      {
+        "link": "http://www.peizheng.edu.cn",
+        "name": "广东培正学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.nuit.edu.cn",
+        "name": "广东东软学院",
+        "addr": "佛山市 "
+      },
+      {
+        "link": "http://www.gcu.edu.cn",
+        "name": "广州城市理工学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.seig.edu.cn",
+        "name": "广州软件学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.nfu.edu.cn",
+        "name": "广州南方学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gwng.edu.cn",
+        "name": "南国商学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.gdhsc.edu.cn",
+        "name": "广州华商学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.zjkju.edu.cn",
+        "name": "湛江科技学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://www.scauzj-cec.cn",
+        "name": "珠江学院",
+        "addr": "广州市 "
+      },
+      {
+        "link": "http://gzist.edu.cn",
+        "name": "广州理工学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.bnuz.edu.cn",
+        "name": "北京师范大学珠海分校",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.hualixy.edu.cn",
+        "name": "广州华立学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.gzasc.edu.cn",
+        "name": "广州应用科技学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.gcc.edu.cn",
+        "name": "广州商学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.bitzh.edu.cn",
+        "name": "珠海学院",
+        "addr": "珠海市 "
+      },
+      {
+        "link": "http://www.zcst.edu.cn",
+        "name": "珠海科技学院",
+        "addr": "东莞市 "
+      },
+      {
+        "link": "http://www.gzgs.edu.cn",
+        "name": "广州工商学院",
+        "addr": "东莞市 "
+      },
+      {
+        "link": "http://www.gkd.edu.cn",
+        "name": "广州科技职业技术大学",
+        "addr": "东莞市 "
+      },
+      {
+        "link": "http://www.gdust.edu.cn",
+        "name": "广东科技学院",
+        "addr": "东莞市 "
+      },
+      {
+        "link": "http://www.gdlgxy.edu.cn",
+        "name": "广东理工学院",
+        "addr": "肇庆市 "
+      },
+      {
+        "link": "http://www.gdbtu.edu.cn",
+        "name": "广东工商职业技术大学",
+        "addr": "肇庆市 "
+      },
+      { "link": "http://dgcu.edu.cn", "name": "东莞城市学院", "addr": "" },
+      {
+        "link": "http://www.xhsysu.edu.cn",
+        "name": "广州新华学院",
+        "addr": ""
+      },
+      { "link": null, "name": "广州民航职业技术学院", "addr": "" },
+      {
+        "link": "http://www.sdpt.com.cn",
+        "name": "顺德职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdqy.edu.cn",
+        "name": "广东轻工职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdcp.cn",
+        "name": "广东交通职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdsdxy.edu.cn",
+        "name": "广东水利电力职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.nhic.edu.cn",
+        "name": "广东南华工商职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzpyp.edu.cn",
+        "name": "广州番禺职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdsspt.net",
+        "name": "广东松山职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdaib.edu.cn",
+        "name": "广东农工商职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.fspt.net", "name": "佛山职业技术学院", "addr": "" },
+      {
+        "link": "http://www.gdit.edu.cn",
+        "name": "广东科学技术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdyzy.edu.cn",
+        "name": "广东食品药品职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdxzzy.cn",
+        "name": "广东行政职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdvcp.net",
+        "name": "广东体育职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdpt.edu.cn",
+        "name": "广东职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdcvi.net",
+        "name": "广东建设职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdfs.edu.cn",
+        "name": "广东女子职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdmec.com",
+        "name": "广东机电职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.swvtc.cn", "name": "汕尾职业技术学院", "addr": "" },
+      {
+        "link": "http://www.ldpoly.com",
+        "name": "罗定职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.yjcollege.net",
+        "name": "阳江职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hycollege.net",
+        "name": "河源职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gupt.net",
+        "name": "广东邮电职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://stzy.stedu.net",
+        "name": "汕头职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jyc.edu.cn",
+        "name": "揭阳职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sziit.com.cn",
+        "name": "深圳信息职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.qypt.com.cn",
+        "name": "清远职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdgm.cn",
+        "name": "广东工贸职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdsfjy.cn",
+        "name": "广东司法警官职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gtcfla.edu.cn",
+        "name": "广东省外语艺术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdla.edu.cn",
+        "name": "广东文艺职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gztzy.edu.cn",
+        "name": "广州体育职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzvtc.cn",
+        "name": "广州工程技术职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.zstp.gd.edu.cn",
+        "name": "中山火炬职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.jmpt.cn", "name": "江门职业技术学院", "addr": "" },
+      {
+        "link": "https://www.mmpt.edu.cn/",
+        "name": "茂名职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.zhcpt.net",
+        "name": "珠海城市职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.zqyz.gd.cn",
+        "name": "肇庆医学高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdpi.edu.cn",
+        "name": "广东理工职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gcp.edu.cn",
+        "name": "广州城市职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gpc.net.cn",
+        "name": "广东工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gtxy.gd.edu.cn",
+        "name": "广州铁路职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdkm.edu.cn",
+        "name": "广东科贸职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzkmu.com",
+        "name": "广州科技贸易职业学院",
+        "addr": ""
+      },
+      { "link": "http://www.zspt.cn", "name": "中山职业技术学院", "addr": "" },
+      {
+        "link": "http://www.dgpt.edu.cn",
+        "name": "东莞职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdepc.cn",
+        "name": "广东环境保护工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdycps.edu.cn",
+        "name": "广东青年职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdddc.edu.cn",
+        "name": "广东舞蹈戏剧职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hzhsp.edu.cn",
+        "name": "惠州卫生职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdsty.edu.cn",
+        "name": "广东生态工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hzc.edu.cn",
+        "name": "惠州城市职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdhvc.edu.cn",
+        "name": "广东茂名健康职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://gdpnc.edu.cn",
+        "name": "广东茂名幼儿师范专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzws.edu.cn",
+        "name": "广州卫生职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hzevc.edu.cn",
+        "name": "惠州工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdjmcmc.edu.cn",
+        "name": "广东江门中医药职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdafc.edu.cn",
+        "name": "广东茂名农林科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jmpec.edu.cn",
+        "name": "广东江门幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdcmxy.edu.cn",
+        "name": "广东财贸职业学院",
+        "addr": ""
+      },
+      { "link": null, "name": "广州幼儿师范高等专科学校", "addr": "" },
+      {
+        "link": "http://www.gdstpec.edu.cn",
+        "name": "广东汕头幼儿师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdmzvtc.edu.cn",
+        "name": "广东梅州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdczwzy.edu.cn",
+        "name": "广东潮州卫生健康职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdyfvccm.edu.cn",
+        "name": "广东云浮中医药职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.zhjpec.edu.cn",
+        "name": "湛江幼儿师范专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.chaoshan.cn",
+        "name": "潮汕职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.hlu.edu.cn", "name": "私立华联学院", "addr": "" },
+      {
+        "link": "http://www.gdxa.cn",
+        "name": "广东新安职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.kdvtc-edu.cn",
+        "name": "广州康大职业技术学院",
+        "addr": ""
+      },
+      { "link": "http://www.zhac.net", "name": "珠海艺术职业学院", "addr": "" },
+      {
+        "link": "http://www.lingnancollege.com.cn",
+        "name": "广东岭南职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.atvcn.com",
+        "name": "广东亚视演艺职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gziec.net",
+        "name": "广州涉外经济职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.nyjy.cn",
+        "name": "广州南洋理工职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hzcollege.com",
+        "name": "惠州经济职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzmodern.cn",
+        "name": "广州现代信息工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hnsmxy.com",
+        "name": "广州华南商贸职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hlxy.net",
+        "name": "广州华立科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzzjedu.cn",
+        "name": "广州珠江职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sontanedu.cn",
+        "name": "广州松田职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.zmstu.org.cn",
+        "name": "广东文理职业学院",
+        "addr": ""
+      },
+      { "link": "http://www.gzcjc.cn", "name": "广州城建职业学院", "addr": "" },
+      {
+        "link": "http://www.gdnfu.edu.cn",
+        "name": "广东南方职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzhsvc.com",
+        "name": "广州华商职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzhxtc.cn",
+        "name": "广州华夏职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gzdhxy.edu.cn",
+        "name": "广州东华职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdcxxy.edu.cn",
+        "name": "广东创新科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xxgcxy.cn",
+        "name": "广东信息工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.bgypt.edu.cn",
+        "name": "广东碧桂园职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdjdxy.edu.cn",
+        "name": "广东酒店管理职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.gdzqac.edu.cn",
+        "name": "广东肇庆航空职业学院",
+        "addr": ""
+      },
+      { "link": null, "name": "珠海格力职业学院", "addr": "" },
+      { "link": "#mulu", "name": "▲", "addr": "" }
+    ] },
     { "city_id": 45, "quote": "广西", "university": [] },
     { "city_id": 46, "quote": "海南", "university": [] },
     { "city_id": 50, "quote": "重庆", "university": [] },
