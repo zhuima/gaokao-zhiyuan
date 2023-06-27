@@ -12345,7 +12345,48 @@
         { "link": "#mulu", "name": "▲", "addr": "" }
       ]
     },
-    { "city_id": 54, "quote": "西藏", "university": [] },
+    {
+      "city_id": 54,
+      "quote": "西藏",
+      "university": [
+        {
+          "link": "http://www.xza.edu.cn",
+          "name": "西藏农牧学院",
+          "addr": "林芝市 "
+        },
+        {
+          "link": "http://www.utibet.edu.cn",
+          "name": "西藏大学",
+          "addr": "拉萨市 "
+        },
+        {
+          "link": "http://www.xzmu.edu.cn",
+          "name": "西藏民族大学",
+          "addr": "咸阳市 "
+        },
+        {
+          "link": "http://www.ttmc.edu.cn",
+          "name": "西藏藏医药大学",
+          "addr": "拉萨市 "
+        },
+        {
+          "link": "http://www.tpa.net.cn",
+          "name": "西藏警官高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzlssf.org",
+          "name": "拉萨师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzgzy.cn",
+          "name": "西藏职业技术学院",
+          "addr": ""
+        },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
     { "city_id": 61, "quote": "陕西", "university": [] },
     { "city_id": 62, "quote": "甘肃", "university": [] },
     { "city_id": 63, "quote": "青海", "university": [] },
