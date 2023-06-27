@@ -7916,7 +7916,668 @@
         }
       ]
     },
-    { "city_id": 42, "quote": "湖北", "university": [] },
+    { "city_id": 42, "quote": "湖北", "university":  [
+      {
+        "link": "http://www.whu.edu.cn",
+        "name": "武汉大学",
+        "addr": "弘毅学堂"
+      },
+      {
+        "link": "http://www.hust.edu.cn",
+        "name": "华中科技大学",
+        "addr": "武汉市 同济医学院/金银潭医院"
+      },
+      {
+        "link": "https://www.cug.edu.cn/",
+        "name": "中国地质大学（武汉）",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whut.edu.cn",
+        "name": "武汉理工大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hzau.edu.cn",
+        "name": "华中农业大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.ccnu.edu.cn",
+        "name": "华中师范大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.znufe.edu.cn",
+        "name": "中南财经政法大学",
+        "addr": "⚖️武汉市"
+      },
+      {
+        "link": "http://www.scuec.edu.cn",
+        "name": "中南民族大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.wust.edu.cn",
+        "name": "武汉科技大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.yangtzeu.edu.cn",
+        "name": "长江大学",
+        "addr": "荆州市"
+      },
+      {
+        "link": "http://www.wit.edu.cn",
+        "name": "武汉工程大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wuse.edu.cn",
+        "name": "武汉纺织大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whpu.edu.cn",
+        "name": "武汉轻工大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbut.edu.cn",
+        "name": "湖北工业大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbtcm.edu.cn",
+        "name": "湖北中医药大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hubu.edu.cn",
+        "name": "湖北大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbnu.edu.cn",
+        "name": "湖北师范大学",
+        "addr": "黄石市"
+      },
+      {
+        "link": "http://www.hgnu.edu.cn",
+        "name": "黄冈师范学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbmzu.edu.cn",
+        "name": "湖北民族大学",
+        "addr": "恩施州"
+      },
+      {
+        "link": "http://www.hjnu.edu.cn",
+        "name": "汉江师范学院",
+        "addr": "十堰市"
+      },
+      {
+        "link": "http://www.hbuas.edu.cn",
+        "name": "湖北文理学院",
+        "addr": "襄阳市"
+      },
+      {
+        "link": "http://www.wipe.edu.cn",
+        "name": "武汉体育学院",
+        "addr": "🏃"
+      },
+      {
+        "link": "http://www.hifa.edu.cn",
+        "name": "湖北美术学院",
+        "addr": "🎨武汉市"
+      },
+      {
+        "link": "http://www.huat.edu.cn",
+        "name": "湖北汽车工业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbeu.cn/xxgk/xxjj.htm",
+        "name": "湖北工程学院",
+        "addr": "孝感市"
+      },
+      {
+        "link": "http://www.hsit.edu.cn",
+        "name": "湖北理工学院",
+        "addr": "黄石市"
+      },
+      {
+        "link": "http://www.hbust.edu.cn",
+        "name": "湖北科技学院",
+        "addr": "咸宁市"
+      },
+      {
+        "link": "http://job.hbmu.edu.cn",
+        "name": "湖北医药学院",
+        "addr": "十堰市"
+      },
+      {
+        "link": "http://www.jhun.edu.cn",
+        "name": "江汉大学",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.ctgu.edu.cn",
+        "name": "三峡大学",
+        "addr": "宜昌市"
+      },
+      {
+        "link": "http://www.hbpa.edu.cn",
+        "name": "湖北警官学院",
+        "addr": "🛂武汉市"
+      },
+      {
+        "link": "http://www.jcut.edu.cn",
+        "name": "荆楚理工学院",
+        "addr": "荆门市"
+      },
+      {
+        "link": "http://www.whcm.edu.cn",
+        "name": "武汉音乐学院",
+        "addr": "🎵"
+      },
+      {
+        "link": "http://www.hbue.edu.cn",
+        "name": "湖北经济学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.wbu.edu.cn",
+        "name": "武汉商学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hubce.edu.cn",
+        "name": "湖北第二师范学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://dh.whu.edu.cn",
+        "name": "武汉东湖学院",
+        "addr": ""
+      },
+      {
+        "link": "http://hkxy.edu.cn",
+        "name": "汉口学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.wsyu.edu.cn",
+        "name": "武昌首义学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.wut.edu.cn",
+        "name": "武昌理工学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whsw.cn",
+        "name": "武汉生物工程学院",
+        "addr": "4142012362"
+      },
+      {
+        "link": "http://www.qcuwh.cn",
+        "name": "武汉晴川学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hudazx.cn",
+        "name": "湖北大学知行学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://wic.edu.cn",
+        "name": "武汉城市学院",
+        "addr": ""
+      },
+      {
+        "link": "http://kjxy.ctgu.edu.cn",
+        "name": "三峡大学科技学院",
+        "addr": "宜昌市"
+      },
+      {
+        "link": "http://www.whwl.edu.cn",
+        "name": "武汉文理学院",
+        "addr": ""
+      },
+      {
+        "link": "http://gcxy.hbut.edu.cn",
+        "name": "湖北工业大学工程技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.witpt.edu.cn",
+        "name": "武汉工程大学邮电与信息工程学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whcibe.com",
+        "name": "武汉纺织大学外经贸学院",
+        "addr": "4142013240"
+      },
+      {
+        "link": "https://www.wuit.cn",
+        "name": "武昌工学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.wtbu.edu.cn",
+        "name": "武汉工商学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jzxy.net.cn",
+        "name": "荆州学院",
+        "addr": ""
+      },
+      {
+        "link": "http://wlxy.yangtzeu.edu.cn",
+        "name": "长江大学文理学院",
+        "addr": "荆州市"
+      },
+      {
+        "link": "http://www.hbc.edu.cn",
+        "name": "湖北商贸学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://kjxy.huat.edu.cn",
+        "name": "湖北汽车工业学院科技学院",
+        "addr": "十堰市"
+      },
+      {
+        "link": "http://yhgj.hbmu.edu.cn",
+        "name": "湖北医药学院药护学院",
+        "addr": "十堰市"
+      },
+      {
+        "link": "http://www.hbesxy.edu.cn",
+        "name": "湖北恩施学院",
+        "addr": "恩施州"
+      },
+      {
+        "link": "http://fsxy.hbue.edu.cn",
+        "name": "湖北经济学院法商学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.kjxy.wipe.edu.cn",
+        "name": "武汉体育学院体育科技学院",
+        "addr": "🏃"
+      },
+      {
+        "link": "http://wlxy.hbnu.edu.cn",
+        "name": "湖北师范大学文理学院",
+        "addr": "黄石市"
+      },
+      {
+        "link": "http://www.hbasstu.net",
+        "name": "湖北文理学院理工学院",
+        "addr": "襄阳市"
+      },
+      {
+        "link": "http://www.hbeutc.cn",
+        "name": "湖北工程学院新技术学院",
+        "addr": "孝感市"
+      },
+      {
+        "link": "http://www.hustwenhua.net",
+        "name": "华中科技大学文华学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whxy.edu.cn",
+        "name": "武汉学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wuhues.com",
+        "name": "武汉工程科技学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whhxit.edu.cn",
+        "name": "武汉华夏理工学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whmc.edu.cn",
+        "name": "武汉传媒学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wids.edu.cn",
+        "name": "武汉设计工程学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whmzxy.cn",
+        "name": "武汉民政职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wtc.edu.cn",
+        "name": "武汉职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbhgzy.com.cn",
+        "name": "黄冈职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cjxy.edu.cn",
+        "name": "长江职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.ssdx.net",
+        "name": "荆州理工职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbgyzy.edu.cn",
+        "name": "湖北工业职业技术学院",
+        "addr": "十堰市"
+      },
+      {
+        "link": "http://www.ezu.net.cn",
+        "name": "鄂州职业大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whcvc.cn",
+        "name": "武汉城市职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbvtc.edu.cn",
+        "name": "湖北职业技术学院",
+        "addr": "孝感市"
+      },
+      {
+        "link": "http://www.wspc.edu.cn",
+        "name": "武汉船舶职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.eszy.edu.cn",
+        "name": "恩施职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbxytc.com",
+        "name": "襄阳职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jzit.net.cn",
+        "name": "荆州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wgxy.net",
+        "name": "武汉工程职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbxtzy.com",
+        "name": "仙桃职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbliti.com",
+        "name": "湖北轻工职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbctc.edu.cn",
+        "name": "湖北交通职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbzyy.org",
+        "name": "湖北中医药高等专科学校",
+        "addr": "荆州市"
+      },
+      {
+        "link": "http://www.whhhxy.com",
+        "name": "武汉航海职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wru.com.cn",
+        "name": "武汉铁路职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whvcse.com",
+        "name": "武汉软件工程职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.tgc.edu.cn",
+        "name": "湖北三峡职业技术学院",
+        "addr": "宜昌市"
+      },
+      {
+        "link": "http://www.szvtc.cn",
+        "name": "随州职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whetc.hb.sgcc.com.cn",
+        "name": "武汉电力职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbsy.cn",
+        "name": "湖北水利水电职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.ucvc.net",
+        "name": "湖北城市建设职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whpa.cn",
+        "name": "武汉警官职业学院",
+        "addr": "🛂"
+      },
+      {
+        "link": "http://www.hbswkj.com",
+        "name": "湖北生物科技职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.artschool.com.cn",
+        "name": "湖北艺术职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whjzy.net",
+        "name": "武汉交通职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.xnec.cn",
+        "name": "咸宁职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cj-edu.com.cn",
+        "name": "长江工程职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbjhart.com",
+        "name": "江汉艺术职业学院",
+        "addr": "潜江市"
+      },
+      {
+        "link": "http://www.hbpem.com",
+        "name": "湖北黄冈应急管理职业技术学院",
+        "addr": "黄冈市"
+      },
+      {
+        "link": "http://www.hbftc.org.cn",
+        "name": "湖北财税职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbgt.com.cn",
+        "name": "湖北国土资源职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hb-green.com",
+        "name": "湖北生态工程职业技术学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.tgcep.cn",
+        "name": "三峡电力职业学院",
+        "addr": "宜昌市"
+      },
+      {
+        "link": "http://www.hubstc.com.cn",
+        "name": "湖北科技职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbqnxy.com",
+        "name": "湖北青年职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hbei.edu.cn",
+        "name": "湖北工程职业学院",
+        "addr": "黄石市"
+      },
+      {
+        "link": "http://www.sxlyzy.edu.cn",
+        "name": "三峡旅游职业技术学院",
+        "addr": "宜昌市"
+      },
+      {
+        "link": "http://tmzyxy.cn",
+        "name": "天门职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbtyzy.com",
+        "name": "湖北体育职业学院",
+        "addr": "🏃武汉市"
+      },
+      {
+        "link": "http://www.xyqczy.com",
+        "name": "襄阳汽车职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbssyys.cn",
+        "name": "湖北幼儿师范高等专科学校",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.hcrt.edu.cn",
+        "name": "湖北铁道运输职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://whmvc.net",
+        "name": "武汉海事职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jmvc.edu.cn",
+        "name": "荆门职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.qlxyedu.com",
+        "name": "武汉铁路桥梁职业学院",
+        "addr": ""
+      },
+      {
+        "link": "",
+        "name": "襄阳科技职业学院",
+        "addr": "4142014832"
+      },
+      {
+        "link": "",
+        "name": "宜昌科技职业学院",
+        "addr": "4142014833"
+      },
+      {
+        "link": "http://whitvc.zsxx.e21.edu.cn",
+        "name": "武汉工贸职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbou.cn",
+        "name": "湖北开放职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whkjzy.cn",
+        "name": "武汉科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whflfa.com",
+        "name": "武汉外语外事职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.whinfo.cn",
+        "name": "武汉信息传播职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.wczy.edu.cn",
+        "name": "武昌职业学院",
+        "addr": "武汉市"
+      },
+      {
+        "link": "http://www.whicu.com",
+        "name": "武汉商贸职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.hbhgkj.com",
+        "name": "黄冈科技职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cjchuanxi.com",
+        "name": "长江艺术工程职业学院",
+        "addr": "荆州市"
+      },
+      {
+        "link": "http://www.whggvc.net",
+        "name": "武汉光谷职业学院",
+        "addr": ""
+      },
+      {
+        "link": "",
+        "name": "湖北健康职业学院",
+        "addr": "4142014721 咸宁市"
+      },
+      {
+        "link": "",
+        "name": "湖北孝感美珈职业学院",
+        "addr": "4142014755 孝感市"
+      }
+    ] },
     { "city_id": 43, "quote": "湖南", "university": [] },
     { "city_id": 44, "quote": "广东", "university": [] },
     { "city_id": 45, "quote": "广西", "university": [] },
