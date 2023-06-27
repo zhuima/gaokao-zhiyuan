@@ -727,19 +727,719 @@
         }
       ]
     },
-    { "city_id": 13, "quote": "河北" },
-    { "city_id": 14, "quote": "山西" },
-    { "city_id": 15, "quote": "内蒙古" },
-    { "city_id": 21, "quote": "辽宁" },
-    { "city_id": 22, "quote": "吉林" },
-    { "city_id": 23, "quote": "黑龙江" },
-    { "city_id": 31, "quote": "上海" },
-    { "city_id": 32, "quote": "江苏" },
-    { "city_id": 33, "quote": "浙江" },
-    { "city_id": 34, "quote": "安徽" },
-    { "city_id": 35, "quote": "福建" },
-    { "city_id": 36, "quote": "江西" },
-    { "city_id": 37, "quote": "山东" },
+    {
+      "city_id": 13,
+      "quote": "河北",
+      "university": [
+        {
+          "link": "http://www.ncist.edu.cn",
+          "name": "华北科技学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "https://www.cppu.edu.cn/",
+          "name": "中国人民警察大学",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.fzxy.edu.cn",
+          "name": "防灾科技学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.cicp.edu.cn",
+          "name": "中央司法警官学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.hbu.edu.cn",
+          "name": "河北大学",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.hebeu.edu.cn",
+          "name": "河北工程大学",
+          "addr": "邯郸市"
+        },
+        {
+          "link": "http://www.hgu.edu.cn",
+          "name": "河北地质大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hebut.edu.cn",
+          "name": "河北工业大学",
+          "addr": "天津市"
+        },
+        {
+          "link": "http://www.ncst.edu.cn",
+          "name": "华北理工大学",
+          "addr": "唐山市"
+        },
+        {
+          "link": "http://www.hebust.edu.cn",
+          "name": "河北科技大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hebiace.edu.cn",
+          "name": "河北建筑工程学院",
+          "addr": "张家口市"
+        },
+        {
+          "link": "http://www.hbwe.edu.cn",
+          "name": "河北水利电力学院",
+          "addr": "沧州市"
+        },
+        {
+          "link": "http://www.hebau.edu.cn",
+          "name": "河北农业大学",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.hebmu.edu.cn",
+          "name": "河北医科大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hebeinu.edu.cn",
+          "name": "河北北方学院",
+          "addr": "张家口市"
+        },
+        {
+          "link": "http://www.cdmc.edu.cn",
+          "name": "承德医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hebtu.edu.cn",
+          "name": "河北师范大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.bdu.edu.cn",
+          "name": "保定学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbun.edu.cn",
+          "name": "河北民族师范学院",
+          "addr": "承德市"
+        },
+        {
+          "link": "http://www.tstc.edu.cn",
+          "name": "唐山师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lfsfxy.org.cn",
+          "name": "廊坊师范学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.hsnc.edu.cn/",
+          "name": "衡水学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzc.edu.cn",
+          "name": "石家庄学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.hdc.edu.cn/",
+          "name": "邯郸学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xttc.edu.cn",
+          "name": "邢台学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.caztc.edu.cn",
+          "name": "沧州师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.stdu.edu.cn",
+          "name": "石家庄铁道大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ysu.edu.cn",
+          "name": "燕山大学",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.hevttc.edu.cn",
+          "name": "河北科技师范学院",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.tsc.edu.cn",
+          "name": "唐山学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hepec.edu.cn",
+          "name": "河北体育学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hbcf.edu.cn",
+          "name": "河北金融学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.nciae.edu.cn",
+          "name": "北华航天工业学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.heuet.edu.cn",
+          "name": "河北经贸大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hbcit.edu.cn",
+          "name": "河北工业职业技术大学",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.xpc.edu.cn",
+          "name": "河北科技工程职业技术大学",
+          "addr": "邢台市"
+        },
+        {
+          "link": "http://www.cdpc.edu.cn",
+          "name": "河北石油职业技术大学",
+          "addr": "承德市"
+        },
+        {
+          "link": "http://www.hebcm.edu.cn",
+          "name": "河北中医学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "",
+          "name": "张家口学院",
+          "addr": "4113014458"
+        },
+        {
+          "link": "http://www.hebuee.edu.cn",
+          "name": "河北环境工程学院",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.hebic.cn",
+          "name": "河北传媒学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hbfsh.com",
+          "name": "河北工程技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hbafa.com",
+          "name": "河北美术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hbkjxy.cn",
+          "name": "河北科技学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.hbwgydx.com",
+          "name": "河北外国语学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hicc.cn",
+          "name": "河北大学工商学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.qgxy.cn",
+          "name": "华北理工大学轻工学院",
+          "addr": "唐山市"
+        },
+        {
+          "link": "http://huihua.hebtu.edu.cn",
+          "name": "河北师范大学汇华学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://jgxy.hueb.edu.cn",
+          "name": "河北经贸大学经济管理学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://lcxy.hebmu.edu.cn",
+          "name": "河北医科大学临床学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://kexin.hebeu.edu.cn",
+          "name": "河北工程大学科信学院",
+          "addr": "邯郸市"
+        },
+        {
+          "link": "http://stc.ysu.edu.cn",
+          "name": "燕山大学里仁学院",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.stdusfc.edu.cn",
+          "name": "石家庄铁道大学四方学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzuehx.cn",
+          "name": "河北地质大学华信学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://xianke.hebau.edu.cn",
+          "name": "河北农业大学现代科技学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://jtxy.ncst.edu.cn",
+          "name": "华北理工大学冀唐学院",
+          "addr": "唐山市"
+        },
+        {
+          "link": "http://www.cuggw.com",
+          "name": "保定理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://mooc.yit.edu.cn",
+          "name": "燕京理工学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.bucmdf.edu.cn",
+          "name": "北京中医药大学东方学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.czjtu.edu.cn",
+          "name": "沧州交通学院",
+          "addr": ""
+        },
+        {
+          "link": "http://hbdfxy.cn",
+          "name": "河北东方学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.hd-u.com",
+          "name": "邯郸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzpt.edu.cn",
+          "name": "石家庄职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zhz.cn",
+          "name": "张家口职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbsi.com.cn",
+          "name": "河北软件职业技术学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.pvtc.edu.cn",
+          "name": "河北石油职业技术学院",
+          "addr": "廊坊市"
+        },
+        {
+          "link": "http://www.hbjcxy.com",
+          "name": "河北建材职业技术学院",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.helc.edu.cn",
+          "name": "河北政法职业学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.czvtc.cn",
+          "name": "沧州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbnyxy.cn",
+          "name": "河北能源职业技术学院",
+          "addr": "唐山市"
+        },
+        {
+          "link": "http://www.sirt.edu.cn",
+          "name": "石家庄铁路职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bvtc.com.cn",
+          "name": "保定职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qhdvtc.com",
+          "name": "秦皇岛职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tsvtc.com",
+          "name": "唐山职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hsvtc.cn",
+          "name": "衡水职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tsgzy.edu.cn",
+          "name": "唐山工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xtmc.net",
+          "name": "邢台医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hebart.com",
+          "name": "河北艺术职业学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.cdtvc.com",
+          "name": "河北旅游职业学院",
+          "addr": "承德市"
+        },
+        {
+          "link": "http://www.hejtxy.edu.cn",
+          "name": "河北交通职业技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.hebcpc.cn",
+          "name": "河北化工医药职业技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.sjziei.com",
+          "name": "石家庄信息工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbiibe.edu.cn",
+          "name": "河北对外经贸职业学院",
+          "addr": "秦皇岛市"
+        },
+        {
+          "link": "http://www.bddy.cn",
+          "name": "保定电力职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbjd.com.cn",
+          "name": "河北机电职业技术学院",
+          "addr": "邢台市"
+        },
+        {
+          "link": "http://www.bhsyxy.com",
+          "name": "渤海石油职业学院",
+          "addr": "沧州市"
+        },
+        {
+          "link": "http://www.lfzhjxy.net",
+          "name": "廊坊职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tskjzy.cn",
+          "name": "唐山科技职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzpc.edu.cn",
+          "name": "石家庄邮电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hebsjy.com",
+          "name": "河北公安警察职业学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.jjgxy.com.cn",
+          "name": "河北司法警官职业学院",
+          "addr": "邯郸市"
+        },
+        {
+          "link": "http://www.czmc.cn",
+          "name": "沧州医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hebnzxy.com",
+          "name": "河北女子职业技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.jzhxy.com",
+          "name": "冀中职业学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "",
+          "name": "河北正定师范高等专科学校",
+          "addr": "4113014185 石家庄市"
+        },
+        {
+          "link": "http://www.hbgy.edu.cn",
+          "name": "河北劳动关系职业学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.czptc.edu.cn",
+          "name": "沧州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xhkjzyxy.com",
+          "name": "宣化科技职业学院",
+          "addr": "张家口市"
+        },
+        {
+          "link": "http://www.lfyjzjxy.com",
+          "name": "廊坊燕京职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdwx.cn",
+          "name": "承德护理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzysgz.com",
+          "name": "石家庄幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lfwx.net",
+          "name": "廊坊卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbgdys.cn",
+          "name": "河北轨道运输职业技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://bdysgz.com",
+          "name": "保定幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbgm.edu.cn",
+          "name": "河北工艺美术职业学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.tsyzh.com/xxgk.htm",
+          "name": "唐山幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdct.edu.cn",
+          "name": "承德应用技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hdyz.edu.cn",
+          "name": "邯郸幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hdkz.edu.cn",
+          "name": "邯郸科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hebc.edu.cn/School?uid=649",
+          "name": "河北招生网",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbgy.edu.cn",
+          "name": "河北劳动关系职业学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://www.czptc.edu.cn",
+          "name": "沧州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xhkjzyxy.com",
+          "name": "宣化科技职业学院",
+          "addr": "张家口市"
+        },
+        {
+          "link": "http://www.lfyjzjxy.com",
+          "name": "廊坊燕京职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdwx.cn",
+          "name": "承德护理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzysgz.com",
+          "name": "石家庄幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lfwx.net",
+          "name": "廊坊卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbgdys.cn",
+          "name": "河北轨道运输职业技术学院",
+          "addr": "石家庄市"
+        },
+        {
+          "link": "http://bdysgz.com",
+          "name": "保定幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbgm.edu.cn",
+          "name": "河北工艺美术职业学院",
+          "addr": "保定市"
+        },
+        {
+          "link": "http://www.tsyzh.com/xxgk.htm",
+          "name": "唐山幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdct.edu.cn",
+          "name": "承德应用技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hdyz.edu.cn",
+          "name": "邯郸幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hdkz.edu.cn",
+          "name": "邯郸科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://hebeedu.cn/School?uid=2734",
+          "name": "河北招生网",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzcvc.com",
+          "name": "石家庄工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzcsjjxy.com",
+          "name": "石家庄城市经济职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzcj.edu.cn",
+          "name": "石家庄财经职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzgsxy.com",
+          "name": "石家庄工商职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzlg.com",
+          "name": "石家庄理工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kjxinxiedu.com",
+          "name": "石家庄科技信息职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzmc.cn",
+          "name": "石家庄医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzjjxy.com",
+          "name": "石家庄经济职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzrmyz.com",
+          "name": "石家庄人民医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjzkjxy.net",
+          "name": "石家庄科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bhlgxy.com",
+          "name": "渤海理工职业学院",
+          "addr": "沧州市"
+        },
+        {
+          "link": "http://www.cct.edu.cn",
+          "name": "曹妃甸职业技术学院",
+          "addr": "唐山市"
+        },
+        {
+          "link": "http://www.tmi.edu.cn",
+          "name": "唐山海运职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://xtyzy.cn",
+          "name": "邢台应用技术职业学院",
+          "addr": ""
+        }
+      ]
+    },
+    { "city_id": 14, "quote": "山西", "university": [] },
+    { "city_id": 15, "quote": "内蒙古", "university": [] },
+    { "city_id": 21, "quote": "辽宁", "university": [] },
+    { "city_id": 22, "quote": "吉林", "university": [] },
+    { "city_id": 23, "quote": "黑龙江", "university": [] },
+    { "city_id": 31, "quote": "上海", "university": [] },
+    { "city_id": 32, "quote": "江苏", "university": [] },
+    { "city_id": 33, "quote": "浙江", "university": [] },
+    { "city_id": 34, "quote": "安徽", "university": [] },
+    { "city_id": 35, "quote": "福建", "university": [] },
+    { "city_id": 36, "quote": "江西", "university": [] },
+    { "city_id": 37, "quote": "山东", "university": [] },
     {
       "city_id": 41,
       "quote": "河南",
@@ -1416,20 +2116,20 @@
         }
       ]
     },
-    { "city_id": 42, "quote": "湖北" },
-    { "city_id": 43, "quote": "湖南" },
-    { "city_id": 44, "quote": "广东" },
-    { "city_id": 45, "quote": "广西" },
-    { "city_id": 46, "quote": "海南" },
-    { "city_id": 50, "quote": "重庆" },
-    { "city_id": 51, "quote": "四川" },
-    { "city_id": 52, "quote": "贵州" },
-    { "city_id": 53, "quote": "云南" },
-    { "city_id": 54, "quote": "西藏" },
-    { "city_id": 61, "quote": "陕西" },
-    { "city_id": 62, "quote": "甘肃" },
-    { "city_id": 63, "quote": "青海" },
-    { "city_id": 64, "quote": "宁夏" },
-    { "city_id": 65, "quote": "新疆" }
+    { "city_id": 42, "quote": "湖北", "university": [] },
+    { "city_id": 43, "quote": "湖南", "university": [] },
+    { "city_id": 44, "quote": "广东", "university": [] },
+    { "city_id": 45, "quote": "广西", "university": [] },
+    { "city_id": 46, "quote": "海南", "university": [] },
+    { "city_id": 50, "quote": "重庆", "university": [] },
+    { "city_id": 51, "quote": "四川", "university": [] },
+    { "city_id": 52, "quote": "贵州", "university": [] },
+    { "city_id": 53, "quote": "云南", "university": [] },
+    { "city_id": 54, "quote": "西藏", "university": [] },
+    { "city_id": 61, "quote": "陕西", "university": [] },
+    { "city_id": 62, "quote": "甘肃", "university": [] },
+    { "city_id": 63, "quote": "青海", "university": [] },
+    { "city_id": 64, "quote": "宁夏", "university": [] },
+    { "city_id": 65, "quote": "新疆", "university": [] }
   ]
 }
