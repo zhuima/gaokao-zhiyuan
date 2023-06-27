@@ -5026,7 +5026,562 @@
         }
       ]
     },
-    { "city_id": 34, "quote": "安徽", "university": [] },
+    {
+      "city_id": 34,
+      "quote": "安徽",
+      "university": [
+        {
+          "link": "http://www.ustc.edu.cn",
+          "name": "中国科学技术大学",
+          "addr": "合肥市 少年班、科大讯飞、公共实验室"
+        },
+        {
+          "link": "http://www.hfut.edu.cn",
+          "name": "合肥工业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahu.edu.cn",
+          "name": "安徽大学",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahut.edu.cn",
+          "name": "安徽工业大学",
+          "addr": "马鞍山市"
+        },
+        {
+          "link": "http://www.aust.edu.cn",
+          "name": "安徽理工大学",
+          "addr": "淮南市"
+        },
+        {
+          "link": "http://www.ahpu.edu.cn",
+          "name": "安徽工程大学",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahau.edu.cn",
+          "name": "安徽农业大学",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahmu.edu.cn",
+          "name": "安徽医科大学",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.bbmc.edu.cn",
+          "name": "蚌埠医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wnmc.edu.cn",
+          "name": "皖南医学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahtcm.edu.cn",
+          "name": "安徽中医药大学",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahnu.edu.cn",
+          "name": "安徽师范大学",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.fynu.edu.cn",
+          "name": "阜阳师范大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.aqnu.edu.cn",
+          "name": "安庆师范大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hbcnc.edu.cn",
+          "name": "淮北师范大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hsu.edu.cn",
+          "name": "黄山学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wxc.edu.cn",
+          "name": "皖西学院",
+          "addr": "六安市"
+        },
+        {
+          "link": "http://www.chzu.edu.cn",
+          "name": "滁州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.aufe.edu.cn",
+          "name": "安徽财经大学",
+          "addr": "蚌埠市"
+        },
+        {
+          "link": "http://www.ahsztc.edu.cn",
+          "name": "宿州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.chtc.edu.cn",
+          "name": "巢湖学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.hnnu.edu.cn",
+          "name": "淮南师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tlc.edu.cn",
+          "name": "铜陵学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahjzu.edu.cn",
+          "name": "安徽建筑大学",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahstu.edu.cn",
+          "name": "安徽科技学院",
+          "addr": "滁州市"
+        },
+        {
+          "link": "http://www.hfuu.edu.cn",
+          "name": "合肥学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bbxy.edu.cn",
+          "name": "蚌埠学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.czu.edu.cn",
+          "name": "池州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bzuu.edu.cn",
+          "name": "亳州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hftc.edu.cn",
+          "name": "合肥师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahua.edu.cn",
+          "name": "安徽艺术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.sanlian.net.cn",
+          "name": "安徽三联学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.axhu.edu.cn",
+          "name": "安徽新华学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.wenda.edu.cn",
+          "name": "安徽文达信息工程学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.aisu.edu.cn",
+          "name": "安徽外国语学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.bctb.edu.cn",
+          "name": "蚌埠工商学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahujhc.cn",
+          "name": "安徽大学江淮学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.aiit.edu.cn",
+          "name": "安徽信息工程学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.masu.edu.cn",
+          "name": "马鞍山学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cuhf.edu.cn",
+          "name": "合肥城市学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hfue.edu.cn",
+          "name": "合肥经济学院",
+          "addr": ""
+        },
+        {
+          "link": "http://wjxy.ahnu.edu.cn",
+          "name": "安徽师范大学皖江学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://cc.ahmu.edu.cn",
+          "name": "安徽医科大学临床医学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://cie.fynu.edu.cn",
+          "name": "阜阳师范大学信息工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hblgxy.edu.cn",
+          "name": "淮北理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wjut.edu.cn",
+          "name": "皖江工学院",
+          "addr": "马鞍山市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahtu.ah.cn",
+          "name": "安徽职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.hbvtc.net",
+          "name": "淮北职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.whptu.ah.cn",
+          "name": "芜湖职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnuu.edu.cn",
+          "name": "淮南联合大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.abc.edu.cn",
+          "name": "安徽商贸职业技术学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahsdxy.ah.edu.cn",
+          "name": "安徽水利水电职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.fyzy.net",
+          "name": "阜阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tlpt.net.cn",
+          "name": "铜陵职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahjgxy.com",
+          "name": "安徽警官职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.hnvtc.ah.edu.cn",
+          "name": "淮南职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahiec.net",
+          "name": "安徽工业经济职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.hftyxy.com",
+          "name": "合肥通用职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahgmedu.cn",
+          "name": "安徽工贸职业技术学院",
+          "addr": "淮南市"
+        },
+        {
+          "link": "http://www.szzy.ah.cn",
+          "name": "宿州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lvtc.edu.cn",
+          "name": "六安职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.avceit.cn",
+          "name": "安徽电子信息职业技术学院",
+          "addr": "蚌埠市"
+        },
+        {
+          "link": "http://www.ahctc.com",
+          "name": "安徽交通职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahty.net",
+          "name": "安徽体育运动职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahzyygz.com",
+          "name": "安徽中医药高等专科学校",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahyz.cn",
+          "name": "安徽医学高等专科学校",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.chzy.org",
+          "name": "合肥职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.czc.net.cn",
+          "name": "滁州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.czgz.cn",
+          "name": "池州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xcvtc.edu.cn",
+          "name": "宣城职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.amtc.cn",
+          "name": "安徽广播影视职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.aepu.com.cn",
+          "name": "安徽电气工程职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahyky.com",
+          "name": "安徽冶金科技职业学院",
+          "addr": "马鞍山市"
+        },
+        {
+          "link": "http://www.cmoc.cn",
+          "name": "安徽城市管理职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahcme.cn",
+          "name": "安徽机电职业技术学院",
+          "addr": "芜湖市"
+        },
+        {
+          "link": "http://www.ahbvc.cn",
+          "name": "安徽工商职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.acac.cn",
+          "name": "安徽中澳科技职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.bzvtc.com",
+          "name": "亳州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahgf.com.cn",
+          "name": "安徽国防科技职业学院",
+          "addr": "六安市"
+        },
+        {
+          "link": "http://www.aqvtc.cn",
+          "name": "安庆职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.artah.cn",
+          "name": "安徽艺术职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.massz.cn",
+          "name": "马鞍山师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahiib.com",
+          "name": "安徽财经国际职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahlyxy.cn",
+          "name": "安徽林业职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahsjxy.cn",
+          "name": "安徽审计职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahcbxy.cn",
+          "name": "安徽新闻出版职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahptc.cn",
+          "name": "安徽邮电职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahip.cn",
+          "name": "安徽工业职业技术学院",
+          "addr": "铜陵市"
+        },
+        {
+          "link": "http://www.aqyyz.cn",
+          "name": "安庆医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.huishangedu.cn",
+          "name": "徽商职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.mastc.edu.cn",
+          "name": "马鞍山职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tcsfgz.cn",
+          "name": "桐城师范高等专科学校",
+          "addr": "安庆市"
+        },
+        {
+          "link": "http://www.hszyxy.com",
+          "name": "黄山职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.czcvc.net",
+          "name": "滁州城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jacedu.cn",
+          "name": "安徽汽车职业技术学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.wxwsxy.cn",
+          "name": "皖西卫生职业学院",
+          "addr": "六安市"
+        },
+        {
+          "link": "http://www.ahly.edu.cn",
+          "name": "安徽粮食工程职业学院",
+          "addr": "合肥市"
+        },
+        {
+          "link": "http://www.ahwsjkxy.edu.cn",
+          "name": "安徽卫生健康职业学院",
+          "addr": "池州市"
+        },
+        {
+          "link": "http://www.wbws.edu.cn",
+          "name": "皖北卫生职业学院",
+          "addr": "宿州市"
+        },
+        {
+          "link": "http://fypec.edu.cn/xxgk/xxjj.htm",
+          "name": "阜阳幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        },
+        {
+          "link": "http://www.ahyzxy.cn",
+          "name": "安徽扬子职业技术学院",
+          "addr": "阜阳市"
+        }
+      ]
+    },
     { "city_id": 35, "quote": "福建", "university": [] },
     { "city_id": 36, "quote": "江西", "university": [] },
     { "city_id": 37, "quote": "山东", "university": [] },
