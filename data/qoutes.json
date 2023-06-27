@@ -10566,935 +10566,1386 @@
         { "link": "#mulu", "name": "▲", "addr": "" }
       ]
     },
-    { "city_id": 50, "quote": "重庆", "university": [
-      { "link": "http://cqu.edu.cn", "name": "重庆大学", "addr": "沙坪坝区 " },
-      {
-        "link": "http://www.swu.edu.cn",
-        "name": "西南大学",
-        "addr": "北碚区 "
-      },
-      {
-        "link": "http://www.cqupt.edu.cn",
-        "name": "重庆邮电大学",
-        "addr": "南岸区 "
-      },
-      {
-        "link": "http://www.cquc.edu.cn",
-        "name": "重庆交通大学",
-        "addr": "南岸区 "
-      },
-      {
-        "link": "http://www.cqmu.edu.cn",
-        "name": "重庆医科大学",
-        "addr": "渝中区 "
-      },
-      {
-        "link": "http://www.cqnu.edu.cn",
-        "name": "重庆师范大学",
-        "addr": "沙坪坝区 "
-      },
-      {
-        "link": "http://www.cqwu.edu.cn",
-        "name": "重庆文理学院",
-        "addr": "永川区 "
-      },
-      {
-        "link": "http://www.sanxiau.edu.cn",
-        "name": "重庆三峡学院",
-        "addr": "万州区 "
-      },
-      {
-        "link": "http://www.yznu.cn",
-        "name": "长江师范学院",
-        "addr": "涪陵区 "
-      },
-      {
-        "link": "http://www.sisu.edu.cn",
-        "name": "四川外国语大学",
-        "addr": "沙坪坝区 "
-      },
-      {
-        "link": "http://www.swupl.edu.cn",
-        "name": "西南政法大学",
-        "addr": "⚖️沙坪坝区 "
-      },
-      {
-        "link": "http://www.scfai.edu.cn",
-        "name": "四川美术学院",
-        "addr": "🎨沙坪坝区 "
-      },
-      {
-        "link": "http://www.cqust.edu.cn",
-        "name": "重庆科技学院",
-        "addr": "沙坪坝区 "
-      },
-      {
-        "link": "http://www.cqut.edu.cn",
-        "name": "重庆理工大学",
-        "addr": "巴南区/渝北区 "
-      },
-      {
-        "link": "http://www.ctbu.edu.cn",
-        "name": "重庆工商大学",
-        "addr": "南岸区 "
-      },
-      {
-        "link": "http://www.cqpc.edu.cn",
-        "name": "重庆警察学院",
-        "addr": "🛂沙坪坝区 "
-      },
-      {
-        "link": "http://www.cque.edu.cn",
-        "name": "重庆第二师范学院",
-        "addr": "南岸区 "
-      },
-      {
-        "link": "http://www.cqctcm.edu.cn",
-        "name": "重庆中医药学院",
-        "addr": "璧山区 "
-      },
-      {
-        "link": "http://www.cqvtu.edu.cn",
-        "name": "重庆机电职业技术大学",
-        "addr": "璧山区 "
-      },
-      {
-        "link": "http://www.cqie.edu.cn",
-        "name": "重庆工程学院",
-        "addr": "巴南区 "
-      },
-      {
-        "link": "http://cqucc.cqu.edu.cn",
-        "name": "重庆城市科技学院",
-        "addr": "永川区 "
-      },
-      {
-        "link": "http://www.cqrk.edu.cn",
-        "name": "重庆人文科技学院",
-        "addr": "合川区 "
-      },
-      {
-        "link": "http://www.cqifs.edu.cn",
-        "name": "重庆外语外事学院",
-        "addr": "渝北区 "
-      },
-      {
-        "link": "http://www.ccibe.edu.cn",
-        "name": "重庆对外经贸学院",
-        "addr": "合川区 "
-      },
-      {
-        "link": "http://www.cfec.edu.cn",
-        "name": "重庆财经学院",
-        "addr": "巴南区 "
-      },
-      { "link": "http://paisi.edu.cn", "name": "派斯学院", "addr": "合川区 " },
-      {
-        "link": "http://www.cqyti.com",
-        "name": "重庆移通学院",
-        "addr": "合川区 "
-      },
-      {
-        "link": "http://www.cqsxedu.com",
-        "name": "重庆三峡职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqepc.cn",
-        "name": "重庆航天职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqepc.com.cn",
-        "name": "重庆电力高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqipc.edu.cn",
-        "name": "重庆工业职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqgmy.cn",
-        "name": "重庆工贸职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqcet.com",
-        "name": "重庆电子工程职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cswu.cn",
-        "name": "重庆城市管理职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqvie.edu.cn",
-        "name": "重庆工程职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqcvc.com.cn",
-        "name": "重庆城市职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqslzy.com",
-        "name": "重庆水利电力职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqtbi.edu.cn",
-        "name": "重庆工商职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.sxyyc.net",
-        "name": "重庆三峡医药高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqyygz.com",
-        "name": "重庆医药高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqqzy.cn",
-        "name": "重庆青年职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqcfe.com",
-        "name": "重庆财经职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cctc.cq.cn",
-        "name": "重庆建筑工程职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqswxy.cn/index.php",
-        "name": "重庆商务职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqhgzy.com",
-        "name": "重庆化工职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqvit.com",
-        "name": "重庆旅游职业学院",
-        "addr": ""
-      },
-      { "link": null, "name": "重庆安全技术职业学院", "addr": "" },
-      {
-        "link": "http://www.cqyz.edu.cn",
-        "name": "重庆幼儿师范高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqca.edu.cn/index.php?c=category&id=25",
-        "name": "重庆文化艺术职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqiivc.com",
-        "name": "重庆工信职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cq51.cn",
-        "name": "重庆五一职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqhl.net.cn",
-        "name": "重庆海联职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqeec.com",
-        "name": "重庆信息技术职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://cqcmxy.com:81/",
-        "name": "重庆传媒职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://cqrec.edu.cn",
-        "name": "重庆建筑科技职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqyyzy.com",
-        "name": "重庆应用技术职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.cqie.cn", "name": "重庆科创职业学院", "addr": "" },
-      {
-        "link": "https://www.cqdxxy.edu.cn/",
-        "name": "重庆电讯职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.cqny.net", "name": "重庆能源职业学院", "addr": "" },
-      {
-        "link": "http://www.cqjky.com",
-        "name": "重庆交通职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqgyzy.com",
-        "name": "重庆公共运输职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqysxy.com",
-        "name": "重庆艺术工程职业学院",
-        "addr": ""
-      },
-      { "link": null, "name": "重庆轻工职业学院", "addr": "" },
-      {
-        "link": "http://www.cqtc.edu.cn",
-        "name": "重庆电信职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqvcet.com/channel_2.html",
-        "name": "重庆经贸职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqkjzyxy.com",
-        "name": "重庆科技职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqzhxy.cn",
-        "name": "重庆资源与环境保护职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cqnvc.com",
-        "name": "重庆护理职业学院",
-        "addr": ""
-      },
-      { "link": null, "name": "重庆理工职业学院", "addr": "" },
-      {
-        "link": "http://www.cqai.vip",
-        "name": "重庆智能工程职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.cqhve.cn", "name": "重庆健康职业学院", "addr": "" },
-      { "link": "#mulu", "name": "▲", "addr": "" }
-    ] },
-    { "city_id": 51, "quote": "四川", "university": [
-      {
-        "link": "http://www.scu.edu.cn",
-        "name": "四川大学",
-        "addr": "成都市 江姐纪念馆、华西医学中心、南亚研究中心"
-      },
-      {
-        "link": "https://wcums.scu.edu.cn/",
-        "name": "华西医学中心",
-        "addr": ""
-      },
-      {
-        "link": "https://ccsas.scu.edu.cn/",
-        "name": "南亚研究中心",
-        "addr": ""
-      },
-      {
-        "link": "http://www.swjtu.edu.cn",
-        "name": "西南交通大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.uestc.edu.cn",
-        "name": "电子科技大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cafuc.edu.cn",
-        "name": "中国民用航空飞行学院",
-        "addr": "德阳市 "
-      },
-      {
-        "link": "http://www.swufe.edu.cn",
-        "name": "西南财经大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.swun.edu.cn",
-        "name": "西南民族大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.swpu.edu.cn",
-        "name": "西南石油大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdut.edu.cn",
-        "name": "成都理工大学",
-        "addr": "绵阳市 "
-      },
-      {
-        "link": "http://www.swust.edu.cn",
-        "name": "西南科技大学",
-        "addr": "绵阳市 "
-      },
-      {
-        "link": "http://www.cuit.edu.cn",
-        "name": "成都信息工程大学",
-        "addr": "自贡市 "
-      },
-      {
-        "link": "http://www.suse.edu.cn",
-        "name": "四川轻化工大学",
-        "addr": "自贡市 "
-      },
-      {
-        "link": "http://www.xhu.edu.cn",
-        "name": "西华大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.sicau.edu.cn",
-        "name": "四川农业大学",
-        "addr": "雅安市 "
-      },
-      {
-        "link": "http://xcc.edu.cn",
-        "name": "西昌学院",
-        "addr": "凉山彝族自治州 "
-      },
-      {
-        "link": "http://www.swmu.edu.cn",
-        "name": "西南医科大学",
-        "addr": "泸州市 "
-      },
-      {
-        "link": "http://www.cdutcm.edu.cn",
-        "name": "成都中医药大学",
-        "addr": "南充市 "
-      },
-      {
-        "link": "http://www.nsmc.edu.cn",
-        "name": "川北医学院",
-        "addr": "南充市 "
-      },
-      {
-        "link": "http://www.sicnu.edu.cn",
-        "name": "四川师范大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cwnu.edu.cn",
-        "name": "西华师范大学",
-        "addr": "南充市 "
-      },
-      {
-        "link": "http://www.mnu.cn",
-        "name": "绵阳师范学院",
-        "addr": "达州市 "
-      },
-      {
-        "link": "http://www.njtc.edu.cn",
-        "name": "内江师范学院",
-        "addr": "达州市 "
-      },
-      {
-        "link": "http://www.yibinu.edu.cn",
-        "name": "宜宾学院",
-        "addr": "达州市 "
-      },
-      {
-        "link": "http://www.sasu.edu.cn",
-        "name": "四川文理学院",
-        "addr": "达州市 "
-      },
-      {
-        "link": "http://www.abtu.edu.cn",
-        "name": "阿坝师范学院",
-        "addr": "🏃 "
-      },
-      {
-        "link": "http://www.lsnu.edu.cn",
-        "name": "乐山师范学院",
-        "addr": "🏃 "
-      },
-      {
-        "link": "http://www.cdsu.edu.cn",
-        "name": "成都体育学院",
-        "addr": "🏃 "
-      },
-      {
-        "link": "http://www.sccm.cn",
-        "name": "四川音乐学院",
-        "addr": "🎵成都市 "
-      },
-      {
-        "link": "http://www.cdu.edu.cn",
-        "name": "成都大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdtu.edu.cn",
-        "name": "成都工业学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.pzhu.edu.cn",
-        "name": "攀枝花学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.sctu.edu.cn",
-        "name": "四川旅游学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.scun.edu.cn",
-        "name": "四川民族学院",
-        "addr": "甘孜藏族自治州 "
-      },
-      {
-        "link": "http://www.scpolicec.edu.cn",
-        "name": "四川警察学院",
-        "addr": "🛂泸州市 "
-      },
-      {
-        "link": "http://www.cmc.edu.cn",
-        "name": "成都医学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdnu.edu.cn",
-        "name": "成都师范学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://nsu.edu.cn",
-        "name": "成都东软学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdau.edu.cn",
-        "name": "成都艺术职业大学",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cduestc.cn",
-        "name": "成都学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdutetc.cn",
-        "name": "工程技术学院",
-        "addr": "乐山市 "
-      },
-      {
-        "link": "http://www.scmc.edu.cn",
-        "name": "四川传媒学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.gingkoc.edu.cn",
-        "name": "成都银杏酒店管理学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.cdcas.edu.cn",
-        "name": "成都文理学院",
-        "addr": "成都市 "
-      },
-      {
-        "link": "http://www.stbu.edu.cn",
-        "name": "四川工商学院",
-        "addr": "成都市 "
-      },
-      { "link": "http://cisisu.edu.cn", "name": "成都学院", "addr": "成都市 " },
-      {
-        "link": "http://www.scit.edu.cn",
-        "name": "四川工业科技学院",
-        "addr": "德阳市 "
-      },
-      {
-        "link": "http://www.scujcc.edu.cn",
-        "name": "成都锦城学院",
-        "addr": "绵阳市 "
-      },
-      {
-        "link": "http://www.tf-swufe.net",
-        "name": "天府学院",
-        "addr": "绵阳市 "
-      },
-      {
-        "link": "http://www.scujj.edu.cn",
-        "name": "锦江学院",
-        "addr": "眉山市 "
-      },
-      {
-        "link": "http://www.sca.edu.cn",
-        "name": "四川文化艺术学院",
-        "addr": "绵阳市 "
-      },
-      {
-        "link": "http://www.mycc.edu.cn",
-        "name": "绵阳城市学院",
-        "addr": "南充市 "
-      },
-      {
-        "link": "http://www.swjtuhc.cn",
-        "name": "希望学院",
-        "addr": "南充市 "
-      },
-      {
-        "link": "http://www.scftvc.com",
-        "name": "四川电影电视学院",
-        "addr": "成都市 "
-      },
-      { "link": "http://cd.guc.edu.cn", "name": "吉利学院", "addr": "成都市 " },
-      {
-        "link": "http://www.cdtc.edu.cn",
-        "name": "成都纺织高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cavtc.net",
-        "name": "成都航空职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.kc.sc.sgcc.com.cn/www",
-        "name": "四川电力职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cdvtc.com",
-        "name": "成都职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.sccvtc.cn",
-        "name": "四川化工职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.swcvc.net.cn",
-        "name": "四川水利职业技术学院",
-        "addr": ""
-      },
-      { "link": "http://www.nczy.com", "name": "南充职业技术学院", "addr": "" },
-      { "link": "http://www.njvtc.cn", "name": "内江职业技术学院", "addr": "" },
-      {
-        "link": "http://www.sacvt.com",
-        "name": "四川航天职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.sptpc.com",
-        "name": "四川邮电职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scemi.com",
-        "name": "四川机电职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.myvtc.edu.cn",
-        "name": "绵阳职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.svtcc.edu.cn",
-        "name": "四川交通职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.sctbc.net",
-        "name": "四川工商职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scetc.net",
-        "name": "四川工程职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scatc.net",
-        "name": "四川建筑职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.dzzjy.com",
-        "name": "达州职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cdnkxy.com",
-        "name": "成都农业科技职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.ybzy.cn", "name": "宜宾职业技术学院", "addr": "" },
-      {
-        "link": "http://www.lzy.edu.cn",
-        "name": "泸州职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.msvtc.net",
-        "name": "眉山职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scvtc.com",
-        "name": "四川职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.lszyxy.com",
-        "name": "乐山职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.yazjy.com",
-        "name": "雅安职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scsw.net.cn",
-        "name": "四川商务职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.sjpopc.net",
-        "name": "四川司法警官职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.gavtc.cn", "name": "广安职业技术学院", "addr": "" },
-      {
-        "link": "http://www.scitc.com.cn",
-        "name": "四川信息职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scrc.edu.cn",
-        "name": "四川铁道职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.scapi.cn", "name": "四川艺术职业学院", "addr": "" },
-      {
-        "link": "http://www.scctcm.cn",
-        "name": "四川中医药高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scvcci.cn",
-        "name": "四川文化产业职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scpcfe.cn",
-        "name": "四川财经职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scyesz.com",
-        "name": "四川幼儿师范高等专科学校",
-        "addr": ""
-      },
-      { "link": null, "name": "川北幼儿师范高等专科学校", "addr": "" },
-      { "link": null, "name": "四川卫生康复职业学院", "addr": "" },
-      { "link": null, "name": "川南幼儿师范高等专科学校", "addr": "" },
-      {
-        "link": "http://www.cnsnvc.edu.cn",
-        "name": "四川护理职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cdivtc.com",
-        "name": "成都工业职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.cdgmxy.edu.cn",
-        "name": "成都工贸职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.xcmzyz.edu.cn",
-        "name": "西昌民族幼儿师范高等专科学校",
-        "addr": ""
-      },
-      { "link": "http://www.abvc.edu.cn", "name": "阿坝职业学院", "addr": "" },
-      { "link": "http://dzcmc.com", "name": "达州中医药职业学院", "addr": "" },
-      {
-        "link": "http://www.njnhvc.edu.cn",
-        "name": "内江卫生与健康职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.ncvcct.com",
-        "name": "南充文化旅游职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.scgzzyxy.com", "name": "甘孜职业学院", "addr": "" },
-      {
-        "link": "http://www.scsc.edu.cn",
-        "name": "四川体育职业学院",
-        "addr": ""
-      },
-      { "link": "http://sctianyi.net", "name": "民办四川天一学院", "addr": "" },
-      {
-        "link": "http://www.scetop.com",
-        "name": "四川托普信息技术职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://pivotpoint.edu.cn",
-        "name": "四川国际标榜职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.svccc.net",
-        "name": "四川文化传媒职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.schxmvc.com",
-        "name": "四川华新现代职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.scstc.cn", "name": "四川科技职业学院", "addr": "" },
-      {
-        "link": "http://www.scuvc.com",
-        "name": "四川城市职业学院",
-        "addr": ""
-      },
-      { "link": "http://www.scmvc.cn", "name": "四川现代职业学院", "addr": "" },
-      {
-        "link": "http://www.sccvc.com",
-        "name": "四川长江职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scshpc.com",
-        "name": "四川三河职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scavtc.com",
-        "name": "四川汽车职业技术学院",
-        "addr": ""
-      },
-      { "link": "http://bzvtc.edu.cn", "name": "巴中职业技术学院", "addr": "" },
-      {
-        "link": "http://www.qicheedu.com",
-        "name": "四川希望汽车职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scemvtc.com",
-        "name": "四川电子机械职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scwxzyxy.cn",
-        "name": "四川文轩职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.xnhkxy.edu.cn",
-        "name": "四川西南航空职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.scasc.cn",
-        "name": "四川应用技术职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.msykxy.cn",
-        "name": "眉山药科职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.tficedu.com",
-        "name": "天府新区信息职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.dcurt.cn",
-        "name": "德阳城市轨道交通职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.dvctt.com",
-        "name": "德阳科贸职业学院",
-        "addr": ""
-      },
-      { "link": "http://jyccc.cn", "name": "江阳城建职业学院", "addr": "" },
-      {
-        "link": "http://www.tfhk.edu.cn",
-        "name": "天府新区航空旅游职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.ausedu.cn",
-        "name": "天府新区通用航空职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.nstc.edu.cn",
-        "name": "南充科技职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.pzhpxzyxy.com",
-        "name": "攀枝花攀西职业学院",
-        "addr": ""
-      },
-      { "link": "http://zykqxy.com", "name": "资阳口腔职业学院", "addr": "" },
-      {
-        "link": "https://117.176.18.152",
-        "name": "资阳环境科技职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://ncdyxy.com",
-        "name": "南充电影工业职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.topflying.com.cn/Page_1478.html",
-        "name": "绵阳飞行职业学院",
-        "addr": ""
-      },
-      { "link": "http://dynky.cn", "name": "德阳农业科技职业学院", "addr": "" },
-      {
-        "link": "http://www.lzylqx.cn",
-        "name": "泸州医疗器械职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://zgzyjsxy.com/xyg/xyjj.html",
-        "name": "自贡职业技术学院",
-        "addr": ""
-      },
-      { "link": null, "name": "广元中核职业技术学院", "addr": "" },
-      { "link": null, "name": "遂宁能源职业学院", "addr": "" },
-      { "link": null, "name": "遂宁工程职业学院", "addr": "" },
-      { "link": null, "name": "遂宁职业学院", "addr": "" },
-      { "link": "#mulu", "name": "▲", "addr": "" }
-    ]},
-    { "city_id": 52, "quote": "贵州", "university": [] },
+    {
+      "city_id": 50,
+      "quote": "重庆",
+      "university": [
+        {
+          "link": "http://cqu.edu.cn",
+          "name": "重庆大学",
+          "addr": "沙坪坝区 "
+        },
+        {
+          "link": "http://www.swu.edu.cn",
+          "name": "西南大学",
+          "addr": "北碚区 "
+        },
+        {
+          "link": "http://www.cqupt.edu.cn",
+          "name": "重庆邮电大学",
+          "addr": "南岸区 "
+        },
+        {
+          "link": "http://www.cquc.edu.cn",
+          "name": "重庆交通大学",
+          "addr": "南岸区 "
+        },
+        {
+          "link": "http://www.cqmu.edu.cn",
+          "name": "重庆医科大学",
+          "addr": "渝中区 "
+        },
+        {
+          "link": "http://www.cqnu.edu.cn",
+          "name": "重庆师范大学",
+          "addr": "沙坪坝区 "
+        },
+        {
+          "link": "http://www.cqwu.edu.cn",
+          "name": "重庆文理学院",
+          "addr": "永川区 "
+        },
+        {
+          "link": "http://www.sanxiau.edu.cn",
+          "name": "重庆三峡学院",
+          "addr": "万州区 "
+        },
+        {
+          "link": "http://www.yznu.cn",
+          "name": "长江师范学院",
+          "addr": "涪陵区 "
+        },
+        {
+          "link": "http://www.sisu.edu.cn",
+          "name": "四川外国语大学",
+          "addr": "沙坪坝区 "
+        },
+        {
+          "link": "http://www.swupl.edu.cn",
+          "name": "西南政法大学",
+          "addr": "⚖️沙坪坝区 "
+        },
+        {
+          "link": "http://www.scfai.edu.cn",
+          "name": "四川美术学院",
+          "addr": "🎨沙坪坝区 "
+        },
+        {
+          "link": "http://www.cqust.edu.cn",
+          "name": "重庆科技学院",
+          "addr": "沙坪坝区 "
+        },
+        {
+          "link": "http://www.cqut.edu.cn",
+          "name": "重庆理工大学",
+          "addr": "巴南区/渝北区 "
+        },
+        {
+          "link": "http://www.ctbu.edu.cn",
+          "name": "重庆工商大学",
+          "addr": "南岸区 "
+        },
+        {
+          "link": "http://www.cqpc.edu.cn",
+          "name": "重庆警察学院",
+          "addr": "🛂沙坪坝区 "
+        },
+        {
+          "link": "http://www.cque.edu.cn",
+          "name": "重庆第二师范学院",
+          "addr": "南岸区 "
+        },
+        {
+          "link": "http://www.cqctcm.edu.cn",
+          "name": "重庆中医药学院",
+          "addr": "璧山区 "
+        },
+        {
+          "link": "http://www.cqvtu.edu.cn",
+          "name": "重庆机电职业技术大学",
+          "addr": "璧山区 "
+        },
+        {
+          "link": "http://www.cqie.edu.cn",
+          "name": "重庆工程学院",
+          "addr": "巴南区 "
+        },
+        {
+          "link": "http://cqucc.cqu.edu.cn",
+          "name": "重庆城市科技学院",
+          "addr": "永川区 "
+        },
+        {
+          "link": "http://www.cqrk.edu.cn",
+          "name": "重庆人文科技学院",
+          "addr": "合川区 "
+        },
+        {
+          "link": "http://www.cqifs.edu.cn",
+          "name": "重庆外语外事学院",
+          "addr": "渝北区 "
+        },
+        {
+          "link": "http://www.ccibe.edu.cn",
+          "name": "重庆对外经贸学院",
+          "addr": "合川区 "
+        },
+        {
+          "link": "http://www.cfec.edu.cn",
+          "name": "重庆财经学院",
+          "addr": "巴南区 "
+        },
+        {
+          "link": "http://paisi.edu.cn",
+          "name": "派斯学院",
+          "addr": "合川区 "
+        },
+        {
+          "link": "http://www.cqyti.com",
+          "name": "重庆移通学院",
+          "addr": "合川区 "
+        },
+        {
+          "link": "http://www.cqsxedu.com",
+          "name": "重庆三峡职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqepc.cn",
+          "name": "重庆航天职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqepc.com.cn",
+          "name": "重庆电力高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqipc.edu.cn",
+          "name": "重庆工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqgmy.cn",
+          "name": "重庆工贸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqcet.com",
+          "name": "重庆电子工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cswu.cn",
+          "name": "重庆城市管理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqvie.edu.cn",
+          "name": "重庆工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqcvc.com.cn",
+          "name": "重庆城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqslzy.com",
+          "name": "重庆水利电力职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqtbi.edu.cn",
+          "name": "重庆工商职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sxyyc.net",
+          "name": "重庆三峡医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqyygz.com",
+          "name": "重庆医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqqzy.cn",
+          "name": "重庆青年职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqcfe.com",
+          "name": "重庆财经职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cctc.cq.cn",
+          "name": "重庆建筑工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqswxy.cn/index.php",
+          "name": "重庆商务职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqhgzy.com",
+          "name": "重庆化工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqvit.com",
+          "name": "重庆旅游职业学院",
+          "addr": ""
+        },
+        { "link": null, "name": "重庆安全技术职业学院", "addr": "" },
+        {
+          "link": "http://www.cqyz.edu.cn",
+          "name": "重庆幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqca.edu.cn/index.php?c=category&id=25",
+          "name": "重庆文化艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqiivc.com",
+          "name": "重庆工信职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cq51.cn",
+          "name": "重庆五一职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqhl.net.cn",
+          "name": "重庆海联职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqeec.com",
+          "name": "重庆信息技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://cqcmxy.com:81/",
+          "name": "重庆传媒职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://cqrec.edu.cn",
+          "name": "重庆建筑科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqyyzy.com",
+          "name": "重庆应用技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqie.cn",
+          "name": "重庆科创职业学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.cqdxxy.edu.cn/",
+          "name": "重庆电讯职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqny.net",
+          "name": "重庆能源职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqjky.com",
+          "name": "重庆交通职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqgyzy.com",
+          "name": "重庆公共运输职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqysxy.com",
+          "name": "重庆艺术工程职业学院",
+          "addr": ""
+        },
+        { "link": null, "name": "重庆轻工职业学院", "addr": "" },
+        {
+          "link": "http://www.cqtc.edu.cn",
+          "name": "重庆电信职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqvcet.com/channel_2.html",
+          "name": "重庆经贸职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqkjzyxy.com",
+          "name": "重庆科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqzhxy.cn",
+          "name": "重庆资源与环境保护职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqnvc.com",
+          "name": "重庆护理职业学院",
+          "addr": ""
+        },
+        { "link": null, "name": "重庆理工职业学院", "addr": "" },
+        {
+          "link": "http://www.cqai.vip",
+          "name": "重庆智能工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cqhve.cn",
+          "name": "重庆健康职业学院",
+          "addr": ""
+        },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
+    {
+      "city_id": 51,
+      "quote": "四川",
+      "university": [
+        {
+          "link": "http://www.scu.edu.cn",
+          "name": "四川大学",
+          "addr": "成都市 江姐纪念馆、华西医学中心、南亚研究中心"
+        },
+        {
+          "link": "https://wcums.scu.edu.cn/",
+          "name": "华西医学中心",
+          "addr": ""
+        },
+        {
+          "link": "https://ccsas.scu.edu.cn/",
+          "name": "南亚研究中心",
+          "addr": ""
+        },
+        {
+          "link": "http://www.swjtu.edu.cn",
+          "name": "西南交通大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.uestc.edu.cn",
+          "name": "电子科技大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cafuc.edu.cn",
+          "name": "中国民用航空飞行学院",
+          "addr": "德阳市 "
+        },
+        {
+          "link": "http://www.swufe.edu.cn",
+          "name": "西南财经大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.swun.edu.cn",
+          "name": "西南民族大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.swpu.edu.cn",
+          "name": "西南石油大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdut.edu.cn",
+          "name": "成都理工大学",
+          "addr": "绵阳市 "
+        },
+        {
+          "link": "http://www.swust.edu.cn",
+          "name": "西南科技大学",
+          "addr": "绵阳市 "
+        },
+        {
+          "link": "http://www.cuit.edu.cn",
+          "name": "成都信息工程大学",
+          "addr": "自贡市 "
+        },
+        {
+          "link": "http://www.suse.edu.cn",
+          "name": "四川轻化工大学",
+          "addr": "自贡市 "
+        },
+        {
+          "link": "http://www.xhu.edu.cn",
+          "name": "西华大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.sicau.edu.cn",
+          "name": "四川农业大学",
+          "addr": "雅安市 "
+        },
+        {
+          "link": "http://xcc.edu.cn",
+          "name": "西昌学院",
+          "addr": "凉山彝族自治州 "
+        },
+        {
+          "link": "http://www.swmu.edu.cn",
+          "name": "西南医科大学",
+          "addr": "泸州市 "
+        },
+        {
+          "link": "http://www.cdutcm.edu.cn",
+          "name": "成都中医药大学",
+          "addr": "南充市 "
+        },
+        {
+          "link": "http://www.nsmc.edu.cn",
+          "name": "川北医学院",
+          "addr": "南充市 "
+        },
+        {
+          "link": "http://www.sicnu.edu.cn",
+          "name": "四川师范大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cwnu.edu.cn",
+          "name": "西华师范大学",
+          "addr": "南充市 "
+        },
+        {
+          "link": "http://www.mnu.cn",
+          "name": "绵阳师范学院",
+          "addr": "达州市 "
+        },
+        {
+          "link": "http://www.njtc.edu.cn",
+          "name": "内江师范学院",
+          "addr": "达州市 "
+        },
+        {
+          "link": "http://www.yibinu.edu.cn",
+          "name": "宜宾学院",
+          "addr": "达州市 "
+        },
+        {
+          "link": "http://www.sasu.edu.cn",
+          "name": "四川文理学院",
+          "addr": "达州市 "
+        },
+        {
+          "link": "http://www.abtu.edu.cn",
+          "name": "阿坝师范学院",
+          "addr": "🏃 "
+        },
+        {
+          "link": "http://www.lsnu.edu.cn",
+          "name": "乐山师范学院",
+          "addr": "🏃 "
+        },
+        {
+          "link": "http://www.cdsu.edu.cn",
+          "name": "成都体育学院",
+          "addr": "🏃 "
+        },
+        {
+          "link": "http://www.sccm.cn",
+          "name": "四川音乐学院",
+          "addr": "🎵成都市 "
+        },
+        {
+          "link": "http://www.cdu.edu.cn",
+          "name": "成都大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdtu.edu.cn",
+          "name": "成都工业学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.pzhu.edu.cn",
+          "name": "攀枝花学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.sctu.edu.cn",
+          "name": "四川旅游学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.scun.edu.cn",
+          "name": "四川民族学院",
+          "addr": "甘孜藏族自治州 "
+        },
+        {
+          "link": "http://www.scpolicec.edu.cn",
+          "name": "四川警察学院",
+          "addr": "🛂泸州市 "
+        },
+        {
+          "link": "http://www.cmc.edu.cn",
+          "name": "成都医学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdnu.edu.cn",
+          "name": "成都师范学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://nsu.edu.cn",
+          "name": "成都东软学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdau.edu.cn",
+          "name": "成都艺术职业大学",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cduestc.cn",
+          "name": "成都学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdutetc.cn",
+          "name": "工程技术学院",
+          "addr": "乐山市 "
+        },
+        {
+          "link": "http://www.scmc.edu.cn",
+          "name": "四川传媒学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.gingkoc.edu.cn",
+          "name": "成都银杏酒店管理学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdcas.edu.cn",
+          "name": "成都文理学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.stbu.edu.cn",
+          "name": "四川工商学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://cisisu.edu.cn",
+          "name": "成都学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.scit.edu.cn",
+          "name": "四川工业科技学院",
+          "addr": "德阳市 "
+        },
+        {
+          "link": "http://www.scujcc.edu.cn",
+          "name": "成都锦城学院",
+          "addr": "绵阳市 "
+        },
+        {
+          "link": "http://www.tf-swufe.net",
+          "name": "天府学院",
+          "addr": "绵阳市 "
+        },
+        {
+          "link": "http://www.scujj.edu.cn",
+          "name": "锦江学院",
+          "addr": "眉山市 "
+        },
+        {
+          "link": "http://www.sca.edu.cn",
+          "name": "四川文化艺术学院",
+          "addr": "绵阳市 "
+        },
+        {
+          "link": "http://www.mycc.edu.cn",
+          "name": "绵阳城市学院",
+          "addr": "南充市 "
+        },
+        {
+          "link": "http://www.swjtuhc.cn",
+          "name": "希望学院",
+          "addr": "南充市 "
+        },
+        {
+          "link": "http://www.scftvc.com",
+          "name": "四川电影电视学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://cd.guc.edu.cn",
+          "name": "吉利学院",
+          "addr": "成都市 "
+        },
+        {
+          "link": "http://www.cdtc.edu.cn",
+          "name": "成都纺织高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cavtc.net",
+          "name": "成都航空职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kc.sc.sgcc.com.cn/www",
+          "name": "四川电力职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdvtc.com",
+          "name": "成都职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sccvtc.cn",
+          "name": "四川化工职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.swcvc.net.cn",
+          "name": "四川水利职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nczy.com",
+          "name": "南充职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njvtc.cn",
+          "name": "内江职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sacvt.com",
+          "name": "四川航天职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sptpc.com",
+          "name": "四川邮电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scemi.com",
+          "name": "四川机电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.myvtc.edu.cn",
+          "name": "绵阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.svtcc.edu.cn",
+          "name": "四川交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sctbc.net",
+          "name": "四川工商职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scetc.net",
+          "name": "四川工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scatc.net",
+          "name": "四川建筑职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dzzjy.com",
+          "name": "达州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdnkxy.com",
+          "name": "成都农业科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ybzy.cn",
+          "name": "宜宾职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lzy.edu.cn",
+          "name": "泸州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.msvtc.net",
+          "name": "眉山职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scvtc.com",
+          "name": "四川职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lszyxy.com",
+          "name": "乐山职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yazjy.com",
+          "name": "雅安职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scsw.net.cn",
+          "name": "四川商务职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sjpopc.net",
+          "name": "四川司法警官职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gavtc.cn",
+          "name": "广安职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scitc.com.cn",
+          "name": "四川信息职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scrc.edu.cn",
+          "name": "四川铁道职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scapi.cn",
+          "name": "四川艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scctcm.cn",
+          "name": "四川中医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scvcci.cn",
+          "name": "四川文化产业职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scpcfe.cn",
+          "name": "四川财经职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scyesz.com",
+          "name": "四川幼儿师范高等专科学校",
+          "addr": ""
+        },
+        { "link": null, "name": "川北幼儿师范高等专科学校", "addr": "" },
+        { "link": null, "name": "四川卫生康复职业学院", "addr": "" },
+        { "link": null, "name": "川南幼儿师范高等专科学校", "addr": "" },
+        {
+          "link": "http://www.cnsnvc.edu.cn",
+          "name": "四川护理职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdivtc.com",
+          "name": "成都工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cdgmxy.edu.cn",
+          "name": "成都工贸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xcmzyz.edu.cn",
+          "name": "西昌民族幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.abvc.edu.cn",
+          "name": "阿坝职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://dzcmc.com",
+          "name": "达州中医药职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njnhvc.edu.cn",
+          "name": "内江卫生与健康职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ncvcct.com",
+          "name": "南充文化旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scgzzyxy.com",
+          "name": "甘孜职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scsc.edu.cn",
+          "name": "四川体育职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://sctianyi.net",
+          "name": "民办四川天一学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scetop.com",
+          "name": "四川托普信息技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://pivotpoint.edu.cn",
+          "name": "四川国际标榜职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.svccc.net",
+          "name": "四川文化传媒职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.schxmvc.com",
+          "name": "四川华新现代职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scstc.cn",
+          "name": "四川科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scuvc.com",
+          "name": "四川城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scmvc.cn",
+          "name": "四川现代职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sccvc.com",
+          "name": "四川长江职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scshpc.com",
+          "name": "四川三河职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scavtc.com",
+          "name": "四川汽车职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://bzvtc.edu.cn",
+          "name": "巴中职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qicheedu.com",
+          "name": "四川希望汽车职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scemvtc.com",
+          "name": "四川电子机械职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scwxzyxy.cn",
+          "name": "四川文轩职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xnhkxy.edu.cn",
+          "name": "四川西南航空职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scasc.cn",
+          "name": "四川应用技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.msykxy.cn",
+          "name": "眉山药科职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tficedu.com",
+          "name": "天府新区信息职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dcurt.cn",
+          "name": "德阳城市轨道交通职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dvctt.com",
+          "name": "德阳科贸职业学院",
+          "addr": ""
+        },
+        { "link": "http://jyccc.cn", "name": "江阳城建职业学院", "addr": "" },
+        {
+          "link": "http://www.tfhk.edu.cn",
+          "name": "天府新区航空旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ausedu.cn",
+          "name": "天府新区通用航空职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nstc.edu.cn",
+          "name": "南充科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.pzhpxzyxy.com",
+          "name": "攀枝花攀西职业学院",
+          "addr": ""
+        },
+        { "link": "http://zykqxy.com", "name": "资阳口腔职业学院", "addr": "" },
+        {
+          "link": "https://117.176.18.152",
+          "name": "资阳环境科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://ncdyxy.com",
+          "name": "南充电影工业职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.topflying.com.cn/Page_1478.html",
+          "name": "绵阳飞行职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://dynky.cn",
+          "name": "德阳农业科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lzylqx.cn",
+          "name": "泸州医疗器械职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://zgzyjsxy.com/xyg/xyjj.html",
+          "name": "自贡职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "广元中核职业技术学院", "addr": "" },
+        { "link": null, "name": "遂宁能源职业学院", "addr": "" },
+        { "link": null, "name": "遂宁工程职业学院", "addr": "" },
+        { "link": null, "name": "遂宁职业学院", "addr": "" },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
+    {
+      "city_id": 52,
+      "quote": "贵州",
+      "university": [
+        {
+          "link": "http://www.gzu.edu.cn",
+          "name": "贵州大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gmc.edu.cn",
+          "name": "贵州医科大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.zmu.edu.cn",
+          "name": "遵义医科大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gzy.edu.cn",
+          "name": "贵州中医药大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gznu.edu.cn",
+          "name": "贵州师范大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.zync.edu.cn",
+          "name": "遵义师范学院",
+          "addr": "黔西南州 "
+        },
+        {
+          "link": "http://www.gztrc.edu.cn",
+          "name": "铜仁学院",
+          "addr": "黔西南州 "
+        },
+        {
+          "link": "http://www.qxntc.edu.cn",
+          "name": "兴义民族师范学院",
+          "addr": "黔西南州 "
+        },
+        {
+          "link": "http://www.asu.edu.cn",
+          "name": "安顺学院",
+          "addr": "毕节市 "
+        },
+        {
+          "link": "http://www.gues.edu.cn",
+          "name": "贵州工程应用技术学院",
+          "addr": "毕节市 "
+        },
+        {
+          "link": "http://www.kluniv.edu.cn",
+          "name": "凯里学院",
+          "addr": "黔东南州 "
+        },
+        {
+          "link": "http://www.sgmtu.edu.cn",
+          "name": "黔南民族师范学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gufe.edu.cn",
+          "name": "贵州财经大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gzmu.edu.cn",
+          "name": "贵州民族大学",
+          "addr": "贵阳市 "
+        },
+        { "link": "http://www.gyu.cn", "name": "贵阳学院", "addr": "贵阳市 " },
+        {
+          "link": "http://www.lpssz.edu.cn",
+          "name": "六盘水师范学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gzcc.edu.cn",
+          "name": "贵州商学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://gzpc.edu.cn",
+          "name": "贵州警察学院",
+          "addr": "🛂贵阳市 "
+        },
+        {
+          "link": "http://www.gynvc.edu.cn",
+          "name": "贵阳康养职业大学",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gzhnc.edu.cn",
+          "name": "贵州师范学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.git.edu.cn",
+          "name": "贵州理工学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://www.gzyszxy.cn",
+          "name": "时珍学院",
+          "addr": "贵阳市 "
+        },
+        {
+          "link": "http://qnxy.hope55.com",
+          "name": "贵州黔南经济学院",
+          "addr": "黔南州 "
+        },
+        {
+          "link": "http://www.gzucst.com",
+          "name": "贵州黔南科技学院",
+          "addr": "黔南州 "
+        },
+        {
+          "link": "http://www.gyiist.edu.cn",
+          "name": "贵阳信息科技学院",
+          "addr": "贵阳市 "
+        },
+        { "link": null, "name": "贵阳人文科技学院", "addr": "贵阳市 " },
+        {
+          "link": "http://mts.zmu.edu.cn",
+          "name": "医学与科技学院",
+          "addr": "贵阳市 "
+        },
+        { "link": null, "name": "神奇民族医药学院", "addr": "贵阳市 " },
+        { "link": "http://mtxy.edu.cn", "name": "茅台学院", "addr": "遵义市 " },
+        {
+          "link": "http://www.qnmc.cn",
+          "name": "黔南民族医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzjtzy.net",
+          "name": "贵州交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzhtzy.com",
+          "name": "贵州航天职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzeic.cn",
+          "name": "贵州电子信息职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.asotc.cn",
+          "name": "安顺职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qdnpt.com",
+          "name": "黔东南民族职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qnzy.net",
+          "name": "黔南民族职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zyzy.gov.cn",
+          "name": "遵义职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzky.edu.cn",
+          "name": "贵州工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.csgedu.com",
+          "name": "贵州电力职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lpszy.cn",
+          "name": "六盘水职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.trzy.cn",
+          "name": "铜仁职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qxnzy.net",
+          "name": "黔西南民族职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzqy.cn",
+          "name": "贵州轻工职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zunyiyizhuan.com",
+          "name": "遵义医药高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gyvtc.cn",
+          "name": "贵阳职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzbjzy.edu.cn",
+          "name": "毕节职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzvti.com",
+          "name": "贵州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gypec.edu.cn/list.jsp?itemId=2",
+          "name": "贵阳幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.trpec.edu.cn",
+          "name": "铜仁幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qnyzh.cn",
+          "name": "黔南民族幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bijiemc.cn",
+          "name": "毕节医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzjszy.cn",
+          "name": "贵州建设职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzbjyz.com",
+          "name": "毕节幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gznyzyxy.cn",
+          "name": "贵州农业职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzsdzy.cn",
+          "name": "贵州水利水电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzsdzy.cn",
+          "name": "贵州电子商务职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzdzxy.cn",
+          "name": "贵州电子科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzzbzy.cn",
+          "name": "贵州装备制造职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzjkzy.edu.cn",
+          "name": "贵州健康职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzspzy.cn",
+          "name": "贵州食品工程职业学院",
+          "addr": ""
+        },
+        { "link": null, "name": "贵州经贸职业技术学院", "addr": "" },
+        {
+          "link": "http://www.gznvc.com",
+          "name": "贵州护理职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://LPSyz.cn",
+          "name": "六盘水幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bjgzy.cn",
+          "name": "毕节工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gztcme.cn",
+          "name": "贵州机电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzcjzyxy.cn",
+          "name": "贵州财经职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzwhlyzy.cn/intro/7.html",
+          "name": "贵州文化旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzhkzy.cn",
+          "name": "贵州航空职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "贵州体育职业学院", "addr": "" },
+        {
+          "link": "http://www.gzcsxy.cn",
+          "name": "贵州城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.forerunnercollege.com",
+          "name": "贵州盛华职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzgsc.edu.cn",
+          "name": "贵州工商职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzieu.com",
+          "name": "贵州工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzgmzyxy.cn",
+          "name": "贵州工贸职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzyyxy.com",
+          "name": "贵州应用技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gzmhxy.cn",
+          "name": "贵州民用航空职业学院",
+          "addr": ""
+        },
+        { "link": null, "name": "贵州铜仁数据职业学院", "addr": "" },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
     { "city_id": 53, "quote": "云南", "university": [] },
     { "city_id": 54, "quote": "西藏", "university": [] },
     { "city_id": 61, "quote": "陕西", "university": [] },
