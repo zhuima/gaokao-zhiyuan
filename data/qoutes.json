@@ -3694,7 +3694,792 @@
         }
       ]
     },
-    { "city_id": 32, "quote": "江苏", "university": [] },
+    {
+      "city_id": 32,
+      "quote": "江苏",
+      "university": [
+        {
+          "link": "http://www.nju.edu.cn",
+          "name": "南京大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.seu.edu.cn",
+          "name": "东南大学",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.nuaa.edu.cn",
+          "name": "南京航空航天大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njust.edu.cn",
+          "name": "南京理工大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cumt.edu.cn",
+          "name": "中国矿业大学",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://www.hhu.edu.cn",
+          "name": "河海大学",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.sytu.edu.cn",
+          "name": "江南大学",
+          "addr": "无锡市"
+        },
+        {
+          "link": "http://www.njau.edu.cn",
+          "name": "南京农业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cpu.edu.cn",
+          "name": "中国药科大学",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.forestpolice.net",
+          "name": "南京森林警察学院",
+          "addr": "🛂"
+        },
+        {
+          "link": "http://www.suda.edu.cn",
+          "name": "苏州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.just.edu.cn",
+          "name": "江苏科技大学",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://www.njtech.edu.cn",
+          "name": "南京工业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cczu.edu.cn/10287/list.htm",
+          "name": "常州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njupt.edu.cn",
+          "name": "南京邮电大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njfu.edu.cn",
+          "name": "南京林业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ujs.edu.cn",
+          "name": "江苏大学",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://www.nuist.edu.cn",
+          "name": "南京信息工程大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ntu.edu.cn",
+          "name": "南通大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ycit.cn",
+          "name": "盐城工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njmu.edu.cn",
+          "name": "南京医科大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzhmu.edu.cn",
+          "name": "徐州医科大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njutcm.edu.cn",
+          "name": "南京中医药大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njnu.edu.cn",
+          "name": "南京师范大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xznu.edu.cn",
+          "name": "江苏师范大学",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://www.hytc.edu.cn",
+          "name": "淮阴师范学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.yctc.edu.cn",
+          "name": "盐城师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njue.edu.cn",
+          "name": "南京财经大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jspi.cn",
+          "name": "江苏警官学院",
+          "addr": "🛂南京市"
+        },
+        {
+          "link": "http://www.nipes.cn",
+          "name": "南京体育学院",
+          "addr": "🏃"
+        },
+        {
+          "link": "http://www.njarti.edu.cn",
+          "name": "南京艺术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.usts.edu.cn",
+          "name": "苏州科技大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cslg.edu.cn",
+          "name": "常熟理工学院",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://www.niit.edu.cn",
+          "name": "南京工业职业技术大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hyit.edu.cn",
+          "name": "淮阴工学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.czu.cn",
+          "name": "常州工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yzu.edu.cn",
+          "name": "扬州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njit.edu.cn",
+          "name": "南京工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nau.edu.cn",
+          "name": "南京审计大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njxzc.edu.cn",
+          "name": "南京晓庄学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jstu.edu.cn",
+          "name": "江苏理工学院",
+          "addr": "常州市"
+        },
+        {
+          "link": "http://www.jou.edu.cn",
+          "name": "江苏海洋大学",
+          "addr": "连云港市"
+        },
+        {
+          "link": "http://www.xzit.edu.cn",
+          "name": "徐州工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njts.edu.cn",
+          "name": "南京特殊教育师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tzu.edu.cn",
+          "name": "泰州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jit.edu.cn",
+          "name": "金陵科技学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.cwxu.edu.cn",
+          "name": "无锡学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szcu.edu.cn",
+          "name": "苏州城市学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.squ.edu.cn",
+          "name": "宿迁学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jssnu.edu.cn",
+          "name": "江苏第二师范学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.xjtlu.edu.cn",
+          "name": "西交利物浦大学",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://www.dukekunshan.edu.cn",
+          "name": "昆山杜克大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sju.edu.cn",
+          "name": "三江学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.ntit.edu.cn",
+          "name": "南通理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://cxxy.seu.edu.cn",
+          "name": "东南大学成贤学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.wxu.edu.cn",
+          "name": "无锡太湖学院",
+          "addr": ""
+        },
+        {
+          "link": "http://xhc.cumt.edu.cn",
+          "name": "中国矿业大学徐海学院",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://jlxy.nju.edu.cn",
+          "name": "南京大学金陵学院",
+          "addr": ""
+        },
+        {
+          "link": "http://zj.njust.edu.cn",
+          "name": "南京理工大学紫金学院",
+          "addr": ""
+        },
+        {
+          "link": "http://jc.nuaa.edu.cn",
+          "name": "南京航空航天大学金城学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cucn.edu.cn",
+          "name": "南京传媒学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njusttz.edu.cn",
+          "name": "南京理工大学泰州科技学院",
+          "addr": "泰州市"
+        },
+        {
+          "link": "http://www.njnutz.com",
+          "name": "南京师范大学泰州学院",
+          "addr": "泰州市"
+        },
+        {
+          "link": "http://www.njpji.edu.cn",
+          "name": "南京工业大学浦江学院",
+          "addr": ""
+        },
+        {
+          "link": "http://zbzs.njnu.edu.cn",
+          "name": "南京师范大学中北学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://kdc.njmu.edu.cn",
+          "name": "南京医科大学康达学院",
+          "addr": "连云港市"
+        },
+        {
+          "link": "http://hlxy.njutcm.edu.cn",
+          "name": "南京中医药大学翰林学院",
+          "addr": "泰州市"
+        },
+        {
+          "link": "http://tec.suda.edu.cn",
+          "name": "苏州大学应用技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://tpxy.usts.edu.cn",
+          "name": "苏州科技大学天平学院",
+          "addr": ""
+        },
+        {
+          "link": "http://jjxy.ujs.edu.cn",
+          "name": "江苏大学京江学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://kwxy.xznu.edu.cn",
+          "name": "江苏师范大学科文学院",
+          "addr": "徐州市"
+        },
+        {
+          "link": "https://www.nytdc.edu.cn/",
+          "name": "南京邮电大学通达学院",
+          "addr": "扬州市"
+        },
+        {
+          "link": "http://hs.njue.edu.cn",
+          "name": "南京财经大学红山学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://justsit.edu.cn",
+          "name": "江苏科技大学苏州理工学院",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://hdc.cczu.edu.cn",
+          "name": "常州大学怀德学院",
+          "addr": "泰州市"
+        },
+        {
+          "link": "http://xlxy.ntu.edu.cn",
+          "name": "南通大学杏林学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.naujsc.edu.cn",
+          "name": "南京审计大学金审学院",
+          "addr": ""
+        },
+        {
+          "link": "http://yyz.edu.cn",
+          "name": "盐城幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szys.net",
+          "name": "苏州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wxit.edu.cn",
+          "name": "无锡职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzcat.edu.cn",
+          "name": "江苏建筑职业技术学院",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://www.sgmart.com",
+          "name": "苏州工艺美术职业技术学院",
+          "addr": "🎨"
+        },
+        {
+          "link": "http://www.lygtc.net.cn",
+          "name": "连云港职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjc.edu.cn",
+          "name": "镇江市高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ntvc.edu.cn",
+          "name": "南通职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jssvc.edu.cn",
+          "name": "苏州市职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szit.edu.cn",
+          "name": "沙洲职业工学院",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://www.yzpc.edu.cn",
+          "name": "扬州市职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lygsf.net.cn",
+          "name": "连云港师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jseti.edu.cn",
+          "name": "江苏经贸职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.tzpc.edu.cn",
+          "name": "泰州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ccit.js.cn",
+          "name": "常州信息职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.juti.cn",
+          "name": "江苏联合职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.jmi.edu.cn",
+          "name": "江苏海事职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.wxstc.cn",
+          "name": "无锡科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jsmc.edu.cn",
+          "name": "江苏医药职业学院",
+          "addr": "盐城市"
+        },
+        {
+          "link": "http://www.yzerc.org",
+          "name": "扬州环境资源职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ntst.edu.cn",
+          "name": "南通科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szjm.edu.cn",
+          "name": "苏州经贸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.siit.cn",
+          "name": "苏州工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szmtc.com",
+          "name": "苏州卫生职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jscpu.com",
+          "name": "无锡商业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jssc.edu.cn/699/list.htm",
+          "name": "江苏航运职业技术学院",
+          "addr": "南通市"
+        },
+        {
+          "link": "http://www.njitt.edu.cn",
+          "name": "南京交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jsei.edu.cn",
+          "name": "江苏电子信息职业学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.jsahvc.edu.cn",
+          "name": "江苏农牧科技职业学院",
+          "addr": "泰州市"
+        },
+        {
+          "link": "http://www.cztgi.edu.cn",
+          "name": "常州纺织服装职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.szai.com",
+          "name": "苏州农业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sipivt.edu.cn",
+          "name": "苏州工业园区职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjtlu.edu.cn",
+          "name": "南京科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ciit.edu.cn",
+          "name": "常州工业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.czie.net",
+          "name": "常州工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jsafc.net",
+          "name": "江苏农林职业技术学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://www.jsfpc.edu.cn",
+          "name": "江苏食品药品职业技术学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.njrts.edu.cn",
+          "name": "南京铁道职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzcit.cn",
+          "name": "徐州城市职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jsit.edu.cn",
+          "name": "江苏信息职业技术学院",
+          "addr": "无锡市"
+        },
+        {
+          "link": "http://www.sqzyxy.com",
+          "name": "宿迁职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ncc.edu.cn",
+          "name": "南京城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.njcmee.net",
+          "name": "南京机电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jltu.net",
+          "name": "南京旅游职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jssmu.edu.cn",
+          "name": "江苏卫生健康职业学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.szitu.cn",
+          "name": "苏州信息职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.siso.edu.cn",
+          "name": "苏州工业园区服务外包职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzyz.edu.cn",
+          "name": "徐州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xzsw.net",
+          "name": "徐州生物工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jsbc.edu.cn",
+          "name": "江苏商贸职业学院",
+          "addr": "南通市"
+        },
+        {
+          "link": "http://www.ntnc.edu.cn",
+          "name": "南通师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jscn.edu.cn",
+          "name": "江苏护理职业学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.jscfa.edu.cn",
+          "name": "江苏财会职业学院",
+          "addr": "连云港市"
+        },
+        {
+          "link": "http://www.jscc.edu.cn",
+          "name": "江苏城乡建设职业学院",
+          "addr": "常州市"
+        },
+        {
+          "link": "http://www.jatc.edu.cn",
+          "name": "江苏航空职业技术学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://www.jscst.edu.cn",
+          "name": "江苏安全技术职业学院",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://www.jstc.edu.cn",
+          "name": "江苏旅游职业学院",
+          "addr": "扬州市"
+        },
+        {
+          "link": "http://www.wjtts.net",
+          "name": "常州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.scc.edu.cn",
+          "name": "苏州百年职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mdut.cn",
+          "name": "明达职业技术学院",
+          "addr": "盐城市"
+        },
+        {
+          "link": "http://www.jznu.com.cn",
+          "name": "九州职业技术学院",
+          "addr": "徐州市"
+        },
+        {
+          "link": "http://www.usl.edu.cn",
+          "name": "硅湖职业技术学院",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://www.ytc.edu.cn",
+          "name": "应天职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.szetop.com",
+          "name": "苏州托普信息职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.thcyzy.org",
+          "name": "太湖创意职业技术学院",
+          "addr": "无锡市"
+        },
+        {
+          "link": "http://www.yhust.edu.cn",
+          "name": "炎黄职业技术学院",
+          "addr": "淮安市"
+        },
+        {
+          "link": "http://www.zdxy.cn",
+          "name": "正德职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.zscollege.com",
+          "name": "钟山职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.wsoc.com.cn",
+          "name": "无锡南洋职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jnys.cn",
+          "name": "江南影视艺术职业学院",
+          "addr": "无锡市"
+        },
+        {
+          "link": "http://www.jku.edu.cn",
+          "name": "金肯职业技术学院",
+          "addr": "南京市"
+        },
+        {
+          "link": "http://www.czjdu.com",
+          "name": "建东职业技术学院",
+          "addr": "常州市"
+        },
+        {
+          "link": "http://www.jhu.cn",
+          "name": "江海职业技术学院",
+          "addr": "扬州市"
+        },
+        {
+          "link": "http://www.jinshan-cn.com",
+          "name": "金山职业技术学院",
+          "addr": "镇江市"
+        },
+        {
+          "link": "http://www.dyc.edu.cn",
+          "name": "昆山登云科技职业学院",
+          "addr": "苏州市"
+        },
+        {
+          "link": "http://www.niva.cn",
+          "name": "南京视觉艺术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gist.edu.cn",
+          "name": "苏州高博软件技术职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zdct.cn",
+          "name": "宿迁泽达职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.yhiedu.cn",
+          "name": "扬州中瑞酒店职业学院",
+          "addr": ""
+        }
+      ]
+    },
     { "city_id": 33, "quote": "浙江", "university": [] },
     { "city_id": 34, "quote": "安徽", "university": [] },
     { "city_id": 35, "quote": "福建", "university": [] },
