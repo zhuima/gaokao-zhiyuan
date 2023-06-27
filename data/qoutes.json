@@ -2972,7 +2972,402 @@
         }
       ]
     },
-    { "city_id": 23, "quote": "黑龙江", "university": [] },
+    {
+      "city_id": 23,
+      "quote": "黑龙江",
+      "university": [
+        {
+          "link": "http://www.hit.edu.cn",
+          "name": "哈尔滨工业大学",
+          "addr": "工业和信息化部"
+        },
+        {
+          "link": "http://www.hrbeu.edu.cn",
+          "name": "哈尔滨工程大学",
+          "addr": "教育部"
+        },
+        {
+          "link": "http://www.nefu.edu.cn",
+          "name": "东北林业大学",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hlju.edu.cn",
+          "name": "黑龙江大学",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hrbust.edu.cn",
+          "name": "哈尔滨理工大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.usth.edu.cn",
+          "name": "黑龙江科技大学",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.nepu.edu.cn",
+          "name": "东北石油大学",
+          "addr": "大庆市"
+        },
+        {
+          "link": "http://www.jmsu.edu.cn",
+          "name": "佳木斯大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.byau.edu.cn",
+          "name": "黑龙江八一农垦大学",
+          "addr": "大庆市"
+        },
+        {
+          "link": "http://www.neau.edu.cn",
+          "name": "东北农业大学",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hrbmu.edu.cn",
+          "name": "哈尔滨医科大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljucm.net",
+          "name": "黑龙江中医药大学",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.mdjmu.cn",
+          "name": "牡丹江医学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hrbnu.edu.cn",
+          "name": "哈尔滨师范大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.qqhru.edu.cn",
+          "name": "齐齐哈尔大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.mdjnu.edu.cn",
+          "name": "牡丹江师范学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hrbu.edu.cn",
+          "name": "哈尔滨学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.dqsy.net",
+          "name": "大庆师范学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.shxy.edu.cn",
+          "name": "绥化学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hrbcu.edu.cn",
+          "name": "哈尔滨商业大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.hrbipe.edu.cn",
+          "name": "哈尔滨体育学院",
+          "addr": "🏃"
+        },
+        {
+          "link": "http://www.hrbjz.edu.cn",
+          "name": "哈尔滨金融学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.qmu.edu.cn",
+          "name": "齐齐哈尔医学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljut.edu.cn",
+          "name": "黑龙江工业学院",
+          "addr": "鸡西市"
+        },
+        {
+          "link": "http://www.hljit.edu.cn",
+          "name": "黑龙江工程学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hhhxy.cn",
+          "name": "黑河学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hrbcm.edu.cn",
+          "name": "哈尔滨音乐学院",
+          "addr": "🎵"
+        },
+        {
+          "link": "http://www.dfxy.net",
+          "name": "黑龙江东方学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hxci.com.cn",
+          "name": "哈尔滨信息工程学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.qqhrit.com",
+          "name": "齐齐哈尔工程学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hiu.edu.cn",
+          "name": "黑龙江外国语学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hfu.edu.cn",
+          "name": "黑龙江财经学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hip.edu.cn",
+          "name": "哈尔滨石油学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hibu.edu.cn",
+          "name": "黑龙江工商学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.fe-edu.com.cn",
+          "name": "哈尔滨远东理工学院",
+          "addr": "4123013301"
+        },
+        {
+          "link": "http://www.hcc.edu.cn",
+          "name": "哈尔滨剑桥学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.kllyxy.com",
+          "name": "黑龙江工程学院昆仑旅游学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.gsxy.cn",
+          "name": "哈尔滨广厦学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hhdu.edu.cn",
+          "name": "哈尔滨华德学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.qqhrtc.com",
+          "name": "齐齐哈尔高等师范专科学校",
+          "addr": null
+        },
+        {
+          "link": "http://www.ycvc.com.cn",
+          "name": "伊春职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.mdjdx.cn",
+          "name": "牡丹江大学",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljp.edu.cn",
+          "name": "黑龙江职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hcc.net.cn",
+          "name": "黑龙江建筑职业技术学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hljyzy.com",
+          "name": "黑龙江艺术职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.dqzyxy.net",
+          "name": "大庆职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljlzy.com",
+          "name": "黑龙江林业职业技术学院",
+          "addr": "牡丹江市"
+        },
+        {
+          "link": "http://www.hljnzy.net",
+          "name": "黑龙江农业职业技术学院",
+          "addr": "4123012725"
+        },
+        {
+          "link": "http://www.hngzy.com",
+          "name": "黑龙江农业工程职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.nkzy.com",
+          "name": "黑龙江农垦职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hlsfjx.com",
+          "name": "黑龙江司法警官职业学院",
+          "addr": "🛂哈尔滨市"
+        },
+        {
+          "link": "http://www.hgtc.org.cn",
+          "name": "鹤岗师范高等专科学校",
+          "addr": null
+        },
+        {
+          "link": "http://hepotc.hl.sgcc.com.cn",
+          "name": "哈尔滨电力职业技术学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.htxy.net",
+          "name": "哈尔滨铁道职业技术学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.dxalu.com",
+          "name": "大兴安岭职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.nyjj.net.cn",
+          "name": "黑龙江农业经济职业学院",
+          "addr": "牡丹江市"
+        },
+        {
+          "link": "http://www.hzjxy.net",
+          "name": "哈尔滨职业技术学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljszy.net",
+          "name": "黑龙江商业职业学院",
+          "addr": "牡丹江市"
+        },
+        {
+          "link": "http://www.hlpolice.com",
+          "name": "黑龙江公安警官职业学院",
+          "addr": "🛂哈尔滨市"
+        },
+        {
+          "link": "http://www.ljly.net",
+          "name": "黑龙江旅游职业技术学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hfmc.net",
+          "name": "黑龙江生态工程职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://hljny.org.cn",
+          "name": "黑龙江能源职业学院",
+          "addr": "4123013732"
+        },
+        {
+          "link": "http://www.qthzyxy.com",
+          "name": "七台河职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.mvcollege.com",
+          "name": "黑龙江民族职业学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://dqyz.petrodaqing.com",
+          "name": "大庆医学高等专科学校",
+          "addr": null
+        },
+        {
+          "link": "http://www.hlcp.com.cn",
+          "name": "黑龙江交通职业技术学院",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hljys.cn",
+          "name": "黑龙江幼儿师范高等专科学校",
+          "addr": "牡丹江市"
+        },
+        {
+          "link": "http://www.hrbkjzy.cn",
+          "name": "哈尔滨科学技术职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.jmszy.org.cn",
+          "name": "佳木斯职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.hljhlgz.com",
+          "name": "黑龙江护理高等专科学校",
+          "addr": "哈尔滨市"
+        },
+        {
+          "link": "http://www.hayouzhuan.org.cn",
+          "name": "哈尔滨幼儿师范高等专科学校",
+          "addr": null
+        },
+        {
+          "link": "http://www.vcws.org.cn",
+          "name": "黑龙江冰雪体育职业学院",
+          "addr": "🏃哈尔滨市"
+        },
+        {
+          "link": "http://hrbmcc.com",
+          "name": "哈尔滨传媒职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.13451.cn",
+          "name": "哈尔滨城市职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.sjmsxy.net.cn",
+          "name": "黑龙江三江美术职业学院",
+          "addr": "🎨佳木斯市"
+        },
+        {
+          "link": "http://www.hyyzy.com",
+          "name": "哈尔滨应用职业技术学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.qlgxy.com",
+          "name": "齐齐哈尔理工职业学院",
+          "addr": null
+        },
+        {
+          "link": "http://www.habeihang.com",
+          "name": "哈尔滨北方航空职业技术学院",
+          "addr": null
+        }
+      ]
+    },
     { "city_id": 31, "quote": "上海", "university": [] },
     { "city_id": 32, "quote": "江苏", "university": [] },
     { "city_id": 33, "quote": "浙江", "university": [] },
