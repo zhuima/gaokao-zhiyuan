@@ -11,22 +11,13 @@ import Link from 'next/link'
 import { Container } from '@/components'
 import Image from 'next/image'
 import { endpoint } from '@/utils/endpoint'
-import { getAllCharacters } from '@/lib/characters'
+import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
 
 export const dynamicParams = false
 
 export async function generateStaticParams() {
   const { characters } = await getAllCharacters()
   return characters.map(character => ({ slug: character.slug }))
-}
-
-export async function getCharacterBySlug(slug) {
-  const data = await fetch(`${endpoint}/characters/${slug}`, { cache: 'no-store' })
-  if (!data.ok) {
-    return new Error('Failed to fetch character slug data')
-  }
-
-  return data.json()
 }
 
 export default async function Page({ params }) {
