@@ -9,7 +9,7 @@ Renders a Next.js page component that displays detailed information about a char
 
 import Link from 'next/link'
 import { Container } from '@/components'
-import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
+import { getAllCities, getCityBySlug } from '@/lib/cities'
 
 // export const dynamicParams = false
 
@@ -19,14 +19,14 @@ import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
 // }
 
 export default async function Page({ params }) {
-  const { character, character_qoutes } = await getCharacterBySlug(params.slug)
+  const { city, city_qoutes } = await getCityBySlug(params.slug)
 
   // console.log('who areyou', character_qoutes)
 
   return (
     <Container className="flex flex-col gap-5 py-5" as="main">
       <div className="flex flex-col gap-2">
-        <h1 className="text-2xl font-semibold capitalize">{character.name}</h1>
+        <h1 className="text-2xl font-semibold capitalize">{city.name}</h1>
         {/* <ul className="flex gap-1 text-sm">
           {character.occupations.map(item => {
             return (
@@ -40,13 +40,13 @@ export default async function Page({ params }) {
           })}
         </ul> */}
       </div>
-      <p className="text-sm leading-6">{character.description}</p>
+      <p className="text-sm leading-6">{city.description}</p>
 
-      {character.university && (
+      {city.university && (
         <>
           <h2 className="text-xl font-bold">高校分布</h2>
           <ul className="flex flex-wrap gap-1">
-            {character.university.map(item => {
+            {city.university.map(item => {
               return (
                 <li
                   className="flex justify-center flex-grow px-2 py-1 text-orange-400 rounded-md bg-orange-950"
@@ -78,11 +78,11 @@ export default async function Page({ params }) {
         })}
       </ul> */}
 
-      {character_qoutes && (
+      {city_qoutes && (
         <>
           <h2 className="text-xl font-bold">高校清单</h2>
           <ul className="grid gap-2 sm:grid-cols-2">
-            {character_qoutes[0]?.university?.map((item, idx) => {
+            {city_qoutes[0]?.university?.map((item, idx) => {
               return (
                 <div
                   key={item}

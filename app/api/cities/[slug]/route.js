@@ -8,26 +8,24 @@
  * @returns {Promise<Object>} A promise that resolves to an object containing the character and their quotes, or an error response.
  */
 
-import characters from '@/data/characters.json'
+import cities from '@/data/cities.json'
 import qoutes from '@/data/qoutes.json'
 import { NextResponse } from 'next/server'
 
 export async function GET(req, { params }) {
   try {
     // console.log('id', params.slug)
-    const character = characters.data.find(item => item.slug === params.slug)
+    const city = cities.data.find(item => item.slug === params.slug)
     // console.log('character', character)
-    if (!character) {
-      return new NextResponse('Not Found for me', { status: 404 })
+    if (!city) {
+      return new NextResponse('Not Found City', { status: 404 })
     }
 
-    const character_qoutes = qoutes.data.filter(
-      item => item.character_id === character.id,
-    )
+    const city_qoutes = qoutes.data.filter(item => item.city_id === city.id)
 
     return NextResponse.json({
-      character,
-      character_qoutes: character_qoutes.length > 0 ? character_qoutes : null,
+      city,
+      city_qoutes: city_qoutes.length > 0 ? city_qoutes : null,
     })
   } catch (error) {
     return new NextResponse('Internal Server Error', { status: 500 })
