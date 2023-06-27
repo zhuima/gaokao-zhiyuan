@@ -13304,6 +13304,262 @@
         { "link": "#mulu", "name": "▲", "addr": "" }
       ]
     },
-    { "city_id": 65, "quote": "新疆", "university": [] }
+    {
+      "city_id": 65,
+      "quote": "新疆",
+      "university": [
+        {
+          "link": "http://www.xju.edu.cn",
+          "name": "新疆大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.taru.edu.cn",
+          "name": "塔里木大学",
+          "addr": "阿拉尔市 "
+        },
+        {
+          "link": "http://www.xjau.edu.cn",
+          "name": "新疆农业大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.shzu.edu.cn",
+          "name": "石河子大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.xjmu.edu.cn",
+          "name": "新疆医科大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.xjnu.edu.cn",
+          "name": "新疆师范大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.ksu.edu.cn",
+          "name": "喀什大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.ylnu.edu.cn",
+          "name": "伊犁师范大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.xjufe.edu.cn",
+          "name": "新疆财经大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.xjart.edu.cn",
+          "name": "新疆艺术学院",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.xjie.edu.cn",
+          "name": "新疆工程学院",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://219.247.64.111/",
+          "name": "昌吉学院",
+          "addr": "🛂乌鲁木齐市 "
+        },
+        { "link": null, "name": "新疆警察学院", "addr": "🛂乌鲁木齐市 " },
+        {
+          "link": "https://xjit.edu.cn/",
+          "name": "新疆理工学院",
+          "addr": "阿克苏地区 "
+        },
+        {
+          "link": "http://www.xjsmc.edu.cn",
+          "name": "新疆第二医学院",
+          "addr": "克拉玛依市 "
+        },
+        {
+          "link": "http://www.xjust.edu.cn",
+          "name": "新疆科技学院",
+          "addr": "巴音郭楞蒙古自治州 "
+        },
+        {
+          "link": "http://www.xjzfu.edu.cn",
+          "name": "新疆政法学院",
+          "addr": "⚖️图木舒克市 "
+        },
+        { "link": null, "name": "科学技术学院", "addr": "乌鲁木齐市 " },
+        {
+          "link": "http://www.xjtsxy.cn",
+          "name": "新疆天山职业技术大学",
+          "addr": "乌鲁木齐市 "
+        },
+        {
+          "link": "http://www.htszedu.cn",
+          "name": "和田师范专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjnzy.edu.cn",
+          "name": "新疆农业职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.uvu.edu.cn",
+          "name": "乌鲁木齐职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjumc.cn",
+          "name": "新疆维吾尔医学专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kzjsxy.net",
+          "name": "克拉玛依职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjjd.com.cn",
+          "name": "新疆机电职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjqg.edu.cn",
+          "name": "新疆轻工职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.cjpt.cn",
+          "name": "昌吉职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ylzyjs.cn",
+          "name": "伊犁职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.akszy.com",
+          "name": "阿克苏职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjbyxy.cn",
+          "name": "巴音郭楞职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjjszy.net/",
+          "name": "新疆建设职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjjtedu.com",
+          "name": "新疆交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjshzzy.com",
+          "name": "新疆石河子职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjvu.edu.cn",
+          "name": "新疆职业大学",
+          "addr": ""
+        },
+        { "link": null, "name": "新疆体育职业技术学院", "addr": "" },
+        {
+          "link": "http://www.xjyyedu.cn",
+          "name": "新疆应用职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjei.edu.cn",
+          "name": "新疆师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xjtzy.net",
+          "name": "新疆铁道职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://btc.edu.cn",
+          "name": "新疆生产建设兵团兴新职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hmzyedu.cn",
+          "name": "哈密职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "吐鲁番职业技术学院", "addr": "" },
+        {
+          "link": "http://www.betltc.cn",
+          "name": "博尔塔拉职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.htpt.edu.cn",
+          "name": "和田职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.shzvce.cn",
+          "name": "石河子工程职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "喀什职业技术学院", "addr": "" },
+        {
+          "link": "http://www.kzvtc.edu.cn",
+          "name": "克孜勒苏职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.altzyxy.com",
+          "name": "阿勒泰职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "塔城职业技术学院", "addr": "" },
+        {
+          "link": "http://1.13.3.19/",
+          "name": "塔里木职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "新疆工业职业技术学院", "addr": "" },
+        {
+          "link": "http://www.tmgxy.edu.cn",
+          "name": "铁门关职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "新疆司法警官职业学院", "addr": "" },
+        { "link": null, "name": "阿克苏工业职业技术学院", "addr": "" },
+        { "link": null, "name": "喀什理工职业技术学院", "addr": "" },
+        { "link": null, "name": "图木舒克职业技术学院", "addr": "" },
+        { "link": null, "name": "可克达拉职业技术学院", "addr": "" },
+        { "link": null, "name": "新星职业技术学院", "addr": "" },
+        { "link": null, "name": "昆玉职业技术学院", "addr": "" },
+        {
+          "link": "http://www.xjnyedu.com",
+          "name": "新疆能源职业技术学院",
+          "addr": ""
+        },
+        { "link": null, "name": "新疆现代职业技术学院", "addr": "" },
+        {
+          "link": "http://新疆科技职业技术学院.com",
+          "name": "新疆科技职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.kxedu.net",
+          "name": "新疆科信职业技术学院",
+          "addr": ""
+        },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    }
   ]
 }
