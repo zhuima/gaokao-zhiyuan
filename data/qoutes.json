@@ -2125,7 +2125,513 @@
         }
       ]
     },
-    { "city_id": 21, "quote": "辽宁", "university": [] },
+    { "city_id": 21, "quote": "辽宁", "university": [
+      {
+        "link": "http://www.dlut.edu.cn",
+        "name": "大连理工大学",
+        "addr": "教育部"
+      },
+      {
+        "link": "http://www.neu.edu.cn",
+        "name": "东北大学",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.dlmu.edu.cn",
+        "name": "大连海事大学",
+        "addr": "交通部"
+      },
+      {
+        "link": "http://www.ccpc.edu.cn",
+        "name": "中国刑事警察学院",
+        "addr": "🛂沈阳市"
+      },
+      {
+        "link": "https://new.dlnu.edu.cn/",
+        "name": "大连民族大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnu.edu.cn",
+        "name": "辽宁大学",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.sut.edu.cn",
+        "name": "沈阳工业大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sau.edu.cn",
+        "name": "沈阳航空航天大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.syit.edu.cn",
+        "name": "沈阳理工大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.ustl.edu.cn",
+        "name": "辽宁科技大学",
+        "addr": "鞍山市"
+      },
+      {
+        "link": "http://www.lntu.edu.cn",
+        "name": "辽宁工程技术大学",
+        "addr": "阜新市"
+      },
+      {
+        "link": "http://www.lnpu.edu.cn",
+        "name": "辽宁石油化工大学",
+        "addr": "抚顺市"
+      },
+      {
+        "link": "http://www.syuct.edu.cn",
+        "name": "沈阳化工大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.djtu.edu.cn",
+        "name": "大连交通大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlpu.edu.cn",
+        "name": "大连工业大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.sjzu.edu.cn",
+        "name": "沈阳建筑大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnit.edu.cn",
+        "name": "辽宁工业大学",
+        "addr": "锦州市"
+      },
+      {
+        "link": "http://www.syau.edu.cn",
+        "name": "沈阳农业大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlfu.edu.cn",
+        "name": "大连海洋大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.cmu.edu.cn",
+        "name": "中国医科大学",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.jzmu.edu.cn",
+        "name": "锦州医科大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlmedu.edu.cn",
+        "name": "大连医科大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnutcm.edu.cn",
+        "name": "辽宁中医药大学",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.syphu.edu.cn",
+        "name": "沈阳药科大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.symc.edu.cn",
+        "name": "沈阳医学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnnu.edu.cn",
+        "name": "辽宁师范大学",
+        "addr": "大连市"
+      },
+      {
+        "link": "http://www.synu.edu.cn",
+        "name": "沈阳师范大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.bhu.edu.cn",
+        "name": "渤海大学",
+        "addr": "锦州市"
+      },
+      {
+        "link": "http://www.asnc.edu.cn",
+        "name": "鞍山师范学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlufl.edu.cn",
+        "name": "大连外国语大学",
+        "addr": "英俄日韩4种外语"
+      },
+      {
+        "link": "http://www.dufe.edu.cn",
+        "name": "东北财经大学",
+        "addr": "大连市"
+      },
+      {
+        "link": "http://www.syty.edu.cn",
+        "name": "沈阳体育学院",
+        "addr": "🏃"
+      },
+      {
+        "link": "http://www.sycm.com.cn",
+        "name": "沈阳音乐学院",
+        "addr": "🎵"
+      },
+      {
+        "link": "http://www.lumei.edu.cn",
+        "name": "鲁迅美术学院",
+        "addr": "🎨沈阳市"
+      },
+      {
+        "link": "http://www.syu.edu.cn",
+        "name": "沈阳大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlu.edu.cn",
+        "name": "大连大学",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnist.edu.cn",
+        "name": "辽宁科技学院",
+        "addr": "本溪市"
+      },
+      {
+        "link": "http://www.lnpc.cn",
+        "name": "辽宁警察学院",
+        "addr": "🛂大连市"
+      },
+      {
+        "link": "http://www.syce.edu.cn",
+        "name": "沈阳工程学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.elnu.edu.cn",
+        "name": "辽东学院",
+        "addr": "丹东市"
+      },
+      {
+        "link": "http://www.yku.edu.cn",
+        "name": "营口理工学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.luibe.edu.cn",
+        "name": "辽宁对外经贸学院",
+        "addr": "大连市"
+      },
+      {
+        "link": "http://www.lnvut.edu.cn",
+        "name": "辽宁理工职业大学",
+        "addr": "锦州市"
+      },
+      {
+        "link": "http://city.dlut.edu.cn",
+        "name": "大连理工大学城市学院",
+        "addr": ""
+      },
+      {
+        "link": "http://gcxy.sut.edu.cn",
+        "name": "沈阳工业大学工程学院",
+        "addr": "辽阳市"
+      },
+      {
+        "link": "http://www.syist.cn",
+        "name": "沈阳科技学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.neusoft.edu.cn",
+        "name": "大连东软信息学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lncmxy.com",
+        "name": "辽宁财贸学院",
+        "addr": "葫芦岛市"
+      },
+      {
+        "link": "http://www.lncu.cn",
+        "name": "辽宁传媒学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.sycu.edu.cn",
+        "name": "沈阳城市建设学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dac.edu.cn",
+        "name": "大连艺术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lncmxl.edu.cn",
+        "name": "辽宁中医药大学杏林学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.huh.edu.cn",
+        "name": "辽宁何氏医学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://syist.cn",
+        "name": "沈阳科技学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lncmxy.com",
+        "name": "辽宁财贸学院",
+        "addr": "葫芦岛市"
+      },
+      {
+        "link": "http://www.lncu.cn",
+        "name": "辽宁传媒学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.cysz.com.cn",
+        "name": "朝阳师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.fstc.cn",
+        "name": "抚顺师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.jzsz.com.cn",
+        "name": "锦州师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.ykdx.net",
+        "name": "营口职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.tlsz.com.cn",
+        "name": "铁岭师范高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.dlvtc.edu.cn",
+        "name": "大连职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnnzy.ln.cn",
+        "name": "辽宁农业职业技术学院",
+        "addr": "营口市"
+      },
+      {
+        "link": "http://www.fvti.com",
+        "name": "抚顺职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.419.com.cn",
+        "name": "辽阳职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.fxgz.com.cn",
+        "name": "阜新高等专科学校",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lncc.edu.cn",
+        "name": "辽宁省交通高等专科学校",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.pjzy.net.cn",
+        "name": "盘锦职业技术学院",
+        "addr": ""
+      },
+      {
+        "link": "http://39.152.114.102:8888/",
+        "name": "辽河石油职业技术学院",
+        "addr": "盘锦市"
+      },
+      {
+        "link": "http://www.lndzxy.com",
+        "name": "辽宁地质工程职业学院",
+        "addr": "丹东市"
+      },
+      {
+        "link": "http://www.lntzy.com",
+        "name": "辽宁铁道职业技术学院",
+        "addr": "锦州市"
+      },
+      {
+        "link": "http://www.lnjzxy.edu.cn",
+        "name": "辽宁建筑职业学院",
+        "addr": "辽阳市"
+      },
+      {
+        "link": "http://www.lnxdfwxy.com",
+        "name": "辽宁现代服务职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnyj.net",
+        "name": "辽宁冶金职业技术学院",
+        "addr": "本溪市"
+      },
+      {
+        "link": "http://www.lngczyxy.com",
+        "name": "辽宁工程职业学院",
+        "addr": "铁岭市"
+      },
+      {
+        "link": "http://www.lncjxy.com",
+        "name": "辽宁城市建设职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnvcm.edu.cn",
+        "name": "辽宁医药职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lntlhc.com",
+        "name": "铁岭卫生职业学院",
+        "addr": ""
+      },
+      {
+        "link": "http://www.lnpc.edu.cn",
+        "name": "辽宁石化职业技术学院",
+        "addr": "锦州市"
+      },
+      {
+        "link": "http://www.bhcy.cn",
+        "name": "渤海船舶职业学院",
+        "addr": "葫芦岛市"
+      },
+      {
+        "link": "http://www.lnsmzy.edu.cn",
+        "name": "辽宁商贸职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.ltcem.com",
+        "name": "辽宁装备制造职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lndzzy.cn",
+        "name": "辽宁地质职业学院",
+        "addr": "丹东市"
+      },
+      {
+        "link": "http://www.lndftzy.cn",
+        "name": "辽宁对外经贸职业学院",
+        "addr": "大连市"
+      },
+      {
+        "link": "http://www.lnszy.cn",
+        "name": "辽宁水利职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lncczy.cn",
+        "name": "辽宁财贸职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnnyzy.cn",
+        "name": "辽宁农业职业技术学院",
+        "addr": "营口市"
+      },
+      {
+        "link": "http://www.lnwhzy.cn",
+        "name": "辽宁卫生职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnzzzy.cn",
+        "name": "辽宁制造职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnwlzy.cn",
+        "name": "辽宁物流职业技术学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnswzy.cn",
+        "name": "辽宁商务职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      },
+      {
+        "link": "http://www.lnshzy.cn",
+        "name": "辽宁社会工程职业学院",
+        "addr": "沈阳市"
+      }
+    ] },
     { "city_id": 22, "quote": "吉林", "university": [] },
     { "city_id": 23, "quote": "黑龙江", "university": [] },
     { "city_id": 31, "quote": "上海", "university": [] },
