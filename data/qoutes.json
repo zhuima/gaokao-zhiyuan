@@ -5582,7 +5582,457 @@
         }
       ]
     },
-    { "city_id": 35, "quote": "福建", "university": [] },
+    {
+      "city_id": 35,
+      "quote": "福建",
+      "university": [
+        {
+          "link": "http://www.xmu.edu.cn",
+          "name": "厦门大学",
+          "addr": "国际交流"
+        },
+        {
+          "link": "http://www.hqu.edu.cn",
+          "name": "华侨大学",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://www.fzu.edu.cn",
+          "name": "福州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjut.edu.cn",
+          "name": "福建理工大学",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fafu.edu.cn",
+          "name": "福建农林大学",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.jmu.edu.cn",
+          "name": "集美大学",
+          "addr": "厦门市"
+        },
+        {
+          "link": "http://www.fjmu.edu.cn",
+          "name": "福建医科大学",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjtcm.edu.cn",
+          "name": "福建中医药大学",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjtu.edu.cn",
+          "name": "福建师范大学",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.mju.edu.cn",
+          "name": "闽江学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.nptc.edu.cn",
+          "name": "武夷学院",
+          "addr": "南平市"
+        },
+        {
+          "link": "http://www.ndnu.edu.cn",
+          "name": "宁德师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qztc.edu.cn",
+          "name": "泉州师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mnnu.edu.cn",
+          "name": "闽南师范大学",
+          "addr": "漳州市"
+        },
+        {
+          "link": "http://www.xmut.edu.cn",
+          "name": "厦门理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.smc.edu.cn",
+          "name": "三明学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lyun.edu.cn",
+          "name": "龙岩学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjbu.edu.cn",
+          "name": "福建商学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjpsc.edu.cn",
+          "name": "福建警察学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.ptu.edu.cn",
+          "name": "莆田学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmmc.edu.cn",
+          "name": "厦门医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjjxu.edu.cn",
+          "name": "福建江夏学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fpnu.edu.cn",
+          "name": "福建技术师范学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.yeu.edu.cn",
+          "name": "仰恩大学",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://www.hxxy.edu.cn",
+          "name": "厦门华厦学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mnust.edu.cn",
+          "name": "闽南理工学院",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://www.qvtu.edu.cn",
+          "name": "泉州职业技术大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mku.edu.cn",
+          "name": "闽南科技学院",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://fjdfxy.com",
+          "name": "福州工商学院",
+          "addr": "福建农林大学东方学院"
+        },
+        {
+          "link": "http://www.xit.edu.cn",
+          "name": "厦门工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ygu.edu.cn",
+          "name": "阳光学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://jgxy.xmu.edu.cn",
+          "name": "厦门大学嘉庚学院",
+          "addr": "漳州市"
+        },
+        {
+          "link": "http://www.fdzcxy.edu.cn",
+          "name": "福州大学至诚学院",
+          "addr": ""
+        },
+        {
+          "link": "http://chengyi.jmu.edu.cn",
+          "name": "集美大学诚毅学院",
+          "addr": "厦门市"
+        },
+        {
+          "link": "http://cuc.fjnu.edu.cn",
+          "name": "福建师范大学协和学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fzfu.com",
+          "name": "福州外语外贸学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qziedu.cn/jigoushezhi/",
+          "name": "泉州信息工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fit.edu.cn",
+          "name": "福州理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://jsxy.fafu.edu.cn",
+          "name": "福建农林大学金山学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjcpc.edu.cn",
+          "name": "福建船政交通职业学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjzzy.org",
+          "name": "漳州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mxdx.net",
+          "name": "闽西职业技术学院",
+          "addr": "龙岩市"
+        },
+        {
+          "link": "http://www.lmu.cn",
+          "name": "黎明职业大学",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://www.fvti.cn",
+          "name": "福州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjlzy.com",
+          "name": "福建林业职业技术学院",
+          "addr": "南平市"
+        },
+        {
+          "link": "http://www.mitu.cn",
+          "name": "福建信息职业技术学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjsdxy.com",
+          "name": "福建水利电力职业技术学院",
+          "addr": "三明市"
+        },
+        {
+          "link": "http://www.fjdy.net",
+          "name": "福建电力职业技术学院",
+          "addr": "泉州市"
+        },
+        {
+          "link": "http://www.xmoc.cn",
+          "name": "厦门海洋职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjny.com",
+          "name": "福建农业职业技术学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjwx.com.cn",
+          "name": "福建卫生职业技术学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.qzygz.com",
+          "name": "泉州医学高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.mbu.cn",
+          "name": "闽北职业技术学院",
+          "addr": "南平市"
+        },
+        {
+          "link": "http://www.qzjmc.cn",
+          "name": "泉州经贸职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fibec.cn",
+          "name": "福建对外经济贸易职业技术学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjmzw.com",
+          "name": "湄洲湾职业技术学院",
+          "addr": "莆田市"
+        },
+        {
+          "link": "http://www.fjvcb.cn",
+          "name": "福建生物工程职业技术学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fjyszyxy.com",
+          "name": "福建艺术职业学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://fjys.edu.cn",
+          "name": "福建幼儿师范高等专科学校",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.xmcu.cn",
+          "name": "厦门城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qzgymy.cn",
+          "name": "泉州工艺美术职业学院",
+          "addr": "🎨"
+        },
+        {
+          "link": "http://www.smykzy.cn",
+          "name": "三明医学科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ndgzy.com",
+          "name": "宁德职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fjipe.cn",
+          "name": "福建体育职业技术学院",
+          "addr": "🏃福州市"
+        },
+        {
+          "link": "http://www.zcvc.cn",
+          "name": "漳州城市职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzyhxy.com",
+          "name": "漳州卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qzys.net",
+          "name": "泉州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fzmjtc.cn",
+          "name": "闽江师范高等专科学校",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fmp.edu.cn",
+          "name": "福州墨尔本理工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hnwomen.com.cn",
+          "name": "福建华南女子职业学院",
+          "addr": "福州市"
+        },
+        {
+          "link": "http://www.fzacc.com",
+          "name": "福州英华职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qzfzfz.com",
+          "name": "泉州纺织服装职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hgu.cn",
+          "name": "泉州华光职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fzlmxy.cn",
+          "name": "福州黎明职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmyanyi.com",
+          "name": "厦门演艺职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmht.com",
+          "name": "厦门华天涉外职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fzstc.com",
+          "name": "福州科技职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.fzrjxy.com",
+          "name": "福州软件职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://xmxc.com",
+          "name": "厦门兴才职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmstc.cn",
+          "name": "厦门软件职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xnanyang.com",
+          "name": "厦门南洋职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmdh.com",
+          "name": "厦门东海职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "",
+          "name": "漳州科技职业学院",
+          "addr": "4135014113"
+        },
+        {
+          "link": "http://www.zzlg.org",
+          "name": "漳州理工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wyszyxy.com",
+          "name": "武夷山职业学院",
+          "addr": "南平市"
+        },
+        {
+          "link": "http://www.qzoiedu.com",
+          "name": "泉州海洋职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qzqgxy.com",
+          "name": "泉州轻工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xmafkj.com",
+          "name": "厦门安防科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://qzgcu.com",
+          "name": "泉州工程职业技术学院",
+          "addr": ""
+        }
+      ]
+    },
     { "city_id": 36, "quote": "江西", "university": [] },
     { "city_id": 37, "quote": "山东", "university": [] },
     {
