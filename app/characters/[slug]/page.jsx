@@ -11,12 +11,12 @@ import Link from 'next/link'
 import { Container } from '@/components'
 import { getAllCharacters, getCharacterBySlug } from '@/lib/characters'
 
-export const dynamicParams = false
+// export const dynamicParams = false
 
-export async function generateStaticParams() {
-  const { characters } = await getAllCharacters()
-  return characters.map(character => ({ slug: character.slug }))
-}
+// export async function generateStaticParams() {
+//   const { characters } = await getAllCharacters()
+//   return characters.map(character => ({ slug: character.slug }))
+// }
 
 export default async function Page({ params }) {
   const { character, character_qoutes } = await getCharacterBySlug(params.slug)
