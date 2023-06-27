@@ -143,29 +143,31 @@ export default async function Page({ params }) {
                           </p>
                         </div>
                       </div>
-                      <div className="flex flex-col w-full relative bottom-0">
-                        <div className="grid grid-cols-3 border-t divide-x text-[#0ed3cf]  bg-gray-50 dark:bg-transparent py-3">
-                          <Link
-                            href={item.link}
-                            target="_blank"
-                            className="cursor-pointer uppercase text-xs flex flex-row items-center justify-center font-semibold"
-                          >
-                            <div className="mr-2">
-                              <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                height="20px"
-                                viewBox="0 0 24 24"
-                                width="20px"
-                                fill="#0ed3cf"
-                              >
-                                <path d="M0 0h24v24H0z" fill="none" />
-                                <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z" />
-                              </svg>
-                            </div>
-                            官网
-                          </Link>
+                      {item.link && (
+                        <div className="flex flex-col w-full relative bottom-0">
+                          <div className="grid grid-cols-3 border-t divide-x text-[#0ed3cf]  bg-gray-50 dark:bg-transparent py-3">
+                            <Link
+                              href={item.link}
+                              target="_blank"
+                              className="cursor-pointer uppercase text-xs flex flex-row items-center justify-center font-semibold"
+                            >
+                              <div className="mr-2">
+                                <svg
+                                  xmlns="http://www.w3.org/2000/svg"
+                                  height="20px"
+                                  viewBox="0 0 24 24"
+                                  width="20px"
+                                  fill="#0ed3cf"
+                                >
+                                  <path d="M0 0h24v24H0z" fill="none" />
+                                  <path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z" />
+                                </svg>
+                              </div>
+                              官网
+                            </Link>
+                          </div>
                         </div>
-                      </div>
+                      )}
                     </div>
                   </div>
                 </div>
