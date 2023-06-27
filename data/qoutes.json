@@ -6033,550 +6033,1213 @@
         }
       ]
     },
-    { "city_id": 36, "quote": "江西", "university": [
-      {
-        "link": "http://www.ncu.edu.cn",
-        "name": "南昌大学",
-        "addr": ""
-      },
-      {
-        "link": "http://www.ecjtu.edu.cn",
-        "name": "华东交通大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ecit.edu.cn",
-        "name": "东华理工大学",
-        "addr": "抚州市"
-      },
-      {
-        "link": "http://www.nchu.edu.cn",
-        "name": "南昌航空大学",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxust.edu.cn",
-        "name": "江西理工大学",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.jci.edu.cn",
-        "name": "景德镇陶瓷大学",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxau.edu.cn",
-        "name": "江西农业大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxutcm.edu.cn",
-        "name": "江西中医药大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.gmu.edu.cn",
-        "name": "赣南医学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.jxnu.edu.cn",
-        "name": "江西师范大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.sru.edu.cn",
-        "name": "上饶师范学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxycu.edu.cn",
-        "name": "宜春学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.gnnu.edu.cn",
-        "name": "赣南师范大学",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.jgsu.edu.cn",
-        "name": "井冈山大学",
-        "addr": "吉安市"
-      },
-      {
-        "link": "http://www.jxufe.edu.cn",
-        "name": "江西财经大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jdzu.edu.cn",
-        "name": "景德镇学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.pxu.edu.cn",
-        "name": "萍乡学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxstnu.edu.cn",
-        "name": "江西科技师范大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.nit.edu.cn",
-        "name": "南昌工程学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxga.edu.cn/news-show-436.html",
-        "name": "江西警察学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.xyc.edu.cn",
-        "name": "新余学院",
-        "addr": ""
-      },
-      {
-        "link": "https://www.jju.edu.cn/",
-        "name": "九江学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.gdc.edu.cn",
-        "name": "赣东学院",
-        "addr": "抚州市"
-      },
-      {
-        "link": "http://www.gnust.edu.cn",
-        "name": "赣南科技学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.ncmc.edu.cn",
-        "name": "南昌医学院",
-        "addr": ""
-      },
-      {
-        "link": "http://yuznu.edu.cn",
-        "name": "豫章师范学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ncnu.edu.cn",
-        "name": "南昌师范学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxut.edu.cn",
-        "name": "江西科技学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxue.edu.cn",
-        "name": "江西工程学院",
-        "addr": "新余市"
-      },
-      {
-        "link": "http://www.nut.edu.cn",
-        "name": "南昌理工学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxcsedu.com",
-        "name": "江西应用科技学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jift.edu.cn",
-        "name": "江西服装学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.nvu.edu.cn",
-        "name": "南昌职业大学",
-        "addr": ""
-      },
-      {
-        "link": "http://www.ncpu.edu.cn",
-        "name": "南昌工学院",
-        "addr": ""
-      },
-      {
-        "link": "http://ncuky.edu.cn",
-        "name": "南昌大学科学技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.ndgy.cn",
-        "name": "南昌大学共青学院",
-        "addr": "九江市"
-      },
-      {
-        "link": "http://www.ecjtuit.edu.cn",
-        "name": "南昌交通学院",
-        "addr": ""
-      },
-      {
-        "link": "http://kjxy.nchu.edu.cn",
-        "name": "南昌航空大学科技学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jdzvua.edu.cn",
-        "name": "景德镇艺术职业大学",
-        "addr": ""
-      },
-      {
-        "link": "http://ncbcjxau.edu.cn",
-        "name": "江西农业大学南昌商学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://kjxy.jxnu.edu.cn",
-        "name": "江西师范大学科学技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://ky.gnnu.edu.cn",
-        "name": "赣南师范大学科技学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.nncat.edu.cn",
-        "name": "南昌应用技术师范学院",
-        "addr": ""
-      },
-      {
-        "link": "http://xjg.jxufe.edu.cn",
-        "name": "江西财经大学现代经济管理学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxuspt.com",
-        "name": "江西软件职业技术大学",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxsfgz.com",
-        "name": "江西师范高等专科学校",
-        "addr": "鹰潭市"
-      },
-      {
-        "link": "",
-        "name": "上饶幼儿师范高等专科学校",
-        "addr": "3636000312"
-      },
-      {
-        "link": "http://www.fzpec.cn",
-        "name": "抚州幼儿师范高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxgzy.cn",
-        "name": "江西工业职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxyxgz.cn",
-        "name": "江西医学高等专科学校",
-        "addr": "上饶市"
-      },
-      {
-        "link": "http://www.jjvu.jx.cn",
-        "name": "九江职业大学",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jvtc.jx.cn",
-        "name": "九江职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxsfjy.cn",
-        "name": "江西司法警官职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxgymy.com",
-        "name": "江西陶瓷工艺美术职业技术学院",
-        "addr": "景德镇市"
-      },
-      {
-        "link": "http://www.jxlsxy.com",
-        "name": "江西旅游商贸职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.dlzy.jx.sgcc.com.cn",
-        "name": "江西电力职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxhjxy.com",
-        "name": "江西环境工程职业学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.jxysedu.com",
-        "name": "江西艺术职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxytxy.com.cn",
-        "name": "鹰潭职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxcia.com",
-        "name": "江西信息应用职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxjtxy.com",
-        "name": "江西交通职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxvc.jx.cn",
-        "name": "江西财经职业学院",
-        "addr": "九江市"
-      },
-      {
-        "link": "http://www.jxyyxy.com",
-        "name": "江西应用技术职业学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.jxxdxy.com",
-        "name": "江西现代职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxgcxy.net",
-        "name": "江西工业工程职业技术学院",
-        "addr": "萍乡市"
-      },
-      {
-        "link": "http://www.jxjdxy.com",
-        "name": "江西机电职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxcfs.com",
-        "name": "江西外语外贸职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxgmxy.com",
-        "name": "江西工业贸易职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ycvc.jx.cn",
-        "name": "宜春职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxatei.net",
-        "name": "江西应用工程职业学院",
-        "addr": "萍乡市"
-      },
-      {
-        "link": "http://www.jxswkj.com",
-        "name": "江西生物科技职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxjsxy.com",
-        "name": "江西建设职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.fzjsxy.com",
-        "name": "抚州职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxtcms.net",
-        "name": "江西中医药高等专科学校",
-        "addr": "抚州市"
-      },
-      {
-        "link": "http://www.jiea.cn",
-        "name": "江西经济管理职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxmtc.com",
-        "name": "江西制造职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxgcxy.com",
-        "name": "江西工程职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxqy.com.cn",
-        "name": "江西青年职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.srzy.cn",
-        "name": "上饶职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxaevc.gov.cn",
-        "name": "江西农业工程职业学院",
-        "addr": "宜春市"
-      },
-      {
-        "link": "http://www.jxhlxy.com.cn",
-        "name": "江西卫生职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxyjxy.com",
-        "name": "江西冶金职业技术学院",
-        "addr": "新余市"
-      },
-      {
-        "link": "http://www.jxglzyxy.net/",
-        "name": "江西管理职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxcmzyxy.com",
-        "name": "江西传媒职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ganzhsz.cn",
-        "name": "赣州师范高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jxslsd.com",
-        "name": "江西水利职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ycyesf.cn",
-        "name": "宜春幼儿师范高等专科学校",
-        "addr": ""
-      },
-      {
-        "link": "http://www.japt.com.cn",
-        "name": "吉安职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.gnhvc.edu.cn",
-        "name": "赣南卫生健康职业学院",
-        "addr": "赣州市"
-      },
-      {
-        "link": "http://www.pxhvc.com",
-        "name": "萍乡卫生职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://jxtvc.com",
-        "name": "江西婺源茶业职业学院",
-        "addr": "上饶市"
-      },
-      {
-        "link": "http://www.gzpt.edu.cn",
-        "name": "赣州职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.nchvc.edu.cn",
-        "name": "南昌健康职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "",
-        "name": "吉安幼儿师范高等专科学校",
-        "addr": "4136014807"
-      },
-      {
-        "link": "",
-        "name": "上饶卫生健康职业学院",
-        "addr": "4136014808"
-      },
-      {
-        "link": "http://www.jxkeda.com",
-        "name": "江西科技职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jhxy.com.cn",
-        "name": "江西航空职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.ganxidx.com",
-        "name": "赣西科技职业学院",
-        "addr": "新余市"
-      },
-      {
-        "link": "http://tynxy.com",
-        "name": "江西新能源科技职业学院",
-        "addr": "新余市"
-      },
-      {
-        "link": "http://www.fenglin.org",
-        "name": "江西枫林涉外经贸职业学院",
-        "addr": "九江市"
-      },
-      {
-        "link": "http://www.tellhowedu.com",
-        "name": "江西泰豪动漫职业学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jxgsxy.net",
-        "name": "江西工商职业技术学院",
-        "addr": "南昌市"
-      },
-      {
-        "link": "http://www.jcivt.com",
-        "name": "景德镇陶瓷职业技术学院",
-        "addr": ""
-      },
-      {
-        "link": "http://gqkj.com.cn",
-        "name": "共青科技职业学院",
-        "addr": "九江市"
-      },
-      {
-        "link": "http://www.jxhzxy.com",
-        "name": "江西洪州职业学院",
-        "addr": "宜春市"
-      },
-      {
-        "link": "http://www.ncyscb.com",
-        "name": "南昌影视传播职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.jjlgedu.com/page/6/18",
-        "name": "九江理工职业学院",
-        "addr": ""
-      },
-      {
-        "link": "http://www.hejuncollege.com",
-        "name": "和君职业学院",
-        "addr": "赣州市"
-      }
-    ]
- },
-    { "city_id": 37, "quote": "山东", "university": [] },
+    {
+      "city_id": 36,
+      "quote": "江西",
+      "university": [
+        {
+          "link": "http://www.ncu.edu.cn",
+          "name": "南昌大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ecjtu.edu.cn",
+          "name": "华东交通大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ecit.edu.cn",
+          "name": "东华理工大学",
+          "addr": "抚州市"
+        },
+        {
+          "link": "http://www.nchu.edu.cn",
+          "name": "南昌航空大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxust.edu.cn",
+          "name": "江西理工大学",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.jci.edu.cn",
+          "name": "景德镇陶瓷大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxau.edu.cn",
+          "name": "江西农业大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxutcm.edu.cn",
+          "name": "江西中医药大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.gmu.edu.cn",
+          "name": "赣南医学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.jxnu.edu.cn",
+          "name": "江西师范大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.sru.edu.cn",
+          "name": "上饶师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxycu.edu.cn",
+          "name": "宜春学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gnnu.edu.cn",
+          "name": "赣南师范大学",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.jgsu.edu.cn",
+          "name": "井冈山大学",
+          "addr": "吉安市"
+        },
+        {
+          "link": "http://www.jxufe.edu.cn",
+          "name": "江西财经大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jdzu.edu.cn",
+          "name": "景德镇学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.pxu.edu.cn",
+          "name": "萍乡学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxstnu.edu.cn",
+          "name": "江西科技师范大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.nit.edu.cn",
+          "name": "南昌工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxga.edu.cn/news-show-436.html",
+          "name": "江西警察学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.xyc.edu.cn",
+          "name": "新余学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.jju.edu.cn/",
+          "name": "九江学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gdc.edu.cn",
+          "name": "赣东学院",
+          "addr": "抚州市"
+        },
+        {
+          "link": "http://www.gnust.edu.cn",
+          "name": "赣南科技学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.ncmc.edu.cn",
+          "name": "南昌医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://yuznu.edu.cn",
+          "name": "豫章师范学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ncnu.edu.cn",
+          "name": "南昌师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxut.edu.cn",
+          "name": "江西科技学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxue.edu.cn",
+          "name": "江西工程学院",
+          "addr": "新余市"
+        },
+        {
+          "link": "http://www.nut.edu.cn",
+          "name": "南昌理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxcsedu.com",
+          "name": "江西应用科技学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jift.edu.cn",
+          "name": "江西服装学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.nvu.edu.cn",
+          "name": "南昌职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ncpu.edu.cn",
+          "name": "南昌工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://ncuky.edu.cn",
+          "name": "南昌大学科学技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ndgy.cn",
+          "name": "南昌大学共青学院",
+          "addr": "九江市"
+        },
+        {
+          "link": "http://www.ecjtuit.edu.cn",
+          "name": "南昌交通学院",
+          "addr": ""
+        },
+        {
+          "link": "http://kjxy.nchu.edu.cn",
+          "name": "南昌航空大学科技学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jdzvua.edu.cn",
+          "name": "景德镇艺术职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://ncbcjxau.edu.cn",
+          "name": "江西农业大学南昌商学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://kjxy.jxnu.edu.cn",
+          "name": "江西师范大学科学技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://ky.gnnu.edu.cn",
+          "name": "赣南师范大学科技学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.nncat.edu.cn",
+          "name": "南昌应用技术师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://xjg.jxufe.edu.cn",
+          "name": "江西财经大学现代经济管理学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxuspt.com",
+          "name": "江西软件职业技术大学",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxsfgz.com",
+          "name": "江西师范高等专科学校",
+          "addr": "鹰潭市"
+        },
+        {
+          "link": "",
+          "name": "上饶幼儿师范高等专科学校",
+          "addr": "3636000312"
+        },
+        {
+          "link": "http://www.fzpec.cn",
+          "name": "抚州幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxgzy.cn",
+          "name": "江西工业职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxyxgz.cn",
+          "name": "江西医学高等专科学校",
+          "addr": "上饶市"
+        },
+        {
+          "link": "http://www.jjvu.jx.cn",
+          "name": "九江职业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jvtc.jx.cn",
+          "name": "九江职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxsfjy.cn",
+          "name": "江西司法警官职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxgymy.com",
+          "name": "江西陶瓷工艺美术职业技术学院",
+          "addr": "景德镇市"
+        },
+        {
+          "link": "http://www.jxlsxy.com",
+          "name": "江西旅游商贸职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.dlzy.jx.sgcc.com.cn",
+          "name": "江西电力职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxhjxy.com",
+          "name": "江西环境工程职业学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.jxysedu.com",
+          "name": "江西艺术职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxytxy.com.cn",
+          "name": "鹰潭职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxcia.com",
+          "name": "江西信息应用职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxjtxy.com",
+          "name": "江西交通职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxvc.jx.cn",
+          "name": "江西财经职业学院",
+          "addr": "九江市"
+        },
+        {
+          "link": "http://www.jxyyxy.com",
+          "name": "江西应用技术职业学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.jxxdxy.com",
+          "name": "江西现代职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxgcxy.net",
+          "name": "江西工业工程职业技术学院",
+          "addr": "萍乡市"
+        },
+        {
+          "link": "http://www.jxjdxy.com",
+          "name": "江西机电职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxcfs.com",
+          "name": "江西外语外贸职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxgmxy.com",
+          "name": "江西工业贸易职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ycvc.jx.cn",
+          "name": "宜春职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxatei.net",
+          "name": "江西应用工程职业学院",
+          "addr": "萍乡市"
+        },
+        {
+          "link": "http://www.jxswkj.com",
+          "name": "江西生物科技职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxjsxy.com",
+          "name": "江西建设职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.fzjsxy.com",
+          "name": "抚州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxtcms.net",
+          "name": "江西中医药高等专科学校",
+          "addr": "抚州市"
+        },
+        {
+          "link": "http://www.jiea.cn",
+          "name": "江西经济管理职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxmtc.com",
+          "name": "江西制造职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxgcxy.com",
+          "name": "江西工程职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxqy.com.cn",
+          "name": "江西青年职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.srzy.cn",
+          "name": "上饶职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxaevc.gov.cn",
+          "name": "江西农业工程职业学院",
+          "addr": "宜春市"
+        },
+        {
+          "link": "http://www.jxhlxy.com.cn",
+          "name": "江西卫生职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxyjxy.com",
+          "name": "江西冶金职业技术学院",
+          "addr": "新余市"
+        },
+        {
+          "link": "http://www.jxglzyxy.net/",
+          "name": "江西管理职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxcmzyxy.com",
+          "name": "江西传媒职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ganzhsz.cn",
+          "name": "赣州师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxslsd.com",
+          "name": "江西水利职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ycyesf.cn",
+          "name": "宜春幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.japt.com.cn",
+          "name": "吉安职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.gnhvc.edu.cn",
+          "name": "赣南卫生健康职业学院",
+          "addr": "赣州市"
+        },
+        {
+          "link": "http://www.pxhvc.com",
+          "name": "萍乡卫生职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://jxtvc.com",
+          "name": "江西婺源茶业职业学院",
+          "addr": "上饶市"
+        },
+        {
+          "link": "http://www.gzpt.edu.cn",
+          "name": "赣州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nchvc.edu.cn",
+          "name": "南昌健康职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "",
+          "name": "吉安幼儿师范高等专科学校",
+          "addr": "4136014807"
+        },
+        {
+          "link": "",
+          "name": "上饶卫生健康职业学院",
+          "addr": "4136014808"
+        },
+        {
+          "link": "http://www.jxkeda.com",
+          "name": "江西科技职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jhxy.com.cn",
+          "name": "江西航空职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.ganxidx.com",
+          "name": "赣西科技职业学院",
+          "addr": "新余市"
+        },
+        {
+          "link": "http://tynxy.com",
+          "name": "江西新能源科技职业学院",
+          "addr": "新余市"
+        },
+        {
+          "link": "http://www.fenglin.org",
+          "name": "江西枫林涉外经贸职业学院",
+          "addr": "九江市"
+        },
+        {
+          "link": "http://www.tellhowedu.com",
+          "name": "江西泰豪动漫职业学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jxgsxy.net",
+          "name": "江西工商职业技术学院",
+          "addr": "南昌市"
+        },
+        {
+          "link": "http://www.jcivt.com",
+          "name": "景德镇陶瓷职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://gqkj.com.cn",
+          "name": "共青科技职业学院",
+          "addr": "九江市"
+        },
+        {
+          "link": "http://www.jxhzxy.com",
+          "name": "江西洪州职业学院",
+          "addr": "宜春市"
+        },
+        {
+          "link": "http://www.ncyscb.com",
+          "name": "南昌影视传播职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jjlgedu.com/page/6/18",
+          "name": "九江理工职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hejuncollege.com",
+          "name": "和君职业学院",
+          "addr": "赣州市"
+        }
+      ]
+    },
+    {
+      "city_id": 37,
+      "quote": "山东",
+      "university": [
+        {
+          "link": "http://www.sdu.edu.cn",
+          "name": "山东大学",
+          "addr": "济南市 齐鲁医学院、科研网站群"
+        },
+        {
+          "link": "http://www.ouc.edu.cn",
+          "name": "中国海洋大学",
+          "addr": "青岛市"
+        },
+        {
+          "link": "https://www.upc.edu.cn/",
+          "name": "中国石油大学（华东）",
+          "addr": "青岛市"
+        },
+        {
+          "link": "http://www.sdust.edu.cn",
+          "name": "山东科技大学",
+          "addr": "青岛市"
+        },
+        {
+          "link": "http://www.qust.edu.cn",
+          "name": "青岛科技大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ujn.edu.cn",
+          "name": "济南大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qtech.edu.cn",
+          "name": "青岛理工大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdai.edu.cn",
+          "name": "山东建筑大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.qlu.edu.cn",
+          "name": "齐鲁工业大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdut.edu.cn",
+          "name": "山东理工大学",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.sdau.edu.cn",
+          "name": "山东农业大学",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.qau.edu.cn",
+          "name": "青岛农业大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wfmc.edu.cn",
+          "name": "潍坊医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdfmu.edu.cn",
+          "name": "山东第一医科大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.bzmc.edu.cn",
+          "name": "滨州医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdutcm.edu.cn",
+          "name": "山东中医药大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.jnmc.edu.cn",
+          "name": "济宁医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdnu.edu.cn",
+          "name": "山东师范大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.qfnu.edu.cn",
+          "name": "曲阜师范大学",
+          "addr": "济宁市"
+        },
+        {
+          "link": "http://www.lcu.edu.cn",
+          "name": "聊城大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dzu.edu.cn",
+          "name": "德州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.bzu.edu.cn",
+          "name": "滨州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ldu.edu.cn",
+          "name": "鲁东大学",
+          "addr": "烟台市"
+        },
+        {
+          "link": "http://www.lyu.edu.cn",
+          "name": "临沂大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tsu.edu.cn",
+          "name": "泰山学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.jnxy.edu.cn",
+          "name": "济宁学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hezeu.edu.cn",
+          "name": "菏泽学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdufe.edu.cn",
+          "name": "山东财经大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdpei.edu.cn",
+          "name": "山东体育学院",
+          "addr": "🏃济南市"
+        },
+        {
+          "link": "http://www.sdca.edu.cn",
+          "name": "山东艺术学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.uzz.edu.cn",
+          "name": "枣庄学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdada.edu.cn",
+          "name": "山东工艺美术学院",
+          "addr": "🎨济南市"
+        },
+        {
+          "link": "http://www.qdu.edu.cn",
+          "name": "青岛大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ytu.edu.cn",
+          "name": "烟台大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wfu.edu.cn",
+          "name": "潍坊学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdpc.edu.cn",
+          "name": "山东警察学院",
+          "addr": "🛂济南市"
+        },
+        {
+          "link": "http://www.sdjtu.edu.cn",
+          "name": "山东交通学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdibt.edu.cn",
+          "name": "山东工商学院",
+          "addr": "烟台市"
+        },
+        {
+          "link": "http://www.sdwu.edu.cn",
+          "name": "山东女子学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdipct.edu.cn",
+          "name": "山东石油化工学院",
+          "addr": "东营市"
+        },
+        {
+          "link": "http://www.sdupsl.edu.cn",
+          "name": "山东政法学院",
+          "addr": "⚖️济南市"
+        },
+        {
+          "link": "http://www.qlnu.edu.cn",
+          "name": "齐鲁师范学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdyu.edu.cn",
+          "name": "山东青年政治学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdmu.edu.cn",
+          "name": "山东管理学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdaeu.edu.cn",
+          "name": "山东农业工程学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.qlmu.edu.cn",
+          "name": "齐鲁医药学院",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.qdbhu.edu.cn",
+          "name": "青岛滨海学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nanshan.edu.cn",
+          "name": "烟台南山学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wfust.edu.cn",
+          "name": "潍坊科技学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdycu.edu.cn",
+          "name": "山东英才学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.hx.cn",
+          "name": "青岛恒星科技学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qdhhc.edu.cn",
+          "name": "青岛黄海学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdxd.edu.cn",
+          "name": "山东现代学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdxiehe.edu.cn",
+          "name": "山东协和学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.suet.edu.cn",
+          "name": "山东工程职业技术大学",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.yitsd.edu.cn",
+          "name": "烟台理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lcudcc.edu.cn",
+          "name": "聊城大学东昌学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qdc.edu.cn",
+          "name": "青岛城市学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wfit.edu.cn",
+          "name": "潍坊理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://ys.sdufe.edu.cn",
+          "name": "山东财经大学燕山学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.swut.cn",
+          "name": "山东外国语职业技术大学",
+          "addr": "日照市"
+        },
+        {
+          "link": "http://www.tskjxy.edu.cn",
+          "name": "泰山科技学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.huayu.edu.cn",
+          "name": "山东华宇工学院",
+          "addr": "德州市"
+        },
+        {
+          "link": "http://www.sdws.edu.cn",
+          "name": "山东外事职业大学",
+          "addr": "威海市"
+        },
+        {
+          "link": "http://www.oucqdc.edu.cn",
+          "name": "青岛工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hdxy.edu.cn",
+          "name": "青岛农业大学海都学院",
+          "addr": "烟台市"
+        },
+        {
+          "link": "http://www.qlit.edu.cn",
+          "name": "齐鲁理工学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdor.cn",
+          "name": "山东财经大学东方学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.ytkj.edu.cn",
+          "name": "烟台科技学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qdfa.edu.cn",
+          "name": "青岛电影学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdmc.net.cn",
+          "name": "山东医学高等专科学校",
+          "addr": "临沂市"
+        },
+        {
+          "link": "http://www.hzmc.edu.cn",
+          "name": "菏泽医学专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sict.edu.cn",
+          "name": "山东商业职业技术学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sepc.edu.cn",
+          "name": "山东电力高等专科学校",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.rzpt.cn",
+          "name": "日照职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qtc.edu.cn",
+          "name": "青岛职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.weihaicollege.com",
+          "name": "威海职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdp.edu.cn",
+          "name": "山东职业学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdlvtc.cn",
+          "name": "山东劳动职业技术学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.lwvc.net",
+          "name": "莱芜职业技术学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.jnzjxy.com.cn",
+          "name": "济宁职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdwfvc.com",
+          "name": "潍坊职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ytvc.com.cn",
+          "name": "烟台职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dyxy.net",
+          "name": "东营职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lctvu.sd.cn",
+          "name": "聊城职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.edubzvc.com.cn",
+          "name": "滨州职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://sdvcst.edu.cn",
+          "name": "山东科技职业学院",
+          "addr": "潍坊市"
+        },
+        {
+          "link": "http://www.svict.com",
+          "name": "山东服装职业学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.sdwrp.com",
+          "name": "山东水利职业学院",
+          "addr": "日照市"
+        },
+        {
+          "link": "http://www.sdmyxy.cn",
+          "name": "山东畜牧兽医职业学院",
+          "addr": "潍坊市"
+        },
+        {
+          "link": "http://www.sdjtzyxy.com",
+          "name": "山东交通职业学院",
+          "addr": "潍坊市"
+        },
+        {
+          "link": "http://www.zbvc.cn",
+          "name": "淄博职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdftcollege.com.cn",
+          "name": "山东外贸职业学院",
+          "addr": "青岛市"
+        },
+        {
+          "link": "http://www.qchm.edu.cn",
+          "name": "青岛酒店管理职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdcit.cn",
+          "name": "山东信息职业技术学院",
+          "addr": "潍坊市"
+        },
+        {
+          "link": "http://www.qdgw.com",
+          "name": "青岛港湾职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdslvc.com",
+          "name": "山东胜利职业学院",
+          "addr": "东营市"
+        },
+        {
+          "link": "http://www.sdecu.com",
+          "name": "山东经贸职业学院",
+          "addr": "潍坊市"
+        },
+        {
+          "link": "http://www.sdivc.net.cn",
+          "name": "山东工业职业学院",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.qledu.net",
+          "name": "山东化工职业学院",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.jnvc.edu.cn",
+          "name": "济南职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ytetc.edu.cn",
+          "name": "烟台工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dzvtc.cn",
+          "name": "德州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zzkjxy.com",
+          "name": "枣庄科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zbnc.edu.cn",
+          "name": "淄博师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.stcmchina.com",
+          "name": "山东中医药高等专科学校",
+          "addr": "烟台市"
+        },
+        {
+          "link": "http://www.jngcxy.com",
+          "name": "济南工程职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdcet.cn",
+          "name": "山东电子职业技术学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.sdts.net.cn",
+          "name": "山东旅游职业学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.shlzhj.net",
+          "name": "山东铝业职业学院",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.mtotc.com",
+          "name": "泰山职业技术学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.sddfvc.cn",
+          "name": "山东药品食品职业学院",
+          "addr": "威海市"
+        },
+        {
+          "link": "http://www.sdbi.com.cn",
+          "name": "山东商务职业学院",
+          "addr": "烟台市"
+        },
+        {
+          "link": "http://www.silkedu.com",
+          "name": "山东轻工职业学院",
+          "addr": "淄博市"
+        },
+        {
+          "link": "http://www.sdcjxy.com",
+          "name": "山东城市建设职业学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.ytqcvc.cn",
+          "name": "烟台汽车工程职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdsfjy.com",
+          "name": "山东司法警官职业学院",
+          "addr": "🛂济南市"
+        },
+        {
+          "link": "http://www.hzjzxy.com",
+          "name": "菏泽家政职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.sdcmc.net",
+          "name": "山东传媒职业学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.lyzyxy.com",
+          "name": "临沂职业学院",
+          "addr": ""
+        },
+        {
+          "link": "",
+          "name": "山东城市服务职业学院",
+          "addr": "4137014809 烟台市"
+        },
+        {
+          "link": "http://www.fareast-edu.net",
+          "name": "曲阜远东职业技术学院",
+          "addr": "济宁市"
+        },
+        {
+          "link": "http://www.dzkjqd.edu.cn",
+          "name": "德州科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.6789.com.cn",
+          "name": "山东力明科技职业学院",
+          "addr": "泰安市"
+        },
+        {
+          "link": "http://www.suu.com.cn",
+          "name": "山东圣翰财贸职业学院",
+          "addr": "济南市"
+        },
+        {
+          "link": "http://www.feiyangcollege.com",
+          "name": "青岛飞洋职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.dykj.edu.cn",
+          "name": "东营科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qdgw.com",
+          "name": "青岛港湾职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://sdbky.cn",
+          "name": "滨州科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "",
+          "name": "潍坊食品科技职业学院",
+          "addr": "4137014810"
+        },
+        {
+          "link": "",
+          "name": "烟台城市科技职业学院",
+          "addr": "4137014811"
+        }
+      ]
+    },
     {
       "city_id": 41,
       "quote": "河南",
