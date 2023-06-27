@@ -4480,7 +4480,552 @@
         }
       ]
     },
-    { "city_id": 33, "quote": "浙江", "university": [] },
+    {
+      "city_id": 33,
+      "quote": "浙江",
+      "university": [
+        {
+          "link": "http://www.zju.edu.cn",
+          "name": "浙江大学",
+          "addr": "杭州市 竺可桢学院、海宁国际小区、长三角智慧绿洲"
+        },
+        {
+          "link": "http://www.hdu.edu.cn",
+          "name": "杭州电子科技大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjut.edu.cn",
+          "name": "浙江工业大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zist.edu.cn",
+          "name": "浙江理工大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjou.edu.cn",
+          "name": "浙江海洋大学",
+          "addr": "舟山市"
+        },
+        {
+          "link": "http://www.zjfc.edu.cn",
+          "name": "浙江农林大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.wmu.edu.cn",
+          "name": "温州医科大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zcmu.edu.cn",
+          "name": "浙江中医药大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjnu.edu.cn",
+          "name": "浙江师范大学",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.hznu.edu.cn",
+          "name": "杭州师范大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjhu.edu.cn",
+          "name": "湖州师范学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zscas.edu.cn",
+          "name": "绍兴文理学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tzc.edu.cn",
+          "name": "台州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wzu.edu.cn",
+          "name": "温州大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lsu.edu.cn",
+          "name": "丽水学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hzic.edu.cn",
+          "name": "浙江工商大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjxu.edu.cn",
+          "name": "嘉兴学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.caa.edu.cn",
+          "name": "中国美术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.cjlu.edu.cn",
+          "name": "中国计量大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjwu.net",
+          "name": "浙江万里学院",
+          "addr": "宁波市"
+        },
+        {
+          "link": "http://www.zust.edu.cn",
+          "name": "浙江科技学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjweu.edu.cn",
+          "name": "浙江水利水电学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zufe.edu.cn",
+          "name": "浙江财经大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjjcxy.cn",
+          "name": "浙江警察学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.qzc.edu.cn",
+          "name": "衢州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nbu.edu.cn",
+          "name": "宁波大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjicm.edu.cn",
+          "name": "浙江传媒学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zucc.edu.cn",
+          "name": "浙大城市学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.nbt.edu.cn",
+          "name": "浙大宁波理工学院",
+          "addr": "宁波市"
+        },
+        {
+          "link": "http://www.hmc.edu.cn",
+          "name": "杭州医学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjhzu.edu.cn",
+          "name": "湖州学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wzut.edu.cn",
+          "name": "温州理工学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxnhu.edu.cn",
+          "name": "嘉兴南湖学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.zisu.edu.cn/",
+          "name": "浙江外国语学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjcm.edu.cn",
+          "name": "浙江音乐学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjpc.net.cn",
+          "name": "浙江药科职业大学",
+          "addr": "宁波市"
+        },
+        {
+          "link": "http://www.nottingham.edu.cn",
+          "name": "宁波诺丁汉大学",
+          "addr": ""
+        },
+        {
+          "link": "http://wku.edu.cn",
+          "name": "温州肯恩大学",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjsru.edu.cn",
+          "name": "浙江树人学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.yxc.cn",
+          "name": "浙江越秀外国语学院",
+          "addr": "绍兴市"
+        },
+        {
+          "link": "http://www.nbufe.edu.cn",
+          "name": "宁波财经学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjsru.edu.cn",
+          "name": "浙江广厦建设职业技术大学",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.zjc.zjut.edu.cn",
+          "name": "浙江工业大学之江学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjxz.edu.cn",
+          "name": "浙江师范大学行知学院",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.ndky.edu.cn",
+          "name": "宁波大学科学技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://infoedu.hdu.edu.cn",
+          "name": "杭州电子科技大学信息工程学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ky.zstu.edu.cn",
+          "name": "浙江理工大学科技与艺术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjyc.edu.cn",
+          "name": "浙江农林大学暨阳学院",
+          "addr": "绍兴市"
+        },
+        {
+          "link": "http://rjxy.wmu.edu.cn",
+          "name": "温州医科大学仁济学院",
+          "addr": ""
+        },
+        {
+          "link": "http://bjxy.zcmu.edu.cn",
+          "name": "浙江中医药大学滨江学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://qjxy.hznu.edu.cn",
+          "name": "杭州师范大学钱江学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ypc.edu.cn",
+          "name": "绍兴文理学院元培学院",
+          "addr": ""
+        },
+        {
+          "link": "http://hsy.zjgsu.edu.cn",
+          "name": "浙江工商大学杭州商学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.ldxk.edu.cn",
+          "name": "中国计量大学现代科技学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zufedfc.edu.cn",
+          "name": "浙江财经大学东方学院",
+          "addr": "嘉兴市"
+        },
+        {
+          "link": "http://www.wzbc.edu.cn",
+          "name": "温州商学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tjzj.edu.cn",
+          "name": "同济大学浙江学院",
+          "addr": "嘉兴市"
+        },
+        {
+          "link": "http://www.shufe-zj.edu.cn",
+          "name": "上海财经大学浙江学院",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.westlake.edu.cn",
+          "name": "西湖大学",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjhyxy.net",
+          "name": "浙江横店影视职业学院",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.nbptweb.net",
+          "name": "宁波职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wzvtc.cn",
+          "name": "温州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjvtit.edu.cn",
+          "name": "浙江交通职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.jhc.cn",
+          "name": "金华职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.nbcccj.com",
+          "name": "宁波城市职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjevtc.cn",
+          "name": "浙江电力职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjtongji.edu.cn",
+          "name": "浙江同济科技职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjbti.net.cn",
+          "name": "浙江工商职业技术学院",
+          "addr": "宁波市"
+        },
+        {
+          "link": "http://www.tzvtc.com",
+          "name": "台州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjitc.net",
+          "name": "浙江工贸职业技术学院",
+          "addr": "温州市"
+        },
+        {
+          "link": "http://www.zime.edu.cn",
+          "name": "浙江机电职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjjy.net",
+          "name": "浙江建设职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zj-art.com",
+          "name": "浙江艺术职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjiet.edu.cn",
+          "name": "浙江经贸职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjvcc.edu.cn",
+          "name": "浙江商业职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjtie.edu.cn",
+          "name": "浙江经济职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.tczj.net",
+          "name": "浙江旅游职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjjy.com.cn",
+          "name": "浙江警官职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjfc.com.cn",
+          "name": "浙江金融职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjipc.com",
+          "name": "浙江工业职业技术学院",
+          "addr": "绍兴市"
+        },
+        {
+          "link": "http://www.hzvtc.edu.cn",
+          "name": "杭州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.jxvtc.net",
+          "name": "嘉兴职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.hzvtc.net",
+          "name": "湖州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qzct.net",
+          "name": "衢州职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.lszjy.com",
+          "name": "丽水职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.ywu.cn",
+          "name": "义乌工商职业技术学院",
+          "addr": "金华市"
+        },
+        {
+          "link": "http://www.zjff.net",
+          "name": "浙江纺织服装职业技术学院",
+          "addr": "宁波市"
+        },
+        {
+          "link": "http://www.hzaspt.edu.cn",
+          "name": "杭州科技职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zptc.cn",
+          "name": "浙江邮电职业技术学院",
+          "addr": "绍兴市"
+        },
+        {
+          "link": "http://www.nchs.edu.cn",
+          "name": "宁波卫生职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.tzvcst.net",
+          "name": "台州科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zimc.cn",
+          "name": "浙江国际海运职业技术学院",
+          "addr": "舟山市"
+        },
+        {
+          "link": "http://www.zjcs.net.cn",
+          "name": "浙江体育职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.wzvcst.cn",
+          "name": "温州科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjabc.edu.cn",
+          "name": "浙江农业商贸职业学院",
+          "addr": "绍兴市"
+        },
+        {
+          "link": "http://www.zcse.edu.cn",
+          "name": "浙江特殊教育职业学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.zjcst.edu.cn",
+          "name": "浙江安防职业技术学院",
+          "addr": "温州市"
+        },
+        {
+          "link": "http://www.zsthc.com",
+          "name": "浙江舟山群岛新区旅游与健康职业学院",
+          "addr": "舟山市"
+        },
+        {
+          "link": "http://www.ncec.edu.cn",
+          "name": "宁波幼儿师范高等专科学校",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjyyc.com",
+          "name": "浙江育英职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.sxvtc.com",
+          "name": "绍兴职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.zjdfc.com",
+          "name": "浙江东方职业技术学院",
+          "addr": "温州市"
+        },
+        {
+          "link": "http://www.zjczxy.cn",
+          "name": "浙江长征职业技术学院",
+          "addr": "杭州市"
+        },
+        {
+          "link": "http://www.jxnyc.net",
+          "name": "嘉兴南洋职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.wxpoly.cn",
+          "name": "杭州万向职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.geelyedu.com",
+          "name": "浙江汽车职业技术学院",
+          "addr": "台州市"
+        },
+        {
+          "link": "http://yxwy.org",
+          "name": "浙江宇翔职业技术学院",
+          "addr": "湖州市"
+        },
+        {
+          "link": "http://www.zjkm.com.cn",
+          "name": "浙江金华科贸职业技术学院",
+          "addr": "金华市"
+        }
+      ]
+    },
     { "city_id": 34, "quote": "安徽", "university": [] },
     { "city_id": 35, "quote": "福建", "university": [] },
     { "city_id": 36, "quote": "江西", "university": [] },
