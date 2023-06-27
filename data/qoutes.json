@@ -13126,7 +13126,73 @@
         { "link": "#mulu", "name": "▲", "addr": "" }
       ]
     },
-    { "city_id": 63, "quote": "青海", "university": [] },
+    {
+      "city_id": 63,
+      "quote": "青海",
+      "university": [
+        {
+          "link": "http://www.qhu.edu.cn",
+          "name": "青海大学",
+          "addr": "西宁市 "
+        },
+        {
+          "link": "http://www.qhnu.edu.cn",
+          "name": "青海师范大学",
+          "addr": "西宁市 "
+        },
+        {
+          "link": "http://www.qhmu.edu.cn",
+          "name": "青海民族大学",
+          "addr": "西宁市 "
+        },
+        {
+          "link": "http://klc.qhu.edu.cn",
+          "name": "昆仑学院",
+          "addr": "西宁市 "
+        },
+        {
+          "link": "http://www.qhwszy.edu.cn",
+          "name": "青海卫生职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "https://www.qhjyedu.com/",
+          "name": "青海警官职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qhxmzy.cn",
+          "name": "青海农牧科技职业学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qhctc.edu.cn",
+          "name": "青海交通职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qhnews.com/bdt/jt/jzxy/",
+          "name": "青海建筑职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.xncy.edu.cn",
+          "name": "西宁城市职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://www.qhvtc.edu.cn",
+          "name": "青海高等职业技术学院",
+          "addr": ""
+        },
+        {
+          "link": "http://61.133.238.121",
+          "name": "青海柴达木职业技术学院",
+          "addr": ""
+        },
+        { "link": "#mulu", "name": "▲", "addr": "" }
+      ]
+    },
     { "city_id": 64, "quote": "宁夏", "university": [] },
     { "city_id": 65, "quote": "新疆", "university": [] }
   ]
