@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "slug": "985",
+      "university": ["部属本科 39"],
+      "total": 39,
+      "id": 1,
+      "name": "985高校",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "211",
+      "university": ["部属本科 116"],
+      "total": 116,
+      "id": 2,
+      "name": "211高校",
+      "description": "",
+      "tags": []
+    },
+    {
       "slug": "beijing",
       "university": ["部属本科 39", "省属本科 22", "民办本科 6", "专科数 25"],
       "total": 92,
@@ -9,6 +27,7 @@
       "description": "",
       "tags": []
     },
+
     {
       "slug": "tianjin",
       "university": ["部属本科 3", "省属本科 16", "民办本科 11", "专科数 26"],
