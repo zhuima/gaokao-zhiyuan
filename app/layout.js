@@ -16,6 +16,13 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: '高考志愿填报',
   description: '高考志愿填报，中国大学三千所，助力考生选大学',
+  keywords: [
+    '高考填志愿',
+    '高考志愿填报',
+    '高考志愿填报系统',
+    '高考志愿填报网站',
+    '中国大学目录',
+  ],
 }
 
 export default function RootLayout({ children }) {
