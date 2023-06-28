@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.logo-gif #logoBg,
+.logo-gif:hover #logo {
+  display: none;
+}
+
+.logo-gif:hover #logoBg {
+  display: block;
+}
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;

@@ -13,8 +13,25 @@ export const Navigation = () => {
   return (
     <div className="sticky top-0 backdrop-blur-xl bg-[rgba(0,0,0,0.8)] border-b border-slate-800 z-50">
       <Container className="flex justify-between py-5">
-        <Link href="/">
-          <Image src="/logo.png" alt="Family Guy" width={70} height={50} />
+        <Link
+          href="/"
+          className="flex justify-center items-center text-center w-12 h-12 logo-gif"
+        >
+          <Image
+            id="logo"
+            src="/logo.svg"
+            alt="Family Guy"
+            width={70}
+            height={50}
+          />
+          <Image
+            className="relative bottom-1 left-1"
+            id="logoBg"
+            src="/fire.gif"
+            alt="fire background"
+            width={70}
+            height={50}
+          ></Image>
         </Link>
         <Link
           href="/cities"

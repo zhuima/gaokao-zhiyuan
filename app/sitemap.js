@@ -1,4 +1,5 @@
 // app/sitemap.js
+// https://claritydev.net/blog/nextjs-dynamic-sitemap-pages-app-directory
 
 const URL = 'https://gkzy.ruankao.eu.org'
 
