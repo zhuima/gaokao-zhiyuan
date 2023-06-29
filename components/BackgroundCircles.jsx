@@ -38,7 +38,7 @@ export const BackgroundCircles = () => {
         viewBox="0 0 1026 1026"
         fill="none"
         aria-hidden="true"
-        className="absolute inset-0 h-full hidden lg:flex w-[40%] animate-spin-reverse-slower mx-auto "
+        className="absolute inset-0 h-full hidden lg:flex w-[40%] animate-spin-reverse-slower items-center mx-auto "
       >
         <path
           d="M913 513c0 220.914-179.086 400-400 400S113 733.914 113 513s179.086-400 400-400 400 179.086 400 400Z"
