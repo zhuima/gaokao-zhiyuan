@@ -23,6 +23,7 @@ export const Navigation = () => {
             alt="Family Guy"
             width={70}
             height={50}
+            priority={true}
           />
           <Image
             className="relative bottom-1 left-1"
@@ -31,6 +32,7 @@ export const Navigation = () => {
             alt="fire background"
             width={70}
             height={50}
+            priority={true}
           ></Image>
         </Link>
         <Link
