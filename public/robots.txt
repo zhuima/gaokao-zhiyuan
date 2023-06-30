@@ -1,2 +1,5 @@
-User-agent: *
-Disallow:
+User-Agent: *
+Allow: /
+Disallow: /cities/
+
+Sitemap: https://gkzy.ruankao.eu.org/sitemap.xml
