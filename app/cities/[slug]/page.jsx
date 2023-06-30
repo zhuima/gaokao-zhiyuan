@@ -13,10 +13,11 @@ import { getAllCities, getCityBySlug } from '@/lib/cities'
 
 // export const dynamicParams = false
 
-// export async function generateStaticParams() {
-//   const { characters } = await getAllCharacters()
-//   return characters.map(character => ({ slug: character.slug }))
-// }
+export async function generateStaticParams() {
+  const cities = await getAllCities()
+
+  return cities.cities.map(city => ({ slug: city.slug }))
+}
 
 export default async function Page({ params }) {
   const { city, city_qoutes } = await getCityBySlug(params.slug)
@@ -100,7 +101,7 @@ export default async function Page({ params }) {
                           <span className="mr-3">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
-                              enable-background="new 0 0 24 24"
+                              enableBackground="new 0 0 24 24"
                               height="20px"
                               viewBox="0 0 24 24"
                               width="20px"
