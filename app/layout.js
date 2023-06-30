@@ -10,12 +10,13 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import { Navigation } from '@/components'
+import Authprovider from './Authprovider'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: '高考志愿填报',
-  description: '高考志愿填报，中国大学三千所，助力考生选大学',
+  title: '高考志愿指南',
+  description: '高考志愿指南，高考志愿填报指南，中国大学三千所，助力考生选大学',
   keywords: [
     '高考填志愿',
     '高考志愿填报',
@@ -27,11 +28,13 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>
-        <Navigation />
-        {children}
-      </body>
-    </html>
+    <Authprovider>
+      <html lang="en">
+        <body className={inter.className}>
+          <Navigation />
+          {children}
+        </body>
+      </html>
+    </Authprovider>
   )
 }

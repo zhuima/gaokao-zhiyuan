@@ -14,7 +14,7 @@ import { getAllCities, getCityBySlug } from '@/lib/cities'
 export async function generateMetadata({ params }) {
   const { city, city_qoutes } = await getCityBySlug(params.slug)
   return {
-    title: `${city?.name} 地区高校分布情况`,
+    title: `${city?.name}|地区高校分布情况`,
     description: city?.description,
   }
 }
