@@ -37,11 +37,21 @@ export const Navigation = () => {
         </Link>
         <Link
           href="/cities"
-          className="flex items-center justify-center gap-1 px-5 font-semibold text-black transition-colors bg-green-500 rounded-md duration-600 hover:bg-green-600"
+          className="flex items-center justify-center px-3 font-semibold text-black transition-colors bg-green-500 rounded-md duration-600 hover:bg-green-600"
         >
-          <TbArrowBigRightFilled className="text-lg" />
           高校导航
         </Link>
+        <Link
+          href="/university"
+          className="flex items-center justify-center font-semibold text-white "
+        >
+          高校检索
+        </Link>
+        {/* <SignInButton />
+
+        <AuthCheck>
+          <SignOutButton />
+        </AuthCheck> */}
       </Container>
     </div>
   )

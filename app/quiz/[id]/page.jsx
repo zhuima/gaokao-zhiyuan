@@ -9,7 +9,7 @@ Renders a Next.js page component that displays a quiz question and its answer op
 
 import { Container } from '@/components'
 import { Answer } from '@/components/Answer'
-import { endpoint } from '@/utils/endpoint'
+// import { NEXT_PUBLIC_API } from '@/utils/NEXT_PUBLIC_API'
 
 export default async function Page({ params }) {
   return (

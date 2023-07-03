@@ -10,7 +10,7 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
 import { Navigation } from '@/components'
-import Authprovider from './Authprovider'
+// import Authprovider from './Authprovider'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -28,13 +28,11 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <Authprovider>
-      <html lang="en">
-        <body className={inter.className}>
-          <Navigation />
-          {children}
-        </body>
-      </html>
-    </Authprovider>
+    <html lang="en" suppressHydrationWarning={true}>
+      <body className={inter.className} suppressHydrationWarning={true}>
+        <Navigation />
+        {children}
+      </body>
+    </html>
   )
 }

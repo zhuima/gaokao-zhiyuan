@@ -5,20 +5,21 @@ Renders a Next.js page component that displays a grid of character avatars with 
 @returns {JSX.Element} The rendered page component.
 */
 import Link from 'next/link'
+
 import { Container, BackgroundCircles } from '@/components'
 
 export default async function Page() {
   // console.log('source item content', data)
+
   return (
     <div className="dark:bg-[#111a31] bg-gray-50">
-      {/* <h2>高等院校三千所 👨‍🎓 助力考生选大学</h2> */}
-      <div className="flex max-w-5xl mx-auto flex-col items-center justify-center min-h-screen flex max-w-5xl mx-auto flex-col items-center justify-center py-2">
-        <div className="z-0">
+      <div className="flex max-w-5xl mx-auto flex-col items-center justify-center min-h-screen flex max-w-5xl mx-auto flex-col items-center justify-center py-2 mt-10">
+        <div className=" z-0">
           <BackgroundCircles />
         </div>
 
         <main className="flex z-10 flex-1 w-full flex-col items-center justify-center text-center px-4 -mt-60 ">
-          <h1 className="mx-auto z-2 -mt-30 max-w-4xl font-bold text-3xl tracking-tight text-slate-900 sm:text-5xl dark:text-white">
+          <h1 className="mx-auto z-2 -mt-30  font-bold text-3xl tracking-tight text-slate-900 md:text-4xl sm:text-5xl dark:text-white">
             高等院校三千所 助力考生选大学{' '}
             <p className="relative whitespace-nowrap text-blue-600 mt-5">
               <svg

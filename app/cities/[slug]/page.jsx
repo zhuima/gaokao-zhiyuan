@@ -55,11 +55,11 @@ export default async function Page({ params }) {
         <>
           <h2 className="text-xl font-bold">高校分布</h2>
           <ul className="flex flex-wrap gap-1">
-            {city.university.map(item => {
+            {city.university.map((item, idx) => {
               return (
                 <li
                   className="flex justify-center flex-grow px-2 py-1 text-orange-400 rounded-md bg-orange-950"
-                  key={item}
+                  key={item - idx}
                 >
                   {item}
                 </li>
@@ -94,7 +94,7 @@ export default async function Page({ params }) {
             {city_qoutes[0]?.university?.map((item, idx) => {
               return (
                 <div
-                  key={item}
+                  key={item - idx}
                   className="flex flex-col border rounded-lg overflow-hidden bg-white"
                 >
                   <div className="grid grid-cols-1 sm:grid-cols-4">
