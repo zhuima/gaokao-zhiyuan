@@ -37,7 +37,7 @@ export const Navigation = () => {
         </Link>
         <Link
           href="/cities"
-          className="flex items-center justify-center px-3 font-semibold text-black transition-colors bg-green-500 rounded-md duration-600 hover:bg-green-600"
+          className="flex items-center justify-center px-3 font-semibold text-white"
         >
           高校导航
         </Link>
