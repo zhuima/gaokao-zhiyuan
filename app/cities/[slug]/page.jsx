@@ -10,7 +10,6 @@ import Link from 'next/link'
 
 import { Container } from '@/components'
 import { getAllCities, getCityBySlug } from '@/lib/cities'
-import ReadingBar from '@/Components/ReadingBar'
 
 export async function generateMetadata({ params }) {
   const { city, city_qoutes } = await getCityBySlug(params.slug)
@@ -35,9 +34,8 @@ export default async function Page({ params }) {
 
   return (
     <>
-      <Container className="flex flex-col gap-5 py-5" as="main">
-        <ReadingBar />
 
+      <Container className="flex flex-col gap-5 py-5" as="main">
         <div className="flex flex-col gap-2">
           <h1 className="text-2xl font-semibold capitalize">{city.name}</h1>
           {/* <ul className="flex gap-1 text-sm">

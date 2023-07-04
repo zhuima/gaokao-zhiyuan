@@ -12,6 +12,7 @@ import NextTopLoader from 'nextjs-toploader'
 import { Inter } from 'next/font/google'
 import { Navigation } from '@/components'
 import ScrollToTop from '@/components/ScrollToTopButton'
+import ReadingBar from '@/Components/ReadingBar'
 
 import './globals.css'
 
@@ -36,6 +37,8 @@ export default function RootLayout({ children }) {
     <html lang="en" suppressHydrationWarning={true}>
       <body className={inter.className} suppressHydrationWarning={true}>
         <NextTopLoader />
+        <ReadingBar />
+
         <Navigation />
         {children}
         <ScrollToTop />
