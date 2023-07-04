@@ -11,6 +11,7 @@ import NextTopLoader from 'nextjs-toploader'
 
 import { Inter } from 'next/font/google'
 import { Navigation } from '@/components'
+import ScrollToTop from '@/components/ScrollToTopButton'
 import './globals.css'
 
 // import Authprovider from './Authprovider'
@@ -36,6 +37,7 @@ export default function RootLayout({ children }) {
         <NextTopLoader />
         <Navigation />
         {children}
+        <ScrollToTop />
       </body>
     </html>
   )

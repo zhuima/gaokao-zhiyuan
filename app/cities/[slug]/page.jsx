@@ -59,7 +59,7 @@ export default async function Page({ params }) {
               return (
                 <li
                   className="flex justify-center flex-grow px-2 py-1 text-orange-400 rounded-md bg-orange-950"
-                  key={item - idx}
+                  key={idx}
                 >
                   {item}
                 </li>
@@ -94,7 +94,7 @@ export default async function Page({ params }) {
             {city_qoutes[0]?.university?.map((item, idx) => {
               return (
                 <div
-                  key={item - idx}
+                  key={idx}
                   className="flex flex-col border rounded-lg overflow-hidden bg-white"
                 >
                   <div className="grid grid-cols-1 sm:grid-cols-4">
