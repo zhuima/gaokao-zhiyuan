@@ -1,6 +1,7 @@
 'use client'
 // import { useEffect, useState } from 'react'
 import ProgressBar from 'react-progressbar-on-scroll'
+
 function ReadingBar() {
   //   const [completion, setCompletion] = useState(0)
 

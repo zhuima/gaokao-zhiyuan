@@ -38,7 +38,6 @@ export default function RootLayout({ children }) {
       <body className={inter.className} suppressHydrationWarning={true}>
         <NextTopLoader />
         <ReadingBar />
-
         <Navigation />
         {children}
         <ScrollToTop />
