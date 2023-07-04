@@ -1,3 +1,5 @@
+// https://rapidapi.com/guides/loading-state-react
+// https://stackabuse.com/how-to-create-a-loading-animation-in-react-with-react-spinners/
 'use client'
 import { useState, Suspense } from 'react'
 import HashLoader from 'react-spinners/HashLoader'
@@ -63,9 +65,6 @@ export default function SearchForm() {
           </form>
         </div>
       </div>
-      {/* {searchResults.length > 1 && (
-        <UniversityQueryList source={searchResults} name={keyword} />
-      )} */}
 
       {loadingInProgress ? (
         <Container className="flex flex-col gap-5 py-5">
