@@ -7,9 +7,12 @@
  * @returns {JSX.Element} The rendered root layout.
  */
 
-import './globals.css'
+import NextTopLoader from 'nextjs-toploader'
+
 import { Inter } from 'next/font/google'
 import { Navigation } from '@/components'
+import './globals.css'
+
 // import Authprovider from './Authprovider'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -30,6 +33,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning={true}>
       <body className={inter.className} suppressHydrationWarning={true}>
+        <NextTopLoader />
         <Navigation />
         {children}
       </body>
