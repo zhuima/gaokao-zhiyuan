@@ -1,17 +1,24 @@
 'use client'
 import { useState, Suspense } from 'react'
+import HashLoader from 'react-spinners/HashLoader'
+import { Container } from '@/components'
+
 import { getUniversityByFilter } from '@/lib/universities'
 import UniversityQueryList from '@/components/UniversityQueryList'
 
 export default function SearchForm() {
+  const [loadingInProgress, setLoading] = useState(false)
   const [searchResults, setSearchResults] = useState([])
   const [keyword, setKeyword] = useState('')
   // 获取搜索框的内容, 前面犯了一个错误，拿就是组件也搞成了异步，导致浏览器资源一直飙升，而页面加载老是失败, 2023-07-02 问题倒腾了好久
   const filterUniversity = async event => {
     event.preventDefault()
+    // Before calling the API
+    setLoading(true)
     const name = event.target.name.value
-
     const res = await getUniversityByFilter(name)
+    // After response is received
+    setLoading(false)
     setKeyword(name)
     setSearchResults(res.universities)
     console.log('name', name, '------->,resuls', searchResults)
@@ -34,7 +41,7 @@ export default function SearchForm() {
                 name="name"
                 type="text"
                 placeholder="根据大学名称或关键字检索"
-                autocomplete="off"
+                autoComplete="off"
                 required
               />
               {/* <input
@@ -43,7 +50,7 @@ export default function SearchForm() {
                 id="name"
                 placeholder="根据大学名称或关键字检索"
                 class="w-full rounded-md border border-gray-300 px-3 py-2.5 placeholder-gray-300 shadow shadow-gray-100 focus:border-gray-500 focus:outline-none valid:[&:not(:placeholder-shown)]:border-green-500 [&:not(:placeholder-shown):not(:focus):invalid~span]:block invalid:[&:not(:placeholder-shown):not(:focus)]:border-red-400"
-                autocomplete="off"
+                autoComplete="off"
                 required
               /> */}
               <span className="mt-2 hidden text-sm text-red-400">
@@ -56,14 +63,19 @@ export default function SearchForm() {
           </form>
         </div>
       </div>
-      {searchResults.length > 1 && (
-        <Suspense
-          fallback={
-            <span className="relative inset-0 inline-flex h-6 w-6 animate-spin items-center justify-center rounded-full border-2 border-gray-300 after:absolute after:h-8 after:w-8 after:rounded-full after:border-2 after:border-y-indigo-500 after:border-x-transparent"></span>
-          }
-        >
-          <UniversityQueryList source={searchResults} name={keyword} />
-        </Suspense>
+      {/* {searchResults.length > 1 && (
+        <UniversityQueryList source={searchResults} name={keyword} />
+      )} */}
+
+      {loadingInProgress ? (
+        <Container className="flex flex-col gap-5 py-5">
+          <HashLoader
+            color="#36d7b7"
+            className="inline-block m-auto border-red-700"
+          />
+        </Container>
+      ) : (
+        <UniversityQueryList source={searchResults} name={keyword} />
       )}
     </>
   )

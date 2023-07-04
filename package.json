@@ -24,6 +24,7 @@
     "react-icons": "^4.8.0",
     "react-page-scroll-progress-bar": "^3.0.1",
     "react-progressbar-on-scroll": "^2.0.0",
+    "react-spinners": "^0.13.8",
     "sharp": "^0.32.1",
     "tailwindcss": "3.3.2"
   }
